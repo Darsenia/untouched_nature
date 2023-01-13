@@ -1,0 +1,21 @@
+{
+  "name": "Противоядие",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/antidote.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unpotionantidote",
+  "title": "Противоядие",
+  "text":"Противоядие с несколькими использованиями."
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeantidote"
+	     
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ivy",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/vine_ivy_sprout.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ivy.png"],
+      "title": "Ivy",
+	  "text": "Distribution: Roofed Forest, Fir Forest, Forest Lowlands, Oak Grove, Forests."
+	  
+  }
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wax",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/coconut_wax.png",
+  "sortnum": 15,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcoconutwax",
+      "title": "Wax",
+      "text": "Wax is a material used for crafting candles.You can get wax from broken coconuts (smash coconut in Presser, then use Extractor),from icy chalkstick plant(in Extractor) and from soy beans paste(in Extractor)."
+	}
+	]
+}

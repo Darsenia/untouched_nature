@@ -1,0 +1,34 @@
+{
+  "name": "Хлопок",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/cotton_fiber.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unbushcotton",
+      "title": "Хлопчатник",
+      "text": "Хлопчатник-высокое растение,произрастающее в теплом и жарком климате в полях.При разрушении дает семена,при нажатии правой кнопкой мыши-волокно.Хлопчатник можно культивировать."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcottonfiber",
+      "title": "Хлопковое волокно",
+      "text": "Хлопковое волокно используется для прядения хлопковой пряжи на прялке."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcottonyarn",
+      "title": "Хлопковая пряжа",
+      "text": "Хлопковую пряжу получают с помощью прялки и используют на ткацком станке,в рецептах и для создания нитей."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcottoncloth",
+      "title": "Хлопковая ткань",
+      "text": "Хлопковая ткань производится на ткацком станке и используется в рецептах."
+	}
+	  
+	
+  ]
+}

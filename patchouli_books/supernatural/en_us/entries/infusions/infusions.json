@@ -1,0 +1,22 @@
+{
+  "name": "Infusions",
+  "category": "infusions",
+  "icon": "untouched_nature:textures/items/infusion_reindeer_moss_16.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	  "type": "text",      
+      "title": "Infusions",
+      "text": "Infusions are the very basic and easy to make brews, made from the single ingredient.There are 5 infusions: tansy, onion, garlic, bergenia, reindeer moss.All infusions are made by placing the ingredient in the fired Witch's Cauldron with water."
+	},
+	{
+	  "type": "image",      
+      "title": "Infusions recipes",
+      "images": ["untouched_nature:textures/renders/infusions.png"]
+	  
+	}
+	  
+	
+  ]
+}

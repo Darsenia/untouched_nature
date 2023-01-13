@@ -1,0 +1,17 @@
+{
+  "name": "Ipomoea White",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/vine_ipomoea_white_sprout.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ipomoea.png"],
+      "title": "Ipomoea White",
+	  "text": "Distribution: forests, Fairy Forest, Oak Grove"
+	  
+  }
+	  
+	
+  ]
+}

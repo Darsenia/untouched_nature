@@ -1,0 +1,16 @@
+{
+  "name": "Caviar",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/caviar.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcaviar",
+      "title": "Caviar",
+      "text": "Red(Salmon) caviar is a delicacy, popular in some northern countries, like Russia.You can get this caviar from a raw salmon.Currently used for making Pancakes with Caviar, a festive and expensive type of pancakes."
+	}
+	  
+	
+  ]
+}

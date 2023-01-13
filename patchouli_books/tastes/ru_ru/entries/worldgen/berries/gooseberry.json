@@ -1,0 +1,23 @@
+{
+  "name": "Крыжовник",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_gooseberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitgooseberry",
+      "title": "Крыжовник",
+      "text": "Применение:варенье."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/gooseberry.png"],
+      "title": "Куст крыжовника",
+      "text": "Крыжовник растет в умеренном климате в холмах и горах."
+	}
+	  
+	
+  ]
+}

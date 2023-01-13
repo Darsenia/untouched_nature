@@ -1,0 +1,6 @@
+{
+    "name": "Хранение",
+    "description": "Untouched Nature добавляет несколько блоков для хранения вещей.",
+	"icon": "untouched_nature:textures/renders/wicker_basket.png",
+	"sortnum": 6
+    }

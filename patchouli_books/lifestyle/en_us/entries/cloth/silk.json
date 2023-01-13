@@ -1,0 +1,22 @@
+{
+  "name": "Silk",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/silk_yarn.png",
+  "sortnum": 5,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkyarn",
+      "title": "Silk yarn",
+      "text": "Silk yarn is a result of spinning raw silk fiber by a spinning wheel.Silk fiber you can get from silk cocoons in a cauldron.Silk yarn can be used to craft strings and other things."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkcloth",
+      "title": "Silk cloth",
+      "text": "Silk cloth is used in crafting recipes."
+	}
+	  
+	
+  ]
+}

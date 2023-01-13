@@ -1,0 +1,23 @@
+{
+  "name": "Марула",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_marula.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmarula",
+      "title": "Марула",
+      "text": "Применение:варенье,вино,фруктовый салат."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/marula.png"],
+      "title": "Марула",
+      "text": "Марула растет в жарких сухих биомах,как саванна."
+	}
+	  
+	
+  ]
+}

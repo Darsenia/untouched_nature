@@ -1,0 +1,20 @@
+{
+  "name": "Жертвенная чаша",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/brazier.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbrazier",
+      "title": "Жертвенная чаша",
+      "text": "В жертвенной чаше сжигаются дары богам.Чашу необходимо разместить в центре ритуального круга,на руническом камне."
+	},
+	{
+	"type": "relations",
+	"entries": ["rituals/rituals"],
+	"title": "Связанные страницы"
+	}
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Плоды опунции",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_prickly_pear.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpricklypear",
+      "title": "Плоды опунции",
+      "text": "Применение:прямое употребление в пищу."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pricklypear.png"],
+      "title": "Опунция",
+      "text": "Опунция растет в очень сухих,жарких биомах."
+	}
+	  
+	
+  ]
+}

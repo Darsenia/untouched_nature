@@ -1,0 +1,22 @@
+{
+  "name": "Cotton grass",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/blocks/highgrass_cotton_grass.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unhighgrasscottongrass",
+      "title": "Cotton grass",
+      "text": "Cotton grass is a high grass, native to boreal and temperate plains-like biomes.Breaking cotton grass gives cotton grass puff, that can be used to make wool.However, this grass cannot be cultivated."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcottongrasspuff",
+      "title": "Cotton grass puff",
+      "text": "Cotton grass puff can be used for crafting wool."
+	}
+	  
+	
+  ]
+}

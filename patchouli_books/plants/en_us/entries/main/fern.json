@@ -1,0 +1,21 @@
+{
+  "name": "Flowering Fern",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/flower_fern_2.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/fern.png"],
+      "title": "Flowering Fern",
+	  "text":"Distribution: magical biomes / swamps if vanilla worldgen enabled."
+	  
+  },
+   	{
+	  "type": "text",      
+      "text": "Flowering Fern is a mysterious plant that shouldn't exist, but for some reason it does.It looks like a big fern, but has a giant beautiful glowing flower in the center of the bush."
+	}
+	  
+	
+  ]
+}

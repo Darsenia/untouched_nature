@@ -1,0 +1,29 @@
+{
+  "name": "Посох Света",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_shining.png",
+  "sortnum":6,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Света",
+      "text1": "На месте попадания при выстреле появляется волшебный источник света.При шифт-правый клик по блоку гасит источники света рядом.",
+	  "text2": "Жертва: пыль светокамня",
+	  "text3": "Плутон: палка из голубой древесины",
+	  "text4": "Сатурн: осколок эфирного кристалла",
+	  "text5": "Солнце: слиток олова",
+	  "text6": "Луна: халцедон"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_scheme_shining.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

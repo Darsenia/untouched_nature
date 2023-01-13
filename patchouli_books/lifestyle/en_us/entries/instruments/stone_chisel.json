@@ -1,0 +1,14 @@
+{
+  "name": "Stone chisel",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/chisel.png",
+  "sortnum": 9,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstonechisel",
+      "title": "Stone chisel",
+      "text": "Stone chisel, used in crafting recipes.Should be placed in the Stone Worker's Table left brown slot and in the Window Workbench left pink slot."
+	}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Breadfruit",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_jackfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbreadfruit",
+      "title": "Breadfruit",
+      "text": "Usage: must be sliced and slices are used in Jamaica breadfruit meal."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/breadfruit.png"],
+      "title": "Breadfruit tree",
+      "text": "Breadfruit tree grows in jungle biomes."
+	}
+	  
+	
+  ]
+}

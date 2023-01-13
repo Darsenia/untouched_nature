@@ -1,0 +1,14 @@
+{
+  "name": "Пальмовый лист",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/palm_leaf_small.png",
+  "sortnum": 4,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempalmleaf",
+      "title": "Пальмовый лист",
+      "text": "Пальмовые листья можно получить из листьев любой пальмы.Используются для строения пальмовой крыши."
+	}
+	]
+}

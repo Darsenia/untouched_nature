@@ -1,0 +1,23 @@
+{
+  "name": "Рис",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_rice_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemrice",
+      "title": "Рис",
+      "text": "Применение:вино из лотоса,вареный рис,пирожок с рисом и яйцом,роллы,рис с маракуйей,рис с мангостином."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rice.png"],
+      "title": "Рис",
+      "text": "Рис растет в lush hills.Рис-растение прибрежное,поэтому культивировать его нужно в воде глубиной в 1 блок."
+	}
+	  
+	
+  ]
+}

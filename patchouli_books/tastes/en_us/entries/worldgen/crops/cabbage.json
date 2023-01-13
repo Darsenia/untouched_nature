@@ -1,0 +1,23 @@
+{
+  "name": "Cabbage",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_cabbage_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodcabbage",
+      "title": "Cabbage",
+      "text": "Usage: shchi, stuffed bun with cabbage, pork with mangosteen, borsch, cabbage rolls."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cabbage.png"],
+      "title": "Cabbage plant",
+      "text": "Cabbage grows in temperate and warm biomes."
+	}
+	  
+	
+  ]
+}

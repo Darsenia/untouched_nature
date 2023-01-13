@@ -1,0 +1,23 @@
+{
+  "name": "Blackberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_blackberry2.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblackberry",
+      "title": "Blackberry",
+      "text": "Usage: juice, jam.The blackberry bush grows up to 3 blocks, but only the base(lowest) one can be replanted."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/blackberry.png"],
+      "title": "Blackberry bush",
+      "text": "Raspberry grows in temperate dense forests and in Grasslands"
+	}
+	  
+	
+  ]
+}

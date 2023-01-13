@@ -1,0 +1,21 @@
+{
+  "name": "Moss wisp",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/moss_sponge.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemmosswisp",
+      "title": "Moss wisp",
+      "text": "Moss wisp is used for cleaning magical cauldron from failed potions.Shift-right-click on the cauldron to remove the potion."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipemosswisp"
+	 
+	}
+	  
+	
+  ]
+}

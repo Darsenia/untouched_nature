@@ -1,0 +1,18 @@
+{
+  "name": "Compost bin",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/compost.png",
+  "sortnum": 1,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockcompostbinready",
+      "title": "Compost bin",
+      "text": "Compost bin is a simple way to get rid of useless tons of organic materials and benefit from this.Compost bin accepts all leaves, flowers, berry bushes, moss, saplings ang high grasses."
+	},
+		{
+	  "type": "text",           
+      "text": "Right-click with an organic material in hand and it will be placed inside the bin.When the bin is full, it will not accept plants any more and the process of decaying will start.When finished, right-click the bin to get 7 bonemeal."
+	}	
+  ]
+}

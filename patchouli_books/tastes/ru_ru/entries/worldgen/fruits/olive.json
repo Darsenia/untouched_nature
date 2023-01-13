@@ -1,0 +1,23 @@
+{
+  "name": "Оливки",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_olive.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitolive",
+      "title": "Оливки",
+      "text": "Применение:оливковое масло."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/olive.png"],
+      "title": "Большое оливковое дерево",
+      "text": "Оливковые деревья растут в Warm Pastoral."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cloudberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cloudberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcloudberry",
+      "title": "Cloudberry",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cloudberry.png"],
+      "title": "Cloudberry bush",
+      "text": "Cloudberry bush grows in wet, swampy biomes and tundra."
+	}
+	  
+	
+  ]
+}

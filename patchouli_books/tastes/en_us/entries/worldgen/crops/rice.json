@@ -1,0 +1,23 @@
+{
+  "name": "Rice",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_rice_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemrice",
+      "title": "Rice",
+      "text": "Usage: lotus wine, boiled rice, stuffed bun with rice and eggs, roll, passionfruit rice, mangosteen rice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rice.png"],
+      "title": "Rice plant",
+      "text": "Rice grows in lush hills biome.Rice is a waterplant, so it should be planted in one-block depth still water."
+	}
+	  
+	
+  ]
+}

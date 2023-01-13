@@ -1,0 +1,23 @@
+{
+  "name": "Шелковица",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_mulberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmulberry",
+      "title": "Шелковица",
+      "text": "Применение:варенье.Листья шелковицы едят шелкопряды."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mulberry.png"],
+      "title": "Шелковица",
+      "text": "Растет в lush autumnal forest и lush mixed forest."
+	}
+	  
+	
+  ]
+}

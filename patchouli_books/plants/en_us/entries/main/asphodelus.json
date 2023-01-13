@@ -1,0 +1,18 @@
+{
+  "name": "Asphodelus",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/bush_asphodelus.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/asphodelus.png"],
+      "title": "Asphodelus",
+	  "text": "Distribution: Warm Mixed Forest, Fairy Forest / sparse or forest biomes if vanilla world enabled."
+	  
+	  
+  }
+	  
+	
+  ]
+}

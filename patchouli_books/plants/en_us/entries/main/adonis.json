@@ -1,0 +1,17 @@
+{
+  "name": "Adonis",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_adonis.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/adonis.png"],
+      "title": "Adonis",
+	  "text": "Distribution: Steppe / plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

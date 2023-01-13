@@ -1,0 +1,14 @@
+{
+  "name": "Soldering Iron",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/soldering_iron.png",
+  "sortnum": 6,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsolderingiron",
+      "title": "Soldering Iron",
+      "text": "Useful for crafting recipes.Should be placed in the Glass Worker's Table right red slot."
+	}	
+  ]
+}

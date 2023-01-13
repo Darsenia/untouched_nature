@@ -1,0 +1,23 @@
+{
+  "name": "Оконный верстак",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/window.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwindowfactorymain",
+      "title": "Верстак для изготовления окон",
+      "text": "Специальный верстак для создания стеклянных блоков и панелей.Нажмите Next/Back кнопки для просмотра всех вариантов крафта."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguiwindowfactory.png"],      
+      "text": "Интерфейс верстака."
+	},
+	{
+	 "type": "text",      
+     "text": "Поместите каменный молот и долото в розовые слоты.Исходный материал помещается в левый слот,выберите нужный дизайн и нажмите соответсвующую кнопку.Заберите результат из правого слота."
+	}
+  ]
+}

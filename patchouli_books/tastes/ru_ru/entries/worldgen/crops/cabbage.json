@@ -1,0 +1,23 @@
+{
+  "name": "Капуста",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_cabbage_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodcabbage",
+      "title": "Капуста",
+      "text": "Применение:щи,борщ,голубцы,пирожок с капустой,свинина с мангостином."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cabbage.png"],
+      "title": "Капуста",
+      "text": "капуста растет в умеренном и теплом климате."
+	}
+	  
+	
+  ]
+}

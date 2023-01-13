@@ -1,0 +1,125 @@
+{
+  "name": "Decorative blocks",
+  "category": "deco",
+  "icon": "untouched_nature:textures/blocks/glass_disy_black.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/wicker_straw.png"],
+      "text": "Straw blocks."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/dry_bamboo_blocks.png"],
+      "text": "Dry bamboo blocks."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bamboo_blocks.png"],
+      "text": "Bamboo blocks."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/clays.png"],
+      "text": "Carved Stained Clay blocks.Crafted in Stone Worker's Table."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_lily.png","untouched_nature:textures/renders/glass_holly.png","untouched_nature:textures/renders/glass_rose.png","untouched_nature:textures/renders/glass_poppy.png","untouched_nature:textures/renders/glass_star.png","untouched_nature:textures/renders/glass_daisy.png","untouched_nature:textures/renders/glass_redstone.png","untouched_nature:textures/renders/glass_sun.png"],
+      "text": "Stained Glass.Crafted in Glass Worker's Table.Click > to see all.See Devices for more info."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/terracotta.png"],
+      "text": "Brightly colored Terracotta: lilac, crimson, cyan, white, light blue and blue."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/jade.png"],
+      "text": "Jade blocks - slighlty transparent."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/marbles.png"],
+      "text": "Malachite, Lazurite blocks and Colored Marble blocks."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/wall_green.png","untouched_nature:textures/renders/wall_yellow.png","untouched_nature:textures/renders/wall_lightblue1.png","untouched_nature:textures/renders/wall_lightblue2.png","untouched_nature:textures/renders/wall_lilac.png","untouched_nature:textures/renders/wall_lime.png","untouched_nature:textures/renders/wall_magenta.png","untouched_nature:textures/renders/wall_orange.png","untouched_nature:textures/renders/wall_gray.png","untouched_nature:textures/renders/wall_black.png","untouched_nature:textures/renders/wall_blue.png","untouched_nature:textures/renders/wall_brown.png","untouched_nature:textures/renders/wall_cyan.png","untouched_nature:textures/renders/wall_pink.png","untouched_nature:textures/renders/wall_purple.png","untouched_nature:textures/renders/wall_red1.png","untouched_nature:textures/renders/wall_red2.png","untouched_nature:textures/renders/wall_silver.png","untouched_nature:textures/renders/wall_white.png"],
+      "text": "Wallpaper blocks.Base blocks change texture if under the pattern one.Use > to see all"
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/curtains.png"],
+      "text": "Curtains.Can be colored in painting Machine.Shift+rightclick to change type."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/lattices.png"],
+      "text": "Lattices.Crafted in Stone Worker's Table."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/fence.png"],
+      "text": "Low log fence."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bigfence.png"],
+      "text": "Oak fence."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/hut_birch.png","untouched_nature:textures/renders/hut_dark.png","untouched_nature:textures/renders/hut_jungle.png","untouched_nature:textures/renders/hut_oak.png","untouched_nature:textures/renders/hut_spruce.png","untouched_nature:textures/renders/hut_acacia.png"],
+      "text": "Hut logs - every vanilla tree wood type."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/fancy.png"],
+      "text": "Fancy glass.Crafted in Window Workbench, available in all colors and as glasspanes."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_types.png"],
+      "text": "Colored glass(4 types+CTM).Made in Window Workbench,all colors+glasspanes."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_trans.png"],
+      "text": "Transparent kinds of glass(+CTM).Made in Window Workbench, also as glasspanes."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bouquets.png"],
+      "text": "Flower bouquets.Click with flower bouquet on a vase to place it,shif+click to take it out."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/pots.png"],
+      "text": "Flower Pots.Click with flower on a pot to place it,shif+click to take it out."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/lantern.png"],
+      "text": "Shinyphere lantern, wall lantern, chandelier and lantern foot."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/skulls.png"],
+      "text": "Glowing skulls."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/pearls.png"],
+      "text": "Pearl hangings."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/candles.png"],
+      "text": "Candles."
+	}
+	  
+	
+  ]
+}

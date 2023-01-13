@@ -1,0 +1,14 @@
+{
+  "name": "Palm leaf",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/palm_leaf_small.png",
+  "sortnum": 4,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempalmleaf",
+      "title": "Palm leaf",
+      "text": "Palm leaf is dropped from any palm leaves.Can be used for crafting a palm roof."
+	}
+	]
+}

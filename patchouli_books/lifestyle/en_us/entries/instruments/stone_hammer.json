@@ -1,0 +1,14 @@
+{
+  "name": "Stone hammer",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/hammer.png",
+  "sortnum": 8,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstonehammer",
+      "title": "Stone hammer",
+      "text": "Stone hammer, used in crafting recipes.Should be placed in the Stone Worker's Table right brown slot and in the Window Workbench right pink slot."
+	}
+  ]
+}

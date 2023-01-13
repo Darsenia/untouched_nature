@@ -1,0 +1,23 @@
+{
+  "name": "Cucumber",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_cucumber_4.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodcucumber",
+      "title": "Cucumber",
+      "text": "Usage: chicken roll, roll, pickled cucumbers."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cucumber.png"],
+      "title": "Cucumber plant",
+      "text": "Cucumber grows in temperate and warm biomes."
+	}
+	  
+	
+  ]
+}

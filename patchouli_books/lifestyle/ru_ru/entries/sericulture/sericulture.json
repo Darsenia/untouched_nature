@@ -1,0 +1,55 @@
+{
+  "name": "Азы шелководства",
+  "category": "sericulture",
+  "icon": "untouched_nature:textures/items/silk_yarn.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkwormlarvae",
+      "title": "Шелкопряды",
+      "text": "шелкопряды живут на шелковице,хлебном дереве и инжире.С некоторым шансом при разрушении блоков листвы этих деревьев выпадают гусеницы."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwickertray",
+      "title": "Плетеный поддон",
+      "text": "В поддоне будут жить гусеницы шелкопряда."
+	},
+	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbambootray",
+      "title": "Бамбуковый поддон",
+      "text": "В поддоне будут жить гусеницы шелкопряда."
+	},
+		{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unwickertray.png"],      
+      "text": "Схема процесса шелководства."
+	}
+	,
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unbambootray.png"],      
+      "text": "Схема процесса шелководства."
+	},
+	{
+	  "type": "text",  
+      "title":	"",  
+      "text": "Разместите поддон на земле.Положите внутрь подходящие листья.Затем положите на листья гусениц.Через некоторое время они начнут окукливаться.Положите внутрь ворох веток.Когда коконы будут готовы,соберите их."
+	}	
+	,
+	{
+	  "type": "text",        
+      "text": "Теперь нужно промыть и размягчить коконы в горячей воде,для этого подойдет обычный котел с водой.Вы получите шелковое волокно."
+	  }
+	  ,
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkfiber",
+      "title": "Шелковое волокно",
+      "text": "Шелковое волокно-сырой материал для дальнейшего прядения в прялке."
+	}
+  ]
+}

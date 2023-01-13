@@ -1,0 +1,16 @@
+{
+  "name": "Волос кошки",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/hair_cat.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcathair",
+      "title": "Волос дикой кошки",
+      "text": "Волос кошки можно получить,если удасться догнать и подстричь оцелота ножницами.Магический ингредиент."
+	}
+	  
+	
+  ]
+}

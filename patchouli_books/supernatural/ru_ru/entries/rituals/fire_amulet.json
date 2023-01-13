@@ -1,0 +1,29 @@
+{
+  "name": "Амулет Огня",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/obsidian_fire_talisman.png",
+  "sortnum":5,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Амулет Огня",
+      "text1": "Обсидиановый амулет,напитанный Саламандровой Мазью.",
+	  "text2": "Жертва: порошок кристалла огня",
+	  "text3": "Марс: обсидиановый амулет",
+	  "text4": "Солнце: Саламандровая Мазь",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_fire.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

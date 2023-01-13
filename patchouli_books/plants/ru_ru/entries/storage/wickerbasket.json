@@ -1,0 +1,16 @@
+{
+  "name": "Большая плетеная корзина",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/wicker_basket.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwickerbigbasket",
+      "title": "Большая плетеная корзина",
+      "text": "Это и впрямь вместительная корзина,изготовленная из соломы.У нее есть два слоя хранения,переключаемые кнопками.Сохраняет в себе предметы при разрушении."
+	}
+	  
+	
+  ]
+}

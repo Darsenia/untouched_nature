@@ -1,0 +1,29 @@
+{
+  "name": "Посох Огня",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_fire_paricles.png",
+  "sortnum":4,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Огня",
+      "text1": "Зажигает жертв.Растапливает лед в области 2x2x2.Шифт-правый клик для зажигания адского канмя,портала или переплавления руды.",
+	  "text2": "Жертва: колючее растение.",
+	  "text3": "Плутон: дубовая палка",
+	  "text4": "Юпитер: осколок кристалла огня",
+	  "text5": "Солнце: золотой слиток",
+	  "text6": "Марс: гранат(камень)"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_fire_stuff.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

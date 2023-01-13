@@ -1,0 +1,16 @@
+{
+  "name": "Пучок волос лошади",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/horse_hair_lock.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemhorsehairlock",
+      "title": "Пучок волос лошади",
+      "text": "Волосы лошади легко получить при стрижке лошади ножницами.Используются для изготовления кисточек."
+	}
+	  
+	
+  ]
+}

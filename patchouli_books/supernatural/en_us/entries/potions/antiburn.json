@@ -1,0 +1,25 @@
+{
+  "name": "Antiburn Salve",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/antiburn_cream.png",
+  "sortnum":13,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Antiburn Salve",
+      "text1": "Antiburn Salve is a beginner's potion, which can help against fire.",
+	  "text2": "Time: 500 ticks.",
+	  "text3": "Effects: extinguishes player.",
+	  "text4": "Initial solvent: flax oil."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/antiburn.png"]
+	  
+	}
+	  
+	
+  ]
+}

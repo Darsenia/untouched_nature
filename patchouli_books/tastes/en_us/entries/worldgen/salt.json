@@ -1,0 +1,52 @@
+{
+  "name": "Salt",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/salt.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsalt",
+      "title": "Salt",
+      "text": "Salt is the most popular and essential condiment in the world.It is used in many meals and for preserving food, as well as in the magical recipes.There are two ways of getting salt : mining rock salt and vaporization of salty water."
+	},
+	 {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockrocksalt",
+      "title": "Rock salt",
+      "text": "Rock salt is a layer of salt crystals on the rock.Can be mined and used directly for food purposes."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemwaterbottle",
+      "title": "Water bottle",
+      "text": "Just a bottle, that can be used to get salt water.Crafted from a vanilla bottle.Click on the water in the Ocean biome to get bottle with salt water."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsaltwaterbottle",
+      "title": "Salt water bottle",
+      "text": "Bottle with salt water.Click with it on the Clay Tray to pour it out."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytray",
+      "title": "Clay tray",
+      "text": "Clay Tray,used for salt evaporation process."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytraywithwater",
+      "title": "Clay tray with water",
+      "text": "Clay Tray,filled with salty water.After a while the water will evaporate, leaving the sea salt."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytraysalt",
+      "title": "Clay tray with salt",
+      "text": "Clay tray with ready sea salt.Click on it to get the salt."
+	}
+	  
+	
+  ]
+}

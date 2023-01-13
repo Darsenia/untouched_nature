@@ -1,0 +1,23 @@
+{
+  "name": "Аки",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_ackee.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitackee",
+      "title": "Аки",
+      "text": "У аки ядовитые семена,поэтому перед употреблением его необходимо очистить.Применение:фруктовый салат"
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ackee.png"],
+      "title": "Дерево Аки",
+      "text": "Аки растет в жарких и сухих биомах,таких как саванна."
+	}
+	  
+	
+  ]
+}

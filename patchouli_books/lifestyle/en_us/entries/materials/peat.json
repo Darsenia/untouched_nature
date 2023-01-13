@@ -1,0 +1,20 @@
+{
+  "name": "Peat",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/peat_brick.png",
+  "sortnum": 11,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempeatbrick",
+      "title": "Peat brick",
+      "text": "Peat brick is a good fuel.You can get peat from peat soil."
+	},
+		{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockswampsoil",
+      "title": "Peat soil",
+      "text": "Peat soil can be found in swamps.It is a source of peat."
+	}
+	]
+}

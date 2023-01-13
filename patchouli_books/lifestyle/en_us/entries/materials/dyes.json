@@ -1,0 +1,20 @@
+{
+  "name": "Dyes",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/lilac_dye.png",
+  "sortnum": 13,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembluedye",
+      "title": "Vanilla dyes replacement",
+      "text": "Black, white, brown and blue dyes replace vanilla dyes of the appropriate color in recipes.Can be crafted from plants and flowers."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlilacdye",
+      "title": "Custom dyes",
+      "text": "New dyes, that can be used for crafting some decorative blocks.Currently there are two custom dyes - lilac and crimson."
+	}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bezoar",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/bezoar.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unitembezoar",
+  "title": "Bezoar",
+  "text":"Bezoar is an organic concrement, that can be get from sheep's stomach.Bezoar helps against poisons, but it is a single-use antidot."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipegetbezoar"
+	     
+	}
+	  
+	
+  ]
+}

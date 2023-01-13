@@ -1,0 +1,25 @@
+{
+  "name": "Ghost Whispering",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/ghost_potion.png",
+  "sortnum":7,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Ghost Whispering",
+      "text1": "Ghost Whispering gives ability to be inconspicuous as ghost.",
+	  "text2": "Time: 4000 ticks.",
+	  "text3": "Effects: gives invisibility.",
+	  "text4": "Initial solvent: clear water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/ghost.png"]
+	  
+	}
+	  
+	
+  ]
+}

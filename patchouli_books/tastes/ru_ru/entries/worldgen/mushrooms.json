@@ -1,0 +1,70 @@
+{
+  "name": "Грибы",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/shroom_yakoh-take_glow.png",
+  "sortnum": 5,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembluemushroom",
+      "title": "Голубой гриб",
+      "text": "Несъедобный.Растет в тропиках."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroombrainshroom",
+      "title": "Гриб-мозговик(строчок)",
+      "text": "Съедобный.Странной формы гриб.Растет в Swamplands, Wicked Lands, Temperate Fir Forest."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomdevilstooth",
+      "title": "Дьявольский зуб",
+      "text": "Несъедобный.Растет в Wicked Lands."
+	},{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomgiantpuffball",
+      "title": "Гигансткий головач",
+      "text": "Съедобный.Огромный круглый гриб,растет в местах,где мало деревьев."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomfoodamanita",
+      "title": "Бледная поганка",
+      "text": "Несъедобный и смертельно ядовитый!Растет в Wicked Lands и Temperate Fir Forest."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemchanterelle",
+      "title": "Лисичка",
+      "text": "Съедобный гриб.Растет в умеренных лесах."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemindigo",
+      "title": "Голубой млечник",
+      "text": "Съедобный.Плоский голубой гриб.Растет в умеренном и теплом климате."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemyakohtake",
+      "title": "Яко-таке",
+      "text": "Несъедобный.Светится в темноте.Растет в азиатских биомах."
+	},
+	{	
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemamethystdeceiver",
+      "title": "Аметистовая лаковица",
+      "text": "Съедобный.Маленькие фиолетовые грибы.Растут в умеренных хвойных лесах."
+	},
+	 {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/shrooms.png"],
+      "title": "Большие грибы",
+      "text": "Большие грибы,встречаются только в магических биомах.Используются в декоративных целях."
+	}
+	  
+	
+  ]
+}

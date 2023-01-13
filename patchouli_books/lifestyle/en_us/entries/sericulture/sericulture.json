@@ -1,0 +1,55 @@
+{
+  "name": "Getting started",
+  "category": "sericulture",
+  "icon": "untouched_nature:textures/items/silk_yarn.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkwormlarvae",
+      "title": "Silkworms larvae",
+      "text": "Silkworms live on Mulberry, Fig and Breadfruit trees.Their leaves can drop silkworms larvae with a small chance when destroyed."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwickertray",
+      "title": "Wicker Tray",
+      "text": "Wicker tray is a place, where silkworms will be making their silk."
+	},
+	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbambootray",
+      "title": "Wicker Tray",
+      "text": "Bamboo tray is a place, where silkworms will be making their silk."
+	},
+		{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unwickertray.png"],      
+      "text": "The schematic process of sericulture using the Wicker Tray."
+	}
+	,
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unbambootray.png"],      
+      "text": "The schematic process of sericulture using the Bamboo Tray."
+	},
+	{
+	  "type": "text",  
+      "title":	"Process of Sericulture",  
+      "text": "Place the Wicker tray on the ground.Click with leaves(silkworms prefer Mulberry,Breadfruit or Fig empty leaves) to place them inside.Then click on it with silkworms larvae.After a while they'll begin to pupate.Place Bunch Of Branches inside.Then wait until the worms produce cocoons.Click on the tray to get silk cocoons."
+	}	
+	,
+	{
+	  "type": "text",        
+      "text": "Now you need to wash the cocoons in the hot water.Use a vanilla minecraft Cauldron with water: click on it with a Cocoon to get Silk Fiber."
+	  }
+	  ,
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkfiber",
+      "title": "Silk Fiber",
+      "text": "Silk fiber is a raw silk material you get from silkworms cocoons.You'll need to spin it with the Spinning Wheel in order to get real Silk Yarn."
+	}
+  ]
+}

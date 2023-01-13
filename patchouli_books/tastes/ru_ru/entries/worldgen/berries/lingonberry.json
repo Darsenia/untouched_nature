@@ -1,0 +1,23 @@
+{
+  "name": "Брусника",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_lingonberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlingonberry",
+      "title": "Брусника",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lingonberry.png"],
+      "title": "Куст брусники",
+      "text": "Брусника растет в хвойных лесах."
+	}
+	  
+	
+  ]
+}

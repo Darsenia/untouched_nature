@@ -1,0 +1,29 @@
+{
+  "name": "Перчатка безустанности",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/amulet_glove.png",
+  "sortnum":7,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Перчатка Безустанности",
+      "text1": "Кожаная перчатка,напитанная Напитком Безустанности",
+	  "text2": "Жертва: золотая пряжа.",
+	  "text3": "Марс: перчатка",
+	  "text4": "Mercury: Напиток Безустанности",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_gloves.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

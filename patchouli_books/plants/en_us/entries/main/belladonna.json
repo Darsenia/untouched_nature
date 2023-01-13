@@ -1,0 +1,21 @@
+{
+  "name": "Belladonna",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/leaves_rose_hip.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/belladonna.png"],
+      "title": "Belladonna",
+	  "text":"Distribution: Wicked Lands, Oak Grove / dense biomes if vanilla world enabled."
+	  
+  },
+   	{
+	  "type": "text",      
+      "text": "Belladonna is a deadly poisonous plant with greenish flowers and black berries."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Кристаллический преобразователь",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/sapling_crystal.png",
+  "sortnum": 11,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcrystalsapling",
+      "title": "Кристаллический преобразователь",
+      "text": "Магический инструмент для получения саженцов из листьев различных деревьев.100% эффективность.Правый клик по листьям преобразовывает их в саженец."
+	}	
+  ]
+}

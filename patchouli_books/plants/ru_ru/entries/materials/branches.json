@@ -1,0 +1,20 @@
+{
+  "name": "Ветки",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/branch.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembranch",
+      "title": "Ветка",
+      "text": "Ветка дерева.Может быть получена из ветвей мертвых деревьев,а также создана из 3 палок.Ветки используются в рецептах."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembranchesbunch",
+      "title": "Ворох веток",
+      "text": "Ворох из 3 веток,используется в шелководстве и в рецептах."
+	}
+	]
+}

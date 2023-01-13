@@ -1,0 +1,93 @@
+{
+  "name": "Верстак стекольщика",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/glass_table.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockglassworkerstable",
+      "title": "Верстак стекольщика",
+      "text": "Специальный верстак для изготовления витражного стекла.Рецепты доступны по кнопке Recipes.Слева и снизу есть дополнительные слоты для хранения ингредиентов."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguiglassmain.png"],      
+      "text": "Интерфейс верстака."
+	},
+	{
+	  "type": "text",            
+      "text": "Поместите плоскогубцы и паяльник в красные слоты,набросок дизайна-в розовый слот,исходный материал(стекло) в голубой слот,осколки стекол-в прочие слоты.Нажмите кнопку Construct для получения витражного стекла."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationmoon",
+      "title": "Наброски",
+      "text": "Набросок-проект витражного стекла.Существует несколько видов набросков:роза,кувшинка,ромашки,остролист,мак,редстоун,солнце,звезды."
+	},
+	{
+	  "type": "text",   
+      "title": "Витражное стекло",	  
+      "text": "Каждый набросок позволяет создать два вида дизайна стекла-базовое и с изображением,и каждый из них доступен в двух цветах-черный и светлый."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempaperandquill",
+      "title": "Бумага и чернильница",
+      "text": "Бумага и чернильница с пером позволяют создавать наброски благодаря вдохновению.Если вы достаточно вдохновились,вы получите набросок,который сможете использовать позже для создания витражей."
+	},
+	{
+	  "type": "text",   
+      "title": "Вдохновение",	  
+      "text": "Вдохновение-особое состояние разума.Существует 8 способов испытать вдохновение и создать набросок будущего витража."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationmoon",
+      "title": "Звезды",
+      "text": "Примените бумагу и чернильницу в воздухе, глядя на луну в полночь."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationsun",
+      "title": "Солнце",
+      "text": "Примените бумагу и чернильницу в воздухе, глядя на солнце в полдень."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationrose",
+      "title": "Роза",
+      "text": "Примените бумагу и чернильницу на любой цветок розы."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationpoppy",
+      "title": "Мак",
+      "text": "Примените бумагу и чернильницу на цветке голубого мака."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationdaisy",
+      "title": "Ромашки",
+      "text": "Примените бумагу и чернильницу на любой цветок,похожий на маргаритки или ромашки."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationlily",
+      "title": "Кувшинка",
+      "text": "Примените бумагу и чернильницу на цветущую кувшинку."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationholly",
+      "title": "Остролист",
+      "text": "Примените бумагу и чернильницу на растении Пуансеттия или листьях Остролиста."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationredstone",
+      "title": "Редстоун",
+      "text": "Примените бумагу и чернильницу на цепь редстоуна."
+	}
+  ]
+}

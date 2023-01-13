@@ -1,0 +1,17 @@
+{
+  "name": "Bergenia",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_bergenia.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/bergenia.png"],
+      "title": "Bergenia",
+	  "text": "Distribution: Roofed Forest."
+	  
+  }
+	  
+	
+  ]
+}

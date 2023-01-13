@@ -1,0 +1,16 @@
+{
+  "name": "Sapphire",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/sapphire.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/sapphire.png"],
+      "title": "Sapphire",
+      "text": "Height:5-25.Precious gemstone of deep blue color.Patron:Jupiter;element:air,light."
+	}
+	  
+	
+  ]
+}

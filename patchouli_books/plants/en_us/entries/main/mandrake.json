@@ -1,0 +1,18 @@
+{
+  "name": "Mandrake",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_mandrake.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mandrake.png"],
+      "title": "Mandrake",
+	  "text": "Distribution: Wicked Lands / dense biomes if vanilla world enabled."
+	  
+	  
+  }
+	  
+	
+  ]
+}

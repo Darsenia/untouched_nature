@@ -1,0 +1,14 @@
+{
+  "name": "Воск",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/coconut_wax.png",
+  "sortnum": 15,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcoconutwax",
+      "title": "Воск",
+      "text": "Воск используется для крафта свечей.Вы можете получить воск из разбитого кокоса(раздавить в Винном Прессе,затем поместить в Экстрактор),из соевой пасты(в Экстракторе) и из растения льдистого восковика(в Экстракторе)."
+	}
+	]
+}

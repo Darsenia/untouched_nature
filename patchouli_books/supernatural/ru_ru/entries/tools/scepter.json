@@ -1,0 +1,21 @@
+{
+  "name": "Скипетр Верховного Друида",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/scepter.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemscepter",
+      "title": "Скипетр Верховного Друида",
+      "text": "Используется для активации ритуалов.Когда вы разместили все ингредиенты ритуала правильно и положили нужный предмет в жертвенную чашу,коснитесь ее скипетром."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipescepter"
+	 
+	}
+	  
+	
+  ]
+}

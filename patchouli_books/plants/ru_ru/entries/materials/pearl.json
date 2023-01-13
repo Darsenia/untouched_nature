@@ -1,0 +1,20 @@
+{
+  "name": "Жемчуг",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/pearl.png",
+  "sortnum": 6,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempearl",
+      "title": "Жемчужина",
+      "text": "Жемчужины добываются из раковин жемчужниц,и используются для изготовления изысканных жемчужных занавесов, а также в магических целях."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemshell",
+      "title": "Раковина жемчужницы",
+      "text": "Раковины жемчужниц лежат глубоко на дне океана.Используйте каменный нож и раковину в сетке крафта,чтобы получить жемчужину."
+	}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Raspberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_raspberry2.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitraspberry",
+      "title": "Raspberry",
+      "text": "Usage: juice, jam.The raspberry bush grows up to 3 blocks, but only the base(lowest) one can be replanted."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/raspberry.png"],
+      "title": "Raspberry bush",
+      "text": "Raspberry grows in temperate forests and coniferous forests."
+	}
+	  
+	
+  ]
+}

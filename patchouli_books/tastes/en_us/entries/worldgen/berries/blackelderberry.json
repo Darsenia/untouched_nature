@@ -1,0 +1,23 @@
+{
+  "name": "Black elderberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_black_elderberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblackelderberry",
+      "title": "Black elderberry",
+      "text": "Usage: tincture."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/elderberry.png"],
+      "title": "Black elderberry tree",
+      "text": "Black elderberry grows in forests."
+	}
+	  
+	
+  ]
+}

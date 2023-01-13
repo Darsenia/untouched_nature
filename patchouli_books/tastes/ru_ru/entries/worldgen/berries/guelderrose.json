@@ -1,0 +1,23 @@
+{
+  "name": "Калина",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_guelder_rose.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitguelderrose",
+      "title": "Калина",
+      "text": "Применение:настойка."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/guelderrose.png"],
+      "title": "Калина",
+      "text": "Калина растет в лесу и в aspen grove."
+	}
+	  
+	
+  ]
+}

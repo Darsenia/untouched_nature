@@ -1,0 +1,20 @@
+{
+  "name": "Трава",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/herba_russian_wormwood.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Трава",
+      "text": "Есть несколько видов травы,которые можно срезать ножницами: лапчатка,багульник,полынь,крапива,болиголов,аконит.Иногда трава используется в свежем виде,иногда ее нужно сперва высушить.Повесьте траву под потолок и ждите,пока она поменяет цвет. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/herba.png"]
+	 
+	}
+	  
+	
+  ]
+}

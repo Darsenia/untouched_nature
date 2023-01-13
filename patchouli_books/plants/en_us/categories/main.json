@@ -1,0 +1,6 @@
+{
+    "name": "Plants catalogue",
+    "description": "Plants are listed in alphabetical order.",
+	"icon": "untouched_nature:textures/items/book_flowers.png",
+	"sortnum": 1
+    }

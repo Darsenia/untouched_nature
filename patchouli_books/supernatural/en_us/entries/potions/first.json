@@ -1,0 +1,25 @@
+{
+  "name": "Elixir of the First One",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_first.png",
+  "sortnum":4,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Elixir of the First One",
+      "text1": "Elixir of the First One is a medium-power stimulant of the physical body.Don't use it as a doping, that's an unsporty behavior!",
+	  "text2": "Time: 1800 ticks.",
+	  "text3": "Effects: heals slowness and weakness, adds Jump Boost III, Strength 0 and Speed I.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/first.png"]
+	  
+	}
+	  
+	
+  ]
+}

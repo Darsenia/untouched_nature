@@ -1,0 +1,23 @@
+{
+  "name": "Картофель",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/carrots_stage_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "minecraft:potato",
+      "title": "Картофель",
+      "text": "Применение:грибной суп,картофель на палочке,спирт."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantpotatowild",
+      "title": "Картофель",
+      "text": "Картофель растет в умеренном и теплом климате.Правой кнопкой мыши выдерните растение с клубнями из земли."
+	}
+   		  
+	
+  ]
+}

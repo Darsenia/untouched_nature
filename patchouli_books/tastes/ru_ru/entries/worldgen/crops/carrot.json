@@ -1,0 +1,23 @@
+{
+  "name": "Морковь",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/carrots_stage_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "minecraft:carrot",
+      "title": "Морковь",
+      "text": "Применение:грибной суп,щи,борщ,похлебка."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantcarrotwild",
+      "title": "Морковь",
+      "text": "Морковь растет в теплых и умеренных биомах."
+	}
+   		  
+	
+  ]
+}

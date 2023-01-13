@@ -1,0 +1,20 @@
+{
+  "name": "Mistletoe",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_mistletoe.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mistletoe.png"],
+      "title": "Mistletoe"
+	  
+  },
+   	{
+	  "type": "text",      
+      "text": "Mistletoe is a parasitic plant, growing on trees and slowly killing them.Distribution: Wicked Lands, coniferous or swamp biomes."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Черная бузина",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_black_elderberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblackelderberry",
+      "title": "Черная бузина",
+      "text": "Применение:настойка"
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/elderberry.png"],
+      "title": "Черная бузина",
+      "text": "Черная бузина растет в лесах."
+	}
+	  
+	
+  ]
+}

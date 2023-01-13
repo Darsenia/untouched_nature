@@ -1,0 +1,16 @@
+{
+  "name": "Гематит",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/hematite.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/hematite.png"],
+      "title": "Гематит",
+      "text": "Глубина распространения:5-70.Источник железа и декоративный камень."
+	}
+	  
+	
+  ]
+}

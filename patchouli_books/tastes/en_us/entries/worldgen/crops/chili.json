@@ -1,0 +1,23 @@
+{
+  "name": "Chili",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_chili_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodchilipepper",
+      "title": "Chili",
+      "text": "Usage: chicken with longan, salmon with passionfruit."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/chili.png"],
+      "title": "Chili plant",
+      "text": "Chili grows in warm and quite hot biomes."
+	}
+	  
+	
+  ]
+}

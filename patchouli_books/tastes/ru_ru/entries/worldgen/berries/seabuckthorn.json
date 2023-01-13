@@ -1,0 +1,23 @@
+{
+  "name": "Облепиха",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_sea_buckthorn.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitseabuckthorn",
+      "title": "Облепиха",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/seabuckthorn.png"],
+      "title": "Облепиха",
+      "text": "Облепиха растет в тайге и умеренных хвойных лесах."
+	}
+	  
+	
+  ]
+}

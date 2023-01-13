@@ -1,0 +1,20 @@
+{
+  "name": "Высушенная трава",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/herba_hanging_african_wormwood_dried.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Высушенная трава",
+      "text": "Крапива,полынь,багульник,лапчатка могут быть высушены,если подвесить под потолок."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/dried_herba.png"]
+	 
+	}
+	  
+	
+  ]
+}

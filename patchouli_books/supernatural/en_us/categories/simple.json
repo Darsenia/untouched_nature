@@ -1,0 +1,6 @@
+{
+    "name": "Basic stuff",
+    "description": "This entry is about some simple and basic medical or magical things.",
+	"icon": "untouched_nature:textures/items/insecticide.png",
+	"sortnum": 6
+    }

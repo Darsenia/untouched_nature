@@ -1,0 +1,16 @@
+{
+  "name": "Родохрозит",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/rhodochrosite_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rhodochrosite.png"],
+      "title": "Родохрозит",
+      "text": "Глубина распространения:35-128.Марганцевый шпат, поделочный камень и источник перманганата калия."
+	}
+	  
+	
+  ]
+}

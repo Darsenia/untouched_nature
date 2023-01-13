@@ -1,0 +1,16 @@
+{
+  "name": "Tansy",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_tansy.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/tansy.png"],
+      "title": "Tansy",
+	  "text": "Distribution: Meadow / plains if vanilla world enabled."
+	  
+  }
+	
+  ]
+}

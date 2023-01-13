@@ -1,0 +1,20 @@
+{
+  "name": "Powders",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/powder_water_crystal.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Powders",
+      "text": "Powders can be get in Herbalist Table by placing an object in the input slot and clicking the Pound button.There are many types of powders currently: all magical crystals can be powdered, amber, oak bark, shinyphere seedbox, sheep's stomach, wither fork bone, reindeer moss, dried potentilla and ledum herba, dried russian or african wormwood herba."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/powders.png"]
+	 
+	}
+	  
+	
+  ]
+}

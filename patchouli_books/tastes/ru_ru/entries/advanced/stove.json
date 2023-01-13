@@ -1,0 +1,53 @@
+{
+  "name": "Печь",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/stove.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Русская печь",
+      "text": "Большая печь,использующаяся для приготовления сложных и сытных блюд.Сам блок печи уже полностью функционален,но для красоты его можно дополнить декоративными печными блоками,ступеньками,плитами и т.д.В печи можно готовить в сковороде,жаровне или напрямую(хлеб).Зажгите огонь зажигалкой,затем поместите внутрь жаровню,сковороду или тесто.Используйте прихватку,чтобы не обжечь руки,пока будете доставать готовую еду."
+	},
+	{
+	  "type": "image",      
+      "title": "Работающая печь",
+      "images": ["untouched_nature:textures/renders/stove_big.png"]
+	  
+	}	,
+	{
+	  "type": "image",      
+      "title": "Кухонная утварь",
+      "images": ["untouched_nature:textures/renders/kitchenware.png"]
+	  
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipejamaicabreadfruit",
+	 "recipe2": "untouched_nature:unrecipecabbagerolls"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipechickenfigs",
+	 "recipe2": "untouched_nature:unrecipechickenlongan"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeporkmangosteen",
+	 "recipe2": "untouched_nature:unrecipeporklongan"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipesalmonpassionfruit",
+	 "recipe2": "untouched_nature:unrecipepassionfruitcasserole"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipemangosteenclafouti",
+	 "recipe2": "untouched_nature:unrecipepancake"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipedough"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Лук",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_onion_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodonion",
+      "title": "Лук",
+      "text": "Применение:в магических целях;борщ,похлебка,цыпленок с лонганом,цыпленок с инжиром,шаверма,голубцы,суп из водорослей,лосось с маракуйей,Ямайское блюдо,грибной суп."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/onion.png"],
+      "title": "Лук",
+      "text": "Лук растет в умеренном,теплом и умеренно-жарком климате."
+	}
+	  
+	
+  ]
+}

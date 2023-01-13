@@ -1,0 +1,20 @@
+{
+  "name": "Pearl",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/pearl.png",
+  "sortnum": 6,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempearl",
+      "title": "Pearl",
+      "text": "Shiny pearls can be get from the pearl shells, and are used for crafting exquisite pearl hangings, as well as in other recipes and for magic purposes."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemshell",
+      "title": "Pearl shell",
+      "text": "Pearl shells can be found deep on the bottom of the ocean.Use the shell with a stone knife in the crafting grid to get a pearl."
+	}
+	]
+}

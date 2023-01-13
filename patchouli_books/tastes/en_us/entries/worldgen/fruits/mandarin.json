@@ -1,0 +1,23 @@
+{
+  "name": "Mandarin",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_mandarin.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmandarin",
+      "title": "Mandarin",
+      "text": "Usage: fruit salad, chicken with longan."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mandarin.png"],
+      "title": "Mandarin tree",
+      "text": "Mandarin tree grows in lush mixed forest, lush hills, lush peaks valley biome."
+	}
+	  
+	
+  ]
+}

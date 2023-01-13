@@ -1,0 +1,25 @@
+{
+  "name": "Salamander Unguent",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/salamander_unguent.png",
+  "sortnum":13,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Salamander Unguent",
+      "text1": "Salamander Unguent is a very useful salve, that grants you immunity to fire and lava.A better alternative to the Antiburn Salve.",
+	  "text2": "Time: 4000 ticks.",
+	  "text3": "Effects: adds Fire Resistance and extinguishes player.",
+	  "text4": "Initial solvent: antiburn salve."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/salamander.png"]
+	  
+	}
+	  
+	
+  ]
+}

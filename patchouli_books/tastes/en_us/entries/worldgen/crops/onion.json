@@ -1,0 +1,23 @@
+{
+  "name": "Onion",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_onion_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodonion",
+      "title": "Onion",
+      "text": "Usage: borsch, broth, chicken with longan, chicken with figs, cabbage rolls, chicken roll, seaweed soup, salmon with passionfruit, Jamaica breadfruit meal, mushroom soup."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/onion.png"],
+      "title": "Onion plant",
+      "text": "Onion grows in temperate,warm and quite hot biomes."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Нум-нум",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_num-num.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitnumnum",
+      "title": "Нум-нум",
+      "text": "Похожий на сливу африканский фрукт.Применение:фруктовый салат,варенье,вино,свинина с мангостинами."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/numnum.png"],
+      "title": "Дерево сливы нум-нум",
+      "text": "Дерево нум-нум растет в сухих жарких биомах,вроде саванны."
+	}
+	  
+	
+  ]
+}

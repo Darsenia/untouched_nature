@@ -1,0 +1,23 @@
+{
+  "name": "Mulberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_mulberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmulberry",
+      "title": "Mulberry",
+      "text": "Usage: jam.Leaves of mulberry tree are used for sericulture"
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mulberry.png"],
+      "title": "Mulberry tree",
+      "text": "Mulberry tree grows in lush autumnal and lush mixed forests."
+	}
+	  
+	
+  ]
+}

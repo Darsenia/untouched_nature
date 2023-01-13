@@ -1,0 +1,29 @@
+{
+  "name": "Эфирные сандалии",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/amulet_sandals.png",
+  "sortnum":7,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Эфирные сандалии",
+      "text1": "Кожаные сандалии,напитанные Летательной Мазью.Работают,будучи надетыми на ноги.",
+	  "text2": "Жертва: перо.",
+	  "text3": "Солнце: сандалии",
+	  "text4": "Сатурн: Летательная Мазь",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_sandals.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

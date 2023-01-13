@@ -1,0 +1,22 @@
+{
+  "name": "Простое противоядие",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/n_ilk.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unsimpleantidote",
+  "title": "Простое противоядие",
+  "text":"Простое средство против яда,но одноразовое."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipesimpleantidote"
+	     
+	}
+	  
+	
+  ]
+}

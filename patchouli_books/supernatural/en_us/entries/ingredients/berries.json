@@ -1,0 +1,20 @@
+{
+  "name": "Berries",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/berry_rose_hip.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Berries",
+      "text": "There are plenty of berries in Untouched Nature, but this entry is only about berries, used for magical purposes.Currently there are 2 of such berries: rose hip and belladonna berries.Rose hip berry can be get by destroying rose hip bush with shears, and belladonna berry can be get from belladonna plant in the Herbalist Table."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/berries.png"]
+	 
+	}
+	  
+	
+  ]
+}

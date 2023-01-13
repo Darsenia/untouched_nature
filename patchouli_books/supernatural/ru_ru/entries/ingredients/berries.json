@@ -1,0 +1,20 @@
+{
+  "name": "Ягоды",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/berry_rose_hip.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Ягоды",
+      "text": "В Untouched Nature много ягод, но эта глава посвящена лишь тем ягодам,что используются в магических целях(и нигде более).На данный момент есть 2 вида таких ягод:шиповник(срезается ножницами с кустов) и белладонна(можно получить из белладонны в Столе Травника)."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/berries.png"]
+	 
+	}
+	  
+	
+  ]
+}

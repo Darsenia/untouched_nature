@@ -1,0 +1,23 @@
+{
+  "name": "Вишня",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cherry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcherry",
+      "title": "Вишня",
+      "text": "Применение:сок,варенье,вино."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cherry.png"],
+      "title": "Вишня",
+      "text": "Вишня растет в лесу."
+	}
+	  
+	
+  ]
+}

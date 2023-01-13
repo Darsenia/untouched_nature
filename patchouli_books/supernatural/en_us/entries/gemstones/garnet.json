@@ -1,0 +1,16 @@
+{
+  "name": "Garnet",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/garnet.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/garnet.png"],
+      "title": "Garnet",
+      "text": "Height:15-70.Red gemstone.Patron:Mars;element:fire."
+	}
+	  
+	
+  ]
+}

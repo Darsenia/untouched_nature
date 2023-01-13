@@ -1,0 +1,17 @@
+{
+  "name": "Lippia Javanica",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_lippia_javanica.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lippia.png"],
+      "title": "Lippia Javanica",
+	  "text": "Distribution: savanna."
+	  
+  }
+	  
+	
+  ]
+}

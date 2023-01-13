@@ -1,0 +1,23 @@
+{
+  "name": "Guelder Rose",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_guelder_rose.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitguelderrose",
+      "title": "Guelder Rose",
+      "text": "Usage: tincture."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/guelderrose.png"],
+      "title": "Guelder Rose tree",
+      "text": "Guelder Rose tree grows in forests and aspen grove."
+	}
+	  
+	
+  ]
+}

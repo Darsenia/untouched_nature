@@ -1,0 +1,22 @@
+{
+  "name": "Теплый молочный напиток",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/lippia_milk.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unlippiamilk",
+  "title": "Теплый молочный напиток",
+  "text":"Теплый лечебный напиток,приготовленный из молока и яванской липпии."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipelippiamilk"
+	     
+	}
+	  
+	
+  ]
+}

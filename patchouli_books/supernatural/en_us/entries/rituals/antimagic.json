@@ -1,0 +1,29 @@
+{
+  "name": "Antimagic amulet",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/blocks/amulet_antimagic_2.png",
+  "sortnum":14,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Antimagic amulet",
+      "text1": "Wooden amulet, infused with antimagic potion.",
+	  "text2": "Sacrifice: yarn.",
+	  "text3": "Jupiter: blank amulet",
+	  "text4": "Pluto: antimagic potion",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_antimagic.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

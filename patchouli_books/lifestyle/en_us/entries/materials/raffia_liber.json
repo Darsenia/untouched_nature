@@ -1,0 +1,20 @@
+{
+  "name": "Raffia and Liber",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/raffia.png",
+  "sortnum": 5,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemraffia",
+      "title": "Raffia",
+      "text": "Raffia is a palm fibre, that is used to make baskets and other similar stuff, as well as a fuel.Raffia is crafted from any palm log and a stone knife."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemliber",
+      "title": "Liber",
+      "text": "Liber is tree bark fibre, that is used to make baskets and other similar stuff, as well as a fuel.Liber is crafted from linden or birch log and a stone knife."
+	}
+	]
+}

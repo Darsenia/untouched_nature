@@ -1,0 +1,20 @@
+{
+  "name": "Cattail",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/cattail_item.png",
+  "sortnum": 8,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcattail",
+      "title": "Cattail",
+      "text": "Cattail can be get from cattail plants using shears while sneaking.Cattails can be used to make paper or brown dye."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unhighgrasscattail",
+      "title": "Cattail plant",
+      "text": "Cattail is a high plant, growing near the water almost everywhere.In cold areas dead cattails can be found, but they are useless for crafting purposes."
+	}
+	]
+}

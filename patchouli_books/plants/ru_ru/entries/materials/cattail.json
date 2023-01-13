@@ -1,0 +1,20 @@
+{
+  "name": "Рогоз",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/cattail_item.png",
+  "sortnum": 8,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcattail",
+      "title": "Рогоз",
+      "text": "Рогоз можно собрать с помощью ножниц с растений рогоза.Используется рогоз для производства бумаги или получения коричневого красителя."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unhighgrasscattail",
+      "title": "Растение рогоза",
+      "text": "Рогоз растет возле воды практически везде,даже в холодных биомах,но засохший рогоз бесполезен."
+	}
+	]
+}

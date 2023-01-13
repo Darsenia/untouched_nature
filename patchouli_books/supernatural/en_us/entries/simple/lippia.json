@@ -1,0 +1,22 @@
+{
+  "name": "Lippia Milk",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/lippia_milk.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unlippiamilk",
+  "title": "Lippia Milk",
+  "text":"Lippia Milk is a warm and healing drink, made from milk and lippia javanica."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipelippiamilk"
+	     
+	}
+	  
+	
+  ]
+}

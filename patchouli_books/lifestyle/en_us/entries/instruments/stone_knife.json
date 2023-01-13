@@ -1,0 +1,14 @@
+{
+  "name": "Stone Knife",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/item_stone_knife.png",
+  "sortnum": 2,
+  "pages": [  
+    {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstoneknife",
+      "title": "Stone Knife",
+      "text": "A very primitive knife, made from small sharp stone and a stick.Weak and fragile, but easy-to-make weapon.This knife is used mostly in crafting recipes.Use it while sneaking on full vanilla minecraft mossy cobblestone/stone blocks to get moss.It is useful if you have disabled moss natural spawning."
+    }
+  ]
+}

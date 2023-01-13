@@ -1,0 +1,16 @@
+{
+  "name": "Creeper Skin",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/creeper_skin.png",
+  "sortnum": 5,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcreeperskin",
+      "title": "Creeper Skin",
+      "text": "Poor creeper.You'll have to kill it with a crystal dagger (25% chance)."
+	}
+	  
+	
+  ]
+}

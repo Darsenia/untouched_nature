@@ -1,0 +1,16 @@
+{
+  "name": "Cat Hair",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/hair_cat.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcathair",
+      "title": "(Wild) Cat Hair",
+      "text": "Cat Hair can be get from an ocelot, if you'll manage somehow to trim it with shears.Cat hair is a magical ingredient."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Кокос",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_coconut_broken.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcoconutbroken",
+      "title": "Кокос",
+      "text": "Разбитый кокос.Чтобы добыть кокос, вам придется потрясти пальму(просто ударяйте по стволу),и кокосы упадут на землю.Если вы попытаетесь разбить кокос острым маленьким камнем,то вы получите разбитый кокос,который можно съесть.Или же вы можете взять кокос с собой,чтобы использовать его для получения кокосового молока."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/coconut.png"],
+      "title": "Кокосовая пальма",
+      "text": "Кокосовая пальма растет в тропических биомах."
+	}
+	  
+	
+  ]
+}

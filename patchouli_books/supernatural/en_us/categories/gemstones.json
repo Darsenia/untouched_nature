@@ -1,0 +1,6 @@
+{
+    "name": "Gemstones",
+    "description": "Untouched nature adds several new ores, that are the sources of gemstones.Gemstones are very important for creating magical artifacts.Some gemstones can be used for medical or decorative purposes.",
+	"icon": "untouched_nature:textures/items/beryl.png",
+	"sortnum": 1
+    }

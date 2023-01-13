@@ -1,0 +1,23 @@
+{
+  "name": "Blueberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_blueberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblueberry",
+      "title": "Blueberry",
+      "text": "Blueberry.Usage: juice, jam."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/blueberry.png"],
+      "title": "Blueberry bush",
+      "text": "Blueberry grows in forests and coniferous forests."
+	}
+	  
+	
+  ]
+}

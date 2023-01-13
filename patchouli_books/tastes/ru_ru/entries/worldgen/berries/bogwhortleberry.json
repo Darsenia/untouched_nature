@@ -1,0 +1,23 @@
+{
+  "name": "Голубика",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_bog_whortleberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbogwhortleberry",
+      "title": "Голубика",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/bogwhortleberry.png"],
+      "title": "Куст голубики",
+      "text": "Голубика растет в умеренном климате во влажных и заболоченных биомах."
+	}
+	  
+	
+  ]
+}

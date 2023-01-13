@@ -1,0 +1,23 @@
+{
+  "name": "Serviceberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_serviceberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitserviceberry",
+      "title": "Serviceberry",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/serviceberry.png"],
+      "title": "Serviceberry tree",
+      "text": "Serviceberry tree grows in red mountains biome."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Tinctures",
+    "description": "Tinctures are berries or plants, infused with alcohol.They are simply made in the crafting grid.Tinctures can be the initial solvent for the potions or the potion ingredient.",
+	"icon": "untouched_nature:textures/renders/tincture.png",
+	"sortnum": 4
+    }

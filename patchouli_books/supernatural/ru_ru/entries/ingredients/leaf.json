@@ -1,0 +1,20 @@
+{
+  "name": "Листья",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/leaf_chimaphila.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Лист",
+      "text": "Есть 2 вида листьев,получаемых в Столе Травника-лист зимолюбки и алоэ, а также листья мяты,которые нужно состричь ножницами. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/leaf.png"]
+	 
+	}
+	  
+	
+  ]
+}

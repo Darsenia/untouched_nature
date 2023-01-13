@@ -1,0 +1,23 @@
+{
+  "name": "Хлебное дерево",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_jackfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbreadfruit",
+      "title": "Хлебное дерево",
+      "text": "Применение:разрезать плод на кусочки и использовать в приготовлении Ямайского блюда."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/breadfruit.png"],
+      "title": "Хлебное дерево",
+      "text": "Хлебное дерево растет в джунглевых биомах."
+	}
+	  
+	
+  ]
+}

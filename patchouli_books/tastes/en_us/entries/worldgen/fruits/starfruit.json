@@ -1,0 +1,23 @@
+{
+  "name": "Starfruit",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_starfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitstarfruit",
+      "title": "Starfruit",
+      "text": "Usage: must be sliced and slices are used in fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/starfruit.png"],
+      "title": "Starfruit tree",
+      "text": "Starfruit tree grows in jungle and tropical biomes."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rose Hip",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_belladonna.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rose_hip.png"],
+      "title": "Rose Hip",
+	  "text": "Distribution: Lush Grove."
+	  
+  }
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Верстак каменщика",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/stone_table.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockstoneworkerstable",
+      "title": "Верстак каменщика",
+      "text": "Специальный верстак для резьбы по камню.Нажмите на кнопку Recipes для просмотра рецептов."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguistoneworkerstable.png"],      
+      "text": "Интерфейс верстака."
+	},
+	{
+	  "type": "text",          
+      "text": "Поместите каменный молот и долото в коричневые слоты.Исходный материал поместите слева, нажмите кнопку Work и заберите результат из правого слота."
+	}
+  ]
+}

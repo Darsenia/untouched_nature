@@ -1,0 +1,16 @@
+{
+  "name": "Янтарь",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/amber_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/amber.png"],
+      "title": "Янтарь",
+      "text": "Глубина распространения:35-128.Янтарь-это застывшая смола доисторических деревьев.Органический поделочный камень."
+	}
+	  
+	
+  ]
+}

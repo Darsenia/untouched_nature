@@ -1,0 +1,6 @@
+{
+    "name": "Каталог конвертации",
+    "description": "Позволяет сконвертировать древесину из Untouched Nature в наиболее похожие виды обычной древесины.Используется на верстаке вместе с древесиной.",
+	"icon": "untouched_nature:textures/items/convertation_book.png",
+	"sortnum": 6
+    }

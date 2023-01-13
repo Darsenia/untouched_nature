@@ -1,0 +1,16 @@
+{
+  "name": "Кость скелета-иссушителя",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/wither_fork_bone.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemwitherforkbone",
+      "title": "Кость скелета-иссушителя",
+      "text": "Кость скелета-иссушителя может быть получена при убийстве скелета-иссушителя кристальным кинжалом(25% шанс).Используется в магических целях и для прядения золота из соломы."
+	}
+	  
+	
+  ]
+}

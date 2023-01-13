@@ -1,0 +1,25 @@
+{
+  "name": "Vile Brew",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/vile_brew.png",
+  "sortnum":5,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Vile Brew",
+      "text1": "Vile Brew is a strange brew with nasty taste, that makes a person so unpleasant, that even hostile mobs don't want to touch him.",
+	  "text2": "Time: 1500 ticks.",
+	  "text3": "Effects: heals Poison and Hunger, the player is ignored by hostile mobs, but total health is lowered, adds Mining Fatigue, Weakness.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/vile.png"]
+	  
+	}
+	  
+	
+  ]
+}

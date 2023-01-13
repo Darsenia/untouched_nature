@@ -1,0 +1,14 @@
+{
+  "name": "Leaves Blower",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/blower.png",
+  "sortnum": 10,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unrangedleavesblower",
+      "title": "Leaves Blower",
+      "text": "Semi-magical instrument for destroying leaves from a distance.Affects 5x5x5 area.Saplings and fruits also drop, but maybe with a smaller chance."
+	}	
+  ]
+}

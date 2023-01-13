@@ -1,0 +1,16 @@
+{
+  "name": "Гранат",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/garnet.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/garnet.png"],
+      "title": "Гранат",
+      "text": "Глубина распространения:15-70.Красный полудрагоценный камень.Покровитель:Марс;элемент:огонь."
+	}
+	  
+	
+  ]
+}

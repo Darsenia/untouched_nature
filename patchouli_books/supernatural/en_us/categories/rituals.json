@@ -1,0 +1,6 @@
+{
+    "name": "Rituals",
+    "description": "Rituals are performed in order to craft some special complex artifacts.Rituals are based on giving sacrifices to the ancient gods and placing parts of the future artifact accordingly to the cardinal directions, connected with those gods and their patron planets.",
+	"icon": "untouched_nature:textures/blocks/symbol_sun_glowing.png",
+	"sortnum": 5
+    }

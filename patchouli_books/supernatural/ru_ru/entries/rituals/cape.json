@@ -1,0 +1,29 @@
+{
+  "name": "Плащ-Невидимка",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/cloak_of_invisibility.png",
+  "sortnum":7,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Плащ-Невидимка",
+      "text1": "Мистический плащ,который дает полную невидимость.Носится на туловище.",
+	  "text2": "Жертва: цветок папоротника",
+	  "text3": "Луна: призрачная ткань",
+	  "text4": "Юпитер: сапфир",
+	  "text5": "Венера: криисталл воздуха",
+	  "text6": "Плутон: Призрачное Дыхание"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_cape.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

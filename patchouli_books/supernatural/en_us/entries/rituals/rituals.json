@@ -1,0 +1,29 @@
+{
+  "name": "Rituals",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/blocks/symbol_sun_glowing.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	"type": "text",      
+      "title": "Rituals",
+      "text": "Firstly you need to place a blank rune block in the center of the 7x7 flat area.Then other rune blocks should be placed accordingly to the directions.Then place Brazier on the central rune block and fire it with a lighter.Place the artifact parts on the runes, put sacrifice in the brazier.Right-click with the Supreme Druid Scepter on the brazier will start the process."
+	 
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_symbols.png"]
+	  
+	},
+	{
+	  "type": "image",      
+      "title": "Ritual scheme",
+      "images": ["untouched_nature:textures/renders/ritual_scheme.png"]
+	  
+	}
+	  
+	
+  ]
+}

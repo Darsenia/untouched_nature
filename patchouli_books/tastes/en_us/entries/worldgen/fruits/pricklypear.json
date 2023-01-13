@@ -1,0 +1,23 @@
+{
+  "name": "Prickly Pear",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_prickly_pear.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpricklypear",
+      "title": "Prickly Pear",
+      "text": "Usage: can be eaten directly."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pricklypear.png"],
+      "title": "Prickly Pear (Opuntia) cactus",
+      "text": "Prickly Pear grows in very hot, dry and sandy biomes."
+	}
+	  
+	
+  ]
+}

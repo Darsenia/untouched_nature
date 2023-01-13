@@ -1,0 +1,6 @@
+{
+    "name": "Storage",
+    "description": "Untouched Nature has several types of storage blocks.",
+	"icon": "untouched_nature:textures/renders/wicker_basket.png",
+	"sortnum": 6
+    }

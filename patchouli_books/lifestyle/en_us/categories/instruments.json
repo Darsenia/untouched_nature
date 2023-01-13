@@ -1,0 +1,6 @@
+{
+    "name": "Instruments",
+    "description": "Untouched Nature adds several new instruments to the game.Most of them are used inside the devices or for crafting.Some instruments are used in-world as tools.",
+	"icon": "untouched_nature:textures/items/nippers.png",
+	"sortnum": 1
+    }

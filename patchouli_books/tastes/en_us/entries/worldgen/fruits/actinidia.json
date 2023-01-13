@@ -1,0 +1,23 @@
+{
+  "name": "Kiwi",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_kiwi.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitkiwi",
+      "title": "Kiwi",
+      "text": "Usage: fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/actinidia.png"],
+      "title": "Actinidia (Kiwi) vine",
+      "text": "Kiwi vine grows in lush peeks valley biome."
+	}
+	  
+	
+  ]
+}

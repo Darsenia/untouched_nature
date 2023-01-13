@@ -1,0 +1,15 @@
+{
+  "name": "Кремниевая зажигалка",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/flint_lighter.png",
+  "sortnum": 4,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemflintlighter",
+      "title": "Кремниевая зажигалка",
+      "text": "Примитивное устройство из острого камня и кремня, высекает искры,достаточные для зажигания адского камня,костров и устройств из Untouched Nature.Не годится для воспламенения других блоков и портала в Нижний мир."
+	}
+	
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Alchemical Table",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/alchemical.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockalchemicaltable",
+      "title": "Alchemical Table",
+      "text": "Alchemical table is a special table with alchemical utencils.It is used for turning one metal into another."
+	},
+	{
+	"type": "relations",
+	"entries": ["ingredients/metals"],
+	"title": "Related pages"
+	}
+	  
+	
+  ]
+}

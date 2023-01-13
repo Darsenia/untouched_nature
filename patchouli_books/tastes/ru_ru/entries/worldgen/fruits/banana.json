@@ -1,0 +1,23 @@
+{
+  "name": "Банан",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_banana_16.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbanana",
+      "title": "Банан",
+      "text": "Применениe:фруктовый салат,запеканка с маракуйей."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/banana.png"],
+      "title": "Банан",
+      "text": "Банан растет в тропических биомах."
+	}
+	  
+	
+  ]
+}

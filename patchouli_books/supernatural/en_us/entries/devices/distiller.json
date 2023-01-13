@@ -1,0 +1,27 @@
+{
+  "name": "Distiller",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/distiller.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockdistillerready",
+      "title": "Distiller",
+      "text": "Distiller is a device that allows separation of liquid mixture in order to get special substances, like essential oils or alcohol.Aromatic plants(aromatic sage, lavender, mint, rose, verbena, wormwood) are used to get essential oils, asphodelus roots give clear spirit, and potatoes give alcohol."
+	},
+  {
+  "type": "text",
+  "text": "Fire the distiller with any lighter and right-click with a plant on it.Wait until the process is over and take out the extract with a glass bottle."
+  
+  },
+	{
+	  "type": "image",  
+      "title": "Distiller recipes" , 	  
+     "images": ["untouched_nature:textures/renders/distiller_recipes.png"]
+	 
+	}
+	  
+	
+  ]
+}

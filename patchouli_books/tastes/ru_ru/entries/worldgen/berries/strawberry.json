@@ -1,0 +1,23 @@
+{
+  "name": "Клубника",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_wild_strawberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitstrawberry",
+      "title": "Клубника",
+      "text": "Сладкая клубника.Применение:сок,варенье."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/strawberry.png"],
+      "title": "Куст клубники",
+      "text": "Клубника растет в умеренном климате в полях."
+	}
+	  
+	
+  ]
+}

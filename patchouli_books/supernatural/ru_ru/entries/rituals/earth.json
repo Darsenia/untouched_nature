@@ -1,0 +1,29 @@
+{
+  "name": "Посох Земли",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_earth.png",
+  "sortnum":2,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Земли",
+      "text1": "Дальнобойное оружие,наносит урон и накладывает эффект нехватки воздуха,если возможно.",
+	  "text2": "Жертва: саженец хвойного дерева.",
+	  "text3": "Марс: железный слиток",
+	  "text4": "Плутон: осколок кристалла земли",
+	  "text5": "Mercury: зеленая яшма",
+	  "text6": "Юпитер: палка,обвитая лианами"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_earth_stuff.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

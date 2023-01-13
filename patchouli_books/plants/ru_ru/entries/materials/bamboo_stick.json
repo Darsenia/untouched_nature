@@ -1,0 +1,14 @@
+{
+  "name": "Бамбуковая палка",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/bamboostick.png",
+  "sortnum": 1,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembamboostick",
+      "title": "Бамбуковая палка",
+      "text": "Палка, сделанная из стеблей бамбука.Используется в рецептах,требующих обычных палок, а также для создания бамбуковых декоративных блоков."
+	}
+	]
+}

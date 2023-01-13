@@ -1,0 +1,26 @@
+{
+  "name": "Potion of Insight",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_insight_16.png",
+  "sortnum":3,
+  "pages": [
+  
+	{
+	  "type": "text_potion",      
+      "title": "Potion of Insight",
+      "text1": "Potion of Insight is a special potion, that gives your an ability to feel the world around.",
+	  "text2": "Time: 1000 ticks.",
+	  "text3": "Effects: heals existing blindness, shift-right-click with an empty hand on the block to search for vibrations of precious ores in 8x8x8 area.",
+	  "text4": "Initial solvent: water."
+	
+	},
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/insight.png"]
+	  
+	}
+	  
+	
+  ]
+}

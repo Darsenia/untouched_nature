@@ -1,0 +1,25 @@
+{
+  "name": "Antimagic Potion",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_antimagic_16.png",
+  "sortnum":9,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Antimagic Potion",
+      "text1": "Antimagic Potion is a powerful potion, that makes you totally unaffected by all magical damage.And yeah...including any other potions.",
+	  "text2": "Time: 1800 ticks.",
+	  "text3": "Effects: adds magical damage immunity.",
+	  "text4": "Initial solvent: wormwood tincture."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/antimagic.png"]
+	  
+	}
+	  
+	
+  ]
+}

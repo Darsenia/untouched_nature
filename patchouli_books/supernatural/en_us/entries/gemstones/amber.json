@@ -1,0 +1,16 @@
+{
+  "name": "Amber",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/amber_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/amber.png"],
+      "title": "Amber",
+      "text": "Height:35-128.Amber is a hardened resin of prehistoric trees.Organic gemstone."
+	}
+	  
+	
+  ]
+}

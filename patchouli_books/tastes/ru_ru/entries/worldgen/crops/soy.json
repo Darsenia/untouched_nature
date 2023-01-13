@@ -1,0 +1,23 @@
+{
+  "name": "Соя",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_soy_4.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsoybeans",
+      "title": "Соевые бобы",
+      "text": "Применение:соевый соус,соевое мясо."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/soy.png"],
+      "title": "Соя",
+      "text": "Соя растет в теплых и жарких биомах."
+	}
+	  
+	
+  ]
+}

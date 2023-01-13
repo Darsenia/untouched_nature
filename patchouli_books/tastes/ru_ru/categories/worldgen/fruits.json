@@ -1,0 +1,7 @@
+{
+    "name": "Фрукты",
+    "description": "Untouched Nature добавляет множество фруктовых деревьев и растений.Фрукты можно съесть или же использовать для приготовления блюд.",
+	"icon": "untouched_nature:textures/items/fruit_orange.png",
+	"parent": "worldgen",
+	"sortnum": 2
+    }

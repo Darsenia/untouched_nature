@@ -1,0 +1,20 @@
+{
+  "name": "Shinyphere",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/shinyphere_seedbox.png",
+  "sortnum": 7,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemshinyphereseedbox",
+      "title": "Shinyphere seedbox",
+      "text": "Shinyphere seedbox can be get from shiny orange plants, growing in magical biomes.They are necessery for many magic purposes, and are used to make a shinyphere lantern."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantorangeshiny",
+      "title": "Shinyphere",
+      "text": "Shinyphere is a rare glowing plant, native to the magical biomes, like Fairy Forest."
+	}
+	]
+}

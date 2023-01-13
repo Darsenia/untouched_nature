@@ -1,0 +1,25 @@
+{
+  "name": "Hunting Spirit",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/hunter_spirit_16.png",
+  "sortnum":4,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Hunting Spirit",
+      "text1": "Hunting Spirit is a good potion for the ones, searching for things and better hunting.",
+	  "text2": "Time: 2000 ticks.",
+	  "text3": "Effects: heals slowness, weakness and unluck, adds Strength I and Luck 10.Highlights all animals in big area.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/hunting.png"]
+	  
+	}
+	  
+	
+  ]
+}

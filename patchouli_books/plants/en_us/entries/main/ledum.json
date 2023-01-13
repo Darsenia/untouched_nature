@@ -1,0 +1,16 @@
+{
+  "name": "Ledum",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/bush_ledum.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ledum.png"],
+      "title": "Ledum",   
+      "text": "Distribution: Light Taiga/ coniferous forests if vanilla world enabled."
+	}
+	  
+	
+  ]
+}

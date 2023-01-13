@@ -1,0 +1,22 @@
+{
+  "name": "Simple antidote",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/n_ilk.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unsimpleantidote",
+  "title": "Simple antidote",
+  "text":"Simple antidote is a single-use simple drink against poisons."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipesimpleantidote"
+	     
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Glass Worker's Table",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/glass_table.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockglassworkerstable",
+      "title": "Glass Worker's Table",
+      "text": "It is a special crafting table, that is used for making stained glass.You can see recipes using Recipes button in there.There are several additional slots (on the left and in the bottom) to store crafting ingredients."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguiglassmain.png"],      
+      "text": "The interface of the table."
+	},
+	{
+	  "type": "text",            
+      "text": "Put nippers and soldering iron into the red slots.Inspiration template goes to the pink slot.An input material (glass) goes to the blue slot,glass shards go to another slots.Click the Construct button to get an output."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationmoon",
+      "title": "Inspiration Template",
+      "text": "It is a template, that you can use in the Glass Worker's Table to craft beautiful stained glass.There are several kinds of Inspiration templates: Lily, Daisy, Holly, Rose, Poppy, Star, Sun, Redstone."
+	},
+	{
+	  "type": "text",   
+      "title": "Stained Glass",	  
+      "text": "Every template gives two types of a stained glass- base and main pattern.Each kind is available in two color variations: dark(black frame) and light(light frame)."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempaperandquill",
+      "title": "Paper and Quill",
+      "text": "Paper and Quill are used to get an inspiration from various nature objects.When you are inspired enough, you'll get a sketch (Inspiration Template) of a future stained glass, that you will be able to craft later."
+	},
+	{
+	  "type": "text",   
+      "title": "Inspiration",	  
+      "text": "It is a special state of mind, that helps you to turn a simple list of paper (Paper and Quill) into the template of a future creation.There are 8 ways to get the inspiration."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationmoon",
+      "title": "Moon",
+      "text": "Click with a Paper and Quill item in the air while looking up on the moon at midnight."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationsun",
+      "title": "Sun",
+      "text": "Click with a Paper and Quill item in the air while looking up on the sun at midday."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationrose",
+      "title": "Rose",
+      "text": "Click with a Paper and Quill item on any rose-like flower."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationpoppy",
+      "title": "Poppy",
+      "text": "Click with a Paper and Quill item on a Blue Poppy flower."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationdaisy",
+      "title": "Daisy",
+      "text": "Click with a Paper and Quill item on any daisy-like flower."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationlily",
+      "title": "Lily",
+      "text": "Click with a Paper and Quill item on the flowering Nymphaea waterplant."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationholly",
+      "title": "Holly",
+      "text": "Click with a Paper and Quill item on the Poinsettia flower or Holly tree leaves."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:uniteminspirationredstone",
+      "title": "Redstone",
+      "text": "Click with a Paper and Quill item on the redstone wire."
+	}
+  ]
+}

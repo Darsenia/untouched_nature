@@ -1,0 +1,25 @@
+{
+  "name": "Vitamin Burst",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/vitamin_burst.png",
+  "sortnum":12,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Vitamin Burst",
+      "text1": "Vitamin Burst is a useful potion, that boosts immunity.",
+	  "text2": "Time: 1000 ticks.",
+	  "text3": "Effects: adds Regeneration II and Resistance I",
+	  "text4": "Initial solvent: orange juice."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/vitamin.png"]
+	  
+	}
+	  
+	
+  ]
+}

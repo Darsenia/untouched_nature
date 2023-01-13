@@ -1,0 +1,14 @@
+{
+  "name": "Paints",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/paint_lime.png",
+  "sortnum": 14,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempaintlime",
+      "title": "Paints",
+      "text": "Paints are small portions of color pigments, used in the Painting Machine.You can craft 8 paints from a dye."
+	}
+	]
+}

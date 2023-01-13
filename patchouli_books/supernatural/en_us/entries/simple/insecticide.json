@@ -1,0 +1,22 @@
+{
+  "name": "Insecticide",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/insecticide.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:uninsecticide",
+  "title": "Insecticide",
+  "text":"Insecticide is a liquid with strong smell, based on alcohol, essential oil and herbs.It damages spiders and poisones them, so they start infecting others at touch.Insecticide can be strong enough to kill a whole colony of spiders.It has several uses."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeinsecticide"
+	     
+	}
+	  
+	
+  ]
+}

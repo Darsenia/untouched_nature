@@ -1,0 +1,23 @@
+{
+  "name": "Banana",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_banana_16.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbanana",
+      "title": "Banana",
+      "text": "Usage:fruit salad, passionfruit casserole."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/banana.png"],
+      "title": "Banana plant",
+      "text": "Banana grows in tropical biomes."
+	}
+	  
+	
+  ]
+}

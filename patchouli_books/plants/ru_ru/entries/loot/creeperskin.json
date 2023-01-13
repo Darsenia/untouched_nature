@@ -1,0 +1,16 @@
+{
+  "name": "Кожа крипера",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/creeper_skin.png",
+  "sortnum": 5,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcreeperskin",
+      "title": "Кожа крипера",
+      "text": "Бедный крипер.Придется убить его кристальным ножом(25% шанс)."
+	}
+	  
+	
+  ]
+}

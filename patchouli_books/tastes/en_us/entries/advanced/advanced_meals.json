@@ -1,0 +1,16 @@
+{
+  "name": "Advanced meals",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/items/longan_chicken.png",
+  "sortnum": 1,
+  "pages": [
+  
+	
+	{
+	  "type": "text",      
+      "title": "Advanced meals",
+      "text": "Advanced meals, made in stove, as well as crafted directly, in most cases can be eaten several times.DON'T HOLD THE MOUSE BUTTON!"
+	}
+	
+  ]
+}

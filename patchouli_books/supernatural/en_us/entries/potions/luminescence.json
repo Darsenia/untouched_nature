@@ -1,0 +1,25 @@
+{
+  "name": "Luminescence Cream",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/luminiscence_balsam.png",
+  "sortnum":4,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Luminescence Cream",
+      "text1": "Luminescence Cream is a shiny cream, that makes you sparkle and glow.",
+	  "text2": "Time: 3600 ticks.",
+	  "text3": "Effects: lightens you way.Now all your footsteps will be illuminated.ATTENTION! light updates may be performance-eating, be accurate with this potion, if your PC is weak.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/luminescence.png"]
+	  
+	}
+	  
+	
+  ]
+}

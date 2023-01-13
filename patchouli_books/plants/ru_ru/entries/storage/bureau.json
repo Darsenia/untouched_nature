@@ -1,0 +1,16 @@
+{
+  "name": "Комод",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/bureau.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbureau",
+      "title": "Комод",
+      "text": "Комод имеет три ящика для хранения,перключаемые кнопками.Красивый предмет мебели."
+	}
+	  
+	
+  ]
+}

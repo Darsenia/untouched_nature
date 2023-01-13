@@ -1,0 +1,20 @@
+{
+  "name": "Выпечка",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/items/raw_parcel_strawberry.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Выпечка",
+      "text": "Есть два вида выпечки:сладкие конвертики с вареньем и пирожки.Конвертики готовятся из кружочков теста и ложки любого варенья.Пирожки готовятся из кружочка теста и разной начинки:мяса,птицы,рыбы,яиц,риса,капусты.Сырые пирожки и конвертики готовятся в обычной печке"
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unreciperawparcelstrawberry",
+	 "recipe2": "untouched_nature:unrecipestuffedbunmeat"
+     
+	}
+	
+  ]
+}

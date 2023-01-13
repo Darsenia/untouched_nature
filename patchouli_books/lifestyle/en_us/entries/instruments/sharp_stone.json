@@ -1,0 +1,14 @@
+{
+  "name": "Small Sharp Stone",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/item_small_stone.png",
+  "sortnum": 1,
+  "pages": [
+   {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsmallstone",
+      "title": "Small Sharp Stone",
+      "text": "This pointy stone can be found among the pebbles, spawning here and there.The very first primitive tool,very weak but easy-to-find weapon.Especially useful to break lying on the ground coconuts(use right-click).Breaking tough ones may require several stones."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Lightning Staff",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_lightning.png",
+  "sortnum":4,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Lightning Staff",
+      "text1": "Projectile weapon.Hits enemy with lightnings.",
+	  "text2": "Sacrifice: blaze rod.",
+	  "text3": "Jupiter: sapphire",
+	  "text4": "Venus: copper ingot",
+	  "text5": "Saturn: aetherial crystal",
+	  "text6": "Sun: wooden dense rod"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_lightning_stuff.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

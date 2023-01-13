@@ -1,0 +1,20 @@
+{
+  "name": "Flowers",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/rose_flower.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Flowers",
+      "text": "Currently there are several flowers, that can be get from an appropriate plant in the Herbalist Table (datura, vinca, calendula, linden), as well as Safflor petals and Poppy seeds.There is also mystical Fern Flower, that can be get from flowering fern by using shears. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/flowers.png"]
+	 
+	}
+	  
+	
+  ]
+}

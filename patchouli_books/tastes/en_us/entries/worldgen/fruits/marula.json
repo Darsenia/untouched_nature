@@ -1,0 +1,23 @@
+{
+  "name": "Marula",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_marula.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmarula",
+      "title": "Marula",
+      "text": "Usage: fruit salad, jam, wine."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/marula.png"],
+      "title": "Marula tree",
+      "text": "Marula tree grows in hot and dry biomes, like savanna."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kapok",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/fruit_kapok_fibre.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitkapok",
+      "title": "Kapok fibre",
+      "text": "Kapok fibre is used to make wool.Give freedom to your sheep!"
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/kapok.png"],      
+      "text": "Kapok tree, grown from a sapling"
+	},
+	{
+	  "type": "text",        
+      "text": "Kapok is a giant tropical rainforest tree, a great source of kapok fibre.Kapok, grown from a sapling,is much smaller.Kapok fibre is historically used for making pillows,matrasses etc.Here in Minecraft it is used for crafting wool."
+	  }
+	  
+	
+  ]
+}

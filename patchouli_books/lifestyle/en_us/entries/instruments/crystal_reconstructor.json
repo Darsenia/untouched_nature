@@ -1,0 +1,14 @@
+{
+  "name": "Crystal Reconstructor",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/sapling_crystal.png",
+  "sortnum": 11,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcrystalsapling",
+      "title": "Crystal Reconstructor",
+      "text": "Magical instrument for obtaining saplings from the leaves of various trees.100% effective.Right-click on the leaves to reconstruct them into the sapling.Works both on UN and vanilla trees."
+	}	
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Посох Грома",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_lightning.png",
+  "sortnum":4,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Грома",
+      "text1": "Дальнобойное оружие,вызывает молнию с небес на голову жертвы.",
+	  "text2": "Жертва: стержень ифрита.",
+	  "text3": "Юпитер: сапфир",
+	  "text4": "Венера: медный слиток",
+	  "text5": "Сатурн: эфирный кристалл",
+	  "text6": "Солнце: палка из твердой древесины"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_lightning_stuff.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

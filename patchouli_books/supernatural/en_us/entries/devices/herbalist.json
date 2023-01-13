@@ -1,0 +1,27 @@
+{
+  "name": "Herbalist Table",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/herb.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unherbalisttable",
+      "title": "Herbalist Table",
+      "text": "Herbalist table is a basic crafting table, used for cutting plants into different parts and pounding things in the mortar.Carve button is used for cutting and Pound for powdering.There are several additional slots for storage on the both sides."
+	},
+	{
+	"type": "image",
+	"images": ["untouched_nature:textures/renders/herbalist.png"],
+	"text": "Gui of the Herbalist Table"
+	},
+	
+	{
+	"type": "relations",
+	"entries": ["ingredients/roots","ingredients/flowers","ingredients/berries","ingredients/powders"],
+	"title": "Related pages"
+	}
+	  
+	
+  ]
+}

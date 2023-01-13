@@ -1,0 +1,16 @@
+{
+  "name": "Бамбуковый сундук",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/bamboo_chest.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbamboochestopen",
+      "title": "Бамбуковый сундук",
+      "text": "Обычный одинарный сундук,только из бамбука.Открывается и закрывается вручную."
+	}
+	  
+	
+  ]
+}

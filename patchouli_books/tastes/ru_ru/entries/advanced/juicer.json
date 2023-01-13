@@ -1,0 +1,23 @@
+{
+  "name": "Соковыжималка",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/juicer.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Соковыжималка",
+      "text": "Маленькое кухонное устройство для отжимания сока.На данный момент есть 5 видов сока: лимонный,апельсиновый,гранатовый,вишневый,из лесных ягод.Поместите стакан в соковыжималку,затем откройте инвентарь и положите внутрь 4 фрукта или 4 пригорошни ягод."
+	},
+	{
+	  "type": "image",      
+      "title": "Соковыжималка",
+      "images": ["untouched_nature:textures/renders/juicer_0.png"]
+	},
+	{
+	  "type": "image",      
+      "title": "Рецепты",
+      "images": ["untouched_nature:textures/renders/juices.png"]
+	}	
+  ]
+}

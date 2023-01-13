@@ -1,0 +1,16 @@
+{
+  "name": "Jade",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/jade.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/jade_ore.png"],
+      "title": "Jade",
+      "text": "Abundance: Lush Needle Peaks biome.Decorative, semi-transparent gemstone."
+	}
+	  
+	
+  ]
+}

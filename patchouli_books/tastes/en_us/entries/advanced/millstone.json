@@ -1,0 +1,18 @@
+{
+  "name": "Millstone",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/mill.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Millstone",
+      "text": "Millstone is a simple stone device for grinding products into light powder or paste.Currently millstone is used for grinding wheet hay into flour, soy beans into soy paste, flax seeds into flax paste, olives into olive paste."
+	},
+	{
+	  "type": "image",      
+      "title": "Millstone recipes",
+      "images": ["untouched_nature:textures/renders/millstone.png"]
+	}	
+  ]
+}

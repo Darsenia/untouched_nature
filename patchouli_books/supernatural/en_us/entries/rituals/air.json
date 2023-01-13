@@ -1,0 +1,29 @@
+{
+  "name": "Air Staff",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_air.png",
+  "sortnum":4,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Air Staff",
+      "text1": "Projectile weapon.Throws enemies backwards and casts slowness.Freezes water under feet if held in hand.",
+	  "text2": "Sacrifice: white flower.",
+	  "text3": "Mercury: wooden fir rod",
+	  "text4": "Sun: air crystal shard",
+	  "text5": "Mars: lead ingot",
+	  "text6": "Saturn: chalcedony"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_air_stuff.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

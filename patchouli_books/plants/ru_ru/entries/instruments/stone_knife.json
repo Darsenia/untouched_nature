@@ -1,0 +1,14 @@
+{
+  "name": "Каменный нож",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/item_stone_knife.png",
+  "sortnum": 2,
+  "pages": [  
+    {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstoneknife",
+      "title": "Каменный нож",
+      "text": "Примитивный нож из палки и острого камня.Хрупкое и слабое оружие.В основном используется в рецептах.Шифт-щелчок правой кнопкой мыши для соскребания мха с блоков замшелого булыжника или камня(полезно при отключенном спавне мха)."
+    }
+  ]
+}

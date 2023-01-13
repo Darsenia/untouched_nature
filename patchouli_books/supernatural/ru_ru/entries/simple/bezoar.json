@@ -1,0 +1,22 @@
+{
+  "name": "Безоар",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/bezoar.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unitembezoar",
+  "title": "Безоар",
+  "text":"Безоар-конкремент из желудка животных,к примеру,овцы.Противоядие,но лишь одноразовое.Используется и в прочих магических целях."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipegetbezoar"
+	     
+	}
+	  
+	
+  ]
+}

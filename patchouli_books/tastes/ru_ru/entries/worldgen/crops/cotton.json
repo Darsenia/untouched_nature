@@ -1,0 +1,23 @@
+{
+  "name": "Хлопчатник",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/bush_cotton.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unbushcotton",
+      "title": "Хлопчатник",
+      "text": "Применение:пряжа и ткань."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cotton.png"],
+      "title": "Хлопчатник",
+      "text": "Хлопчатник растет в теплых полях."
+	}
+	  
+	
+  ]
+}

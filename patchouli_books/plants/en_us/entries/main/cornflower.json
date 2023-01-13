@@ -1,0 +1,17 @@
+{
+  "name": "Cornflower",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_cornflower.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cornflower.png"],
+      "title": "Cornflower",
+	  "text": "Distribution: plains, sunflower plains."
+	  
+  }
+	  
+	
+  ]
+}

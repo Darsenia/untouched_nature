@@ -1,0 +1,22 @@
+{
+  "name": "Гирлянда из чеснока",
+  "category": "simple",
+  "icon": "untouched_nature:textures/blocks/garlic_hanging.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unblockgarlicgarland",
+  "title": "Гирлянда из чеснока",
+  "text":"Говорят,что такие гирлянды отпугивают вампиров."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipegarlicgarland"
+	     
+	}
+	  
+	
+  ]
+}

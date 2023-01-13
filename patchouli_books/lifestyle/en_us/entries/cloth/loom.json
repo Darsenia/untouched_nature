@@ -1,0 +1,21 @@
+{
+  "name": "Loom",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/renders/loom.png",
+  "sortnum": 7,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockloom0",
+      "title": "Loom",
+      "text": "Loom is a device, that helps to weave cloth from yarn.Right-click with a yarn on the loom to start weaving.You will need 4 yarns in order to make a cloth."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/weaving.png"],      
+      "text": "Scheme of loom recipes"
+	}
+	  
+	
+  ]
+}

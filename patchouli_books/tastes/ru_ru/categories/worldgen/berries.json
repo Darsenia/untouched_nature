@@ -1,0 +1,7 @@
+{
+    "name": "Ягоды",
+    "description": "Untouched Nature добавляет много ягодных кустов и деревьев.Ягоды можно съесть или использовать для приготовления блюд.",
+	"icon": "untouched_nature:textures/items/forest_berries_handful.png",
+	"parent": "worldgen",
+	"sortnum": 1
+    }

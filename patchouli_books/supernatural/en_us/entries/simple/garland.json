@@ -1,0 +1,22 @@
+{
+  "name": "Garlic garland",
+  "category": "simple",
+  "icon": "untouched_nature:textures/blocks/garlic_hanging.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unblockgarlicgarland",
+  "title": "Garlic garland",
+  "text":"Garlic garland is a decorative garland, made form garlic.Helps against vampires."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipegarlicgarland"
+	     
+	}
+	  
+	
+  ]
+}

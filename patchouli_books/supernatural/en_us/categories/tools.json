@@ -1,0 +1,6 @@
+{
+    "name": "Basic tools",
+    "description": "There are several tools, that are necessery in magical arts.",
+	"icon": "untouched_nature:textures/items/dark_dagger.png",
+	"sortnum": 3
+    }

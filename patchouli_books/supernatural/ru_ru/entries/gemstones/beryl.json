@@ -1,0 +1,16 @@
+{
+  "name": "Берилл",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/beryl.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/beryl.png"],
+      "title": "Берилл",
+      "text": "Глубина распространения:35-90.Драгоценный светло-голубой камень.Покровитель:Луна,Венера;элемент:вода."
+	}
+	  
+	
+  ]
+}

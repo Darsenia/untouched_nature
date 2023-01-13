@@ -1,0 +1,20 @@
+{
+  "name": "Leaf",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/leaf_chimaphila.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Leaf",
+      "text": "Currently there are 2 types of leaf, that can be get in Herbalist Table (chimaphila and aloe) and spearmint leaf, that can be get with shears. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/leaf.png"]
+	 
+	}
+	  
+	
+  ]
+}

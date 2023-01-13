@@ -1,0 +1,23 @@
+{
+  "name": "Sea Buckthorn",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_sea_buckthorn.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitseabuckthorn",
+      "title": "Sea Buckthorn",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/seabuckthorn.png"],
+      "title": "Sea Buckthorn tree",
+      "text": "Sea Buckthorn tree grows in taiga-like and temperate coniferous forests."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Лимон",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_lemon.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlemon",
+      "title": "Лимон",
+      "text": "Применение:лимонный сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lemon.png"],
+      "title": "Лимон",
+      "text": "Лимонное дерево растет в poplar grove, poplar hills, warm mixed forest."
+	}
+	  
+	
+  ]
+}

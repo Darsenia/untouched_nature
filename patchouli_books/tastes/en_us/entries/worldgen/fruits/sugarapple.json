@@ -1,0 +1,23 @@
+{
+  "name": "Sugar Apple",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_sugarapple.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitsugarapple",
+      "title": "Sugar Apple",
+      "text": "Usage: can be eaten directy."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/sugarapple.png"],
+      "title": "Sugar Apple tree",
+      "text": "Sugar Apple tree grows in jungle biomes."
+	}
+	  
+	
+  ]
+}

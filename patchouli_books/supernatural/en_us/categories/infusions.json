@@ -1,0 +1,6 @@
+{
+    "name": "Infusions",
+    "description": "Infusions are simple single-ingredient potions, brewed on water.",
+	"icon": "untouched_nature:textures/items/infusion_reindeer_moss_16.png",
+	"sortnum": 4
+    }

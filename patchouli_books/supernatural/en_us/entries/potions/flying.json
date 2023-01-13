@@ -1,0 +1,25 @@
+{
+  "name": "Flying ointment",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/flying_ointment_16.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Flying ointment",
+      "text1": "Flying ointment is a legendary witch's salve, that gives ability to fly without a broom.",
+	  "text2": "Time: 3500 ticks.",
+	  "text3": "Effects: creative flight.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/flying.png"]
+	  
+	}
+	  
+	
+  ]
+}

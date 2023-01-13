@@ -1,0 +1,23 @@
+{
+  "name": "Овес",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_oats_4.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemoats",
+      "title": "Овес",
+      "text": "Применение:каша."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/oats.png"],
+      "title": "Овес",
+      "text": "Овес растет в умеренном и теплом климате в полях."
+	}
+	  
+	
+  ]
+}

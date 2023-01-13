@@ -1,0 +1,16 @@
+{
+  "name": "Сундук из сухого бамбука",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/dry_bamboo_chest.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbamboochestdryopen",
+      "title": "Сундук из сухого бамбука",
+      "text": "Обычный одинарный сундук,только из сухого бамбука.Открывается и закрывается."
+	}
+	  
+	
+  ]
+}

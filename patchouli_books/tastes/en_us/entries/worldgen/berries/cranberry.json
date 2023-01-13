@@ -1,0 +1,23 @@
+{
+  "name": "Cranberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cranberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcranberry",
+      "title": "Cranberry",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cranberry.png"],
+      "title": "Cranberry bush",
+      "text": "Cranberry bush grows in wet, swampy biomes."
+	}
+	  
+	
+  ]
+}

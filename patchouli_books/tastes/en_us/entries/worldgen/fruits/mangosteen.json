@@ -1,0 +1,23 @@
+{
+  "name": "Mangosteen",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_mangosteen.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmangosteen",
+      "title": "Mangosteen",
+      "text": "Usage: fruit salad, pork with mangosteen, mangosteen rice, mangosteen clafouti."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mangosteen.png"],
+      "title": "Mangosteen tree",
+      "text": "Mangosteen tree grows in lush autumnal forest biome."
+	}
+	  
+	
+  ]
+}

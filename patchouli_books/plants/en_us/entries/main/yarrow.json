@@ -1,0 +1,17 @@
+{
+  "name": "Yarrow",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_yarrow.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/yarrow.png"],
+      "title": "Yarrow",
+	  "text": "Distribution: Steppe / plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

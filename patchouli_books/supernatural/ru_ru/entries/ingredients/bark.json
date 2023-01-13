@@ -1,0 +1,20 @@
+{
+  "name": "Кора",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/bark_oak.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Кора",
+      "text": "Кора-важный ингредиент.Делается каменным ножом из бревна в сетке крафта.Есть 3 типа коры:дубовая(из любого дуба),кора кизила и ивы(из любой ивы)."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/barks.png"]
+	 
+	}
+	  
+	
+  ]
+}

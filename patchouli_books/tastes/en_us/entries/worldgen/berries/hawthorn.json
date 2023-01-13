@@ -1,0 +1,23 @@
+{
+  "name": "Hawthorn",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_howthorn.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruithawthorn",
+      "title": "Hawthorn",
+      "text": "Usage: tincture."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/hawthorn.png"],
+      "title": "Hawthorn tree",
+      "text": "Hawthorn tree grows in forests,oak grove and temperate fir forest."
+	}
+	  
+	
+  ]
+}

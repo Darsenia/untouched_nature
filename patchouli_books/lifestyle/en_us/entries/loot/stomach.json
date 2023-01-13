@@ -1,0 +1,16 @@
+{
+  "name": "Sheep's Stomach",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/sheep_stomach.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootsheepstomach",
+      "title": "Sheep's Stomach",
+      "text": "The stomach of a sheep, traditional medicine ingredient against some belly ailments.You'll have to kill a sheep with a crystal dagger (10% chance).The stomach itself is used for magical and medical purposes, as well as it is a source of a Bezoar- powerful antidot.Use stomach and stone knife to get bezoar. "
+	}
+	  
+	
+  ]
+}

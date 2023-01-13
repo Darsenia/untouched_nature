@@ -1,0 +1,23 @@
+{
+  "name": "Мангостин",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_mangosteen.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmangosteen",
+      "title": "Мангостин",
+      "text": "Применение:фруктовый салат, свинина с мангостинами, рис с мангостинами,клафути из мангостина."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mangosteen.png"],
+      "title": "Мангостин",
+      "text": "Мангостин растет в lush autumnal forest."
+	}
+	  
+	
+  ]
+}

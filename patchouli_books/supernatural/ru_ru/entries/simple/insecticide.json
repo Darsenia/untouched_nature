@@ -1,0 +1,22 @@
+{
+  "name": "Инсектицид",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/insecticide.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:uninsecticide",
+  "title": "Инсектицид",
+  "text":"Инсектицид-жидкость с резким запахом,приготовленная из спирта с добавлением эфирного масла и отвара некоторых растений.Наносит урон паукам и заражает их,и те начинают распространять яд на тех,с кем контактируют.Иногда этого достаточно для уничтожения целой колонии пауков.Имеет несколько использований."
+   
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeinsecticide"
+	     
+	}
+	  
+	
+  ]
+}

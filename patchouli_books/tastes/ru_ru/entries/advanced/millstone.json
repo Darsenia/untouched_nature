@@ -1,0 +1,18 @@
+{
+  "name": "Жернов",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/mill.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Жернов",
+      "text": "Простейшая версия мельницы,сделанная из камня.На данный момент испольуется для получения муки из сена,передавливания оливок,льняных семян и соевых бобов в пасту."
+	},
+	{
+	  "type": "image",      
+      "title": "Рецепты",
+      "images": ["untouched_nature:textures/renders/millstone.png"]
+	}	
+  ]
+}

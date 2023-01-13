@@ -1,0 +1,23 @@
+{
+  "name": "Ананас",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pineapple.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpineapple",
+      "title": "Ананас",
+      "text": "Применение:разрезать на кусочки и использовать для приготовления фруктового салата."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pineapple.png"],
+      "title": "Ананас",
+      "text": "Ананас растет в тропических биомах."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Spectral yarn and cloth",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/spectral_cloth.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemspectralyarn",
+      "title": "Spectral yarn",
+      "text": "Spectral yarn is a magical material, crafted from silk yarn and a ghast tear.It is used to weave spectral cloth with a loom."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemspectralcloth",
+      "title": "Spectral cloth",
+      "text": "Spectral cloth is a result of weaving spectral yarn in a loom.It is used to make the Coat of Invisibility."
+	}
+	  
+	
+  ]
+}

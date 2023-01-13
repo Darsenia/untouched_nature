@@ -1,0 +1,6 @@
+{
+    "name": "Mob's Loot",
+    "description": "There are several things, that can be get from mobs.",
+	"icon": "untouched_nature:textures/items/wither_fork_bone.png",
+	"sortnum": 7
+    }

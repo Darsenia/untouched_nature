@@ -1,0 +1,26 @@
+{
+  "name": "Straw",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/strawbunch.png",
+  "sortnum": 2,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstraw",
+      "title": "Straw",
+      "text": "Straw is crafted from the straw bunch block.Can be used as a fuel, as well as in crafting recipes.You can turn straw into gold using spinning wheel, if you were lucky enough to get a wither fork bone."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockstrawblock",
+      "title": "Straw Bunch",
+      "text": "Bunch of dried grass.Can be used to craft straw or for decorative purposes."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockgrassbunch",
+      "title": "Grass Bunch",
+      "text": "Bunch of raw grass.Grab some high grass and craft a bunch of grass, then leave it for a while under the sun to dry up - and you will get a straw bunch block."
+	}
+	]
+}

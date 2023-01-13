@@ -1,0 +1,24 @@
+{
+  "name": "Metals",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/copper_ingot.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Metals",
+      "text": "In Untouched Nature there are no metal ores in the world, so if you want to use any new metal, you will need to synthesize them, using Alchemical Table.To upgrade the metal to any higher tier-use the Quintessence of Creation, to downgrade to the lower tier-use the Quintessence of Chaos."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/alchemical_table.png"]
+	 
+	},
+	  {
+	  "type": "text",      
+      
+      "text": "Pour the quintessence in the alchemical table burner glass vessel, than open the Gui and place the metal nugget inside.Tiers of metals are: Iron-->Tin-->Lead; Copper<--Silver<--Gold. "
+	  }
+	
+  ]
+}

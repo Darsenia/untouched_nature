@@ -1,0 +1,23 @@
+{
+  "name": "Фиолетовая ледяника",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_ice_purple.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruiticepurple",
+      "title": "Фиолетовая ледяника",
+      "text": "Применение:прямое употребление в пищу,вино."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/icepurple.png"],
+      "title": "Фиолетовое льдистое дерево",
+      "text": "Фиолетовое льдистое дерево растет в ice grove."
+	}
+	  
+	
+  ]
+}

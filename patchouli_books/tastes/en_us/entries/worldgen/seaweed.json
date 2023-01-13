@@ -1,0 +1,28 @@
+{
+  "name": "Seaweed",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/seaweed_item.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/seaweed.png"],
+      "title": "Seaweed in the ocean",
+      "text": "Seaweed grows underwater in Ocean biome.It is a cheap source of food."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemseaweed",
+      "title": "Seaweed",
+      "text": "Single Seaweed item, dropped from growing Seaweed."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemseaweedbunch",
+      "title": "Seaweed bunch",
+      "text": "Seaweed bunch is an ingredient for Seaweed Soup and Rolls."
+	}
+	  
+	
+  ]
+}

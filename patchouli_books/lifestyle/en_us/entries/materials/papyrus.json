@@ -1,0 +1,14 @@
+{
+  "name": "Papyrus",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/waterplant_papyrus.png",
+  "sortnum": 9,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempapyrus",
+      "title": "Papyrus",
+      "text": "Papyrus is a very high plant, growing in a shallow water in hot areas.It can be used to craft paper."
+	}
+	]
+}

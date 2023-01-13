@@ -1,0 +1,22 @@
+{
+  "name": "Золотая нить",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/golden_yarn.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemgoldenthreadonbone",
+      "title": "Золотая нить",
+      "text": "Золотую нить можно получить с помощью обыкновенной прялки из соломы,но требуется держать в левой руке вилочковую кость скелета-иссушителя."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemgoldenyarn",
+      "title": "Золотая пряжа",
+      "text": "Золотая пряжа получается из золотой нити и используется как источник золотых самородков и в прочих рецептах."
+	}
+	  
+	
+  ]
+}

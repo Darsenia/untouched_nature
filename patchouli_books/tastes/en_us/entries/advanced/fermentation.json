@@ -1,0 +1,26 @@
+{
+  "name": "Fermentation",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/vessel.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Fermentation",
+      "text": "Fermentation is a process that allows to make wines.There are several wines: oregon grape wine, ice purple wine, marula wine, rowan wines, cherry wine, lotus wine, num-num wine. You will need to pour the raw fruit mash(made in presser) into the clay vessel by right-click.Then leave a vessel for a while until the wine is ready.Right-click with a glass bottle to take out the wine."
+	},
+{
+	  "type": "text",      
+      
+      "text": "Clay vessel also allows to make soy sauce from soy beans paste(made in presser) and sour cream from milk.Right-click with wooden bucket with olive paste or bucket with milk to start process.Right-click with a glass bottle to take out the soy sauce or with wooden bowl to take out the sour cream."
+	}	,
+	{
+	  "type": "image",      
+      "title": "Clay vessel recipes",
+      "images": ["untouched_nature:textures/renders/clay_vessel_recipes.png"]
+	  
+	
+	  
+	}
+  ]
+}

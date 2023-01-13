@@ -1,0 +1,16 @@
+{
+  "name": "Linden",
+  "category": "main",
+  "icon": "untouched_nature:textures/items/flower_linden.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/linden.png"],
+      "title": "Linden",
+	  "text": "Distribution: Forest."
+	  
+  }
+	
+  ]
+}

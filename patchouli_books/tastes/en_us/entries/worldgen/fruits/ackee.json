@@ -1,0 +1,23 @@
+{
+  "name": "Ackee",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_ackee.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitackee",
+      "title": "Ackee",
+      "text": "Ackee has poisonous seeds, so it must be peeled before it could be eaten.Usage:fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ackee.png"],
+      "title": "Ackee tree",
+      "text": "Ackee grows in hot and dry biomes, like savanna."
+	}
+	  
+	
+  ]
+}

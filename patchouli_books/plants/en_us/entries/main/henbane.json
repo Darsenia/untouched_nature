@@ -1,0 +1,17 @@
+{
+  "name": "Henbane",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_henbane.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/henbane.png"],
+      "title": "Henbane",
+	  "text": "Distribution: Wicked Lands, Schrublands / sparse or forests if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

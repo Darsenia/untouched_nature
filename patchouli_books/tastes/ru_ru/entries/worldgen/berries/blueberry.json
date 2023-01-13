@@ -1,0 +1,23 @@
+{
+  "name": "Черника",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_blueberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblueberry",
+      "title": "Черника",
+      "text": "Применение:сок,варенье."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/blueberry.png"],
+      "title": "Куст черники",
+      "text": "Черника растет в умеренном климате в лиственных и хвойных лесах."
+	}
+	  
+	
+  ]
+}

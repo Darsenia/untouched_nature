@@ -1,0 +1,14 @@
+{
+  "name": "Деревянная зажигалка",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/wooden_lighter.png",
+  "sortnum": 3,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemwoodenlighter",
+      "title": "Деревянная зажигалка",
+      "text": "Примитивная, простая в крафте штука для разжигания огня из двух палочек и сухого материала путем трения.Может зажигать адский камень,костры и прочие устройства из Untouched Nature.Недостаточно удобна для зажигания прочих блоков и портала в Нижний мир."
+	}	
+  ]
+}

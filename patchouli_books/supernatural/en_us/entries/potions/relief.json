@@ -1,0 +1,25 @@
+{
+  "name": "Relief Infusion",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_relief_16.png",
+  "sortnum":9,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Relief Infusion",
+      "text1": "Relief Infusion is a good magical remedy, that helps against belly diceases.",
+	  "text2": "Time: 1800 ticks.",
+	  "text3": "Effects: heals and adds immunity to Nausea, Hunger, Weakness and Slowness.",
+	  "text4": "Initial solvent: bergenia infusion."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/relief.png"]
+	  
+	}
+	  
+	
+  ]
+}

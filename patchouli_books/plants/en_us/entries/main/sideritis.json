@@ -1,0 +1,17 @@
+{
+  "name": "Sideritis",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_sideritis.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/sideritis.png"],
+      "title": "Sideritis",
+	  "text": "Distribution: Warm Pastoral / plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

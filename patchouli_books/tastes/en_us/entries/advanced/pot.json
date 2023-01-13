@@ -1,0 +1,55 @@
+{
+  "name": "Cooking pot",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/cook_pot.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Cooking soups",
+      "text": "First step to prepare a soup is to find all needed ingredients.Then combine them in the crafting grid with a stewpot to get stewpot with raw soup.The second step is to cook the soup: right-click with raw soup stewpot item on the fired (use any type of lighters) cooking pot.After a while cooking pot will stop boiling(particles will disappear).Click on a cooking pot with a bowl to get soup."
+	},
+	{
+	  "type": "text",      
+      "title": "Eating soups",
+      "text": "Soups have 3 types of nourishing: light soup, middle soup and thick soup.Thick soup gives more food points then light soup.Right-click(DON'T HOLD THE MOUSE BUTTON!) with the food item to eat a portion.Every soup has 4 portions."
+	},
+	{
+	  "type": "image",      
+      "title": "Cooking pot",
+      "images": ["untouched_nature:textures/renders/pot.png"]
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeborsch",
+	 "recipe2": "untouched_nature:unrecipeshchi"
+     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeseaweedsoup",
+	 "recipe2": "untouched_nature:unrecipemushroomsoup"
+     
+	}
+	,
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipebroth"
+	
+     
+	},
+	{
+	"type": "text",
+	"text": "Cooking pot is also used for cooking rice and porridge.Rice and porridge have 2 portions, that can be eaten by right-click, like a soup."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeporridge",
+	  "recipe2": "untouched_nature:unrecipeboiledrice"
+	
+     
+	}
+	
+	
+  ]
+}

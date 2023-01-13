@@ -1,0 +1,25 @@
+{
+  "name": "Drink of the Tireless",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/beer_tireless.png",
+  "sortnum":10,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Drink of the Tireless",
+      "text1": "Drink of the Tireless is a secret dwarf brew, that helps you to mine all night long.Original brew was made on dwarf beer.",
+	  "text2": "Time: 3500 ticks.",
+	  "text3": "Effects: heals Weakness and Mining Fatigue, adds Haste V, Strenght 0, Absorption III.",
+	  "text4": "Initial solvent: elderwood tincture."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/tireless.png"]
+	  
+	}
+	  
+	
+  ]
+}

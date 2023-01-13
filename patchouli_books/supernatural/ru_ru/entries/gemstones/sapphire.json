@@ -1,0 +1,16 @@
+{
+  "name": "Сапфир",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/sapphire.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/sapphire.png"],
+      "title": "Сапфир",
+      "text": "Глубина распространения:5-25.Драгоценный камень глубокого-голубого цвета.Покровитель:Юпитер;элемент:свет,воздух."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Calendula",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_calendula.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/calendula.png"],
+      "title": "Calendula",      
+      "text": "Distribution: Warm Pastoral / plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

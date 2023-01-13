@@ -1,0 +1,20 @@
+{
+  "name": "Roots",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/root_mandrake.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Roots",
+      "text": "Roots are underground parts of the plants,used for many medical or magical purposes.To get roots, place the appropriate plant in the input slot of Herbalist Table and click the Carve button.There are 7 roots now: rodiola, valeriana, asphodelus, mandrake, ginseng, burnet, orchids roots."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/roots.png"]
+	 
+	}
+	  
+	
+  ]
+}

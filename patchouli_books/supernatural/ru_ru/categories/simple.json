@@ -1,0 +1,6 @@
+{
+    "name": "Простые составы",
+    "description": "Эта глава посвящена самым простым лекарствам и прочим составам.",
+	"icon": "untouched_nature:textures/items/insecticide.png",
+	"sortnum": 6
+    }

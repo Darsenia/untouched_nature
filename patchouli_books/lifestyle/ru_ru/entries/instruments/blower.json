@@ -1,0 +1,14 @@
+{
+  "name": "Листосдуватель",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/blower.png",
+  "sortnum": 10,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unrangedleavesblower",
+      "title": "Листосдуватель",
+      "text": "Полумагический прибор для уничтожения листьев издалека.Действует в области 5х5х5.Саженцы и фрукты выпадают,но ,возможно, с меньшим шансом."
+	}	
+  ]
+}

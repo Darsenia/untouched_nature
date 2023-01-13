@@ -1,0 +1,36 @@
+{
+  "name": "Extractor",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/extractor_1.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockextractorliquid",
+      "title": "Extractor",
+      "text": "Extractor is a device that allows extraction of concentrated substances from liquid mixture.You can get extracts of several plants: adonis, bergenia, calendula, white nymphaea.Fire the extractor with any lighter and right-click with a plant on it.Wait until the process is over and take out the extract with a glass bottle."
+	},
+	
+  
+	{
+	  "type": "text",    	  
+     "text": "* P.S. New recipes may be added when the mod updates, so you may find new recipes on the next page: "
+	 
+	},
+	
+  
+	{
+	  "type": "text",    	  
+     "text": "* Smashed coconut pulp --> wax  * Icy chalkstick --> wax   * Soy beans paste --> wax"
+	 
+	}
+  ,
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/extractor_recipes.png"]
+	 
+	}
+	  
+	
+  ]
+}

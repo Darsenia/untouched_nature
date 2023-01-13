@@ -1,0 +1,25 @@
+{
+  "name": "Amphibian Cocktail",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/amphibian_cocktail.png",
+  "sortnum":8,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Amphibian Cocktail",
+      "text1": "Amphibian Cocktail is a sweet cocktail that turns you into an amphibian-man for a while.",
+	  "text2": "Time: 3000 ticks.",
+	  "text3": "Effects: adds Water Breathing and underwater Haste.",
+	  "text4": "Initial solvent: lotus wine."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/amphibian.png"]
+	  
+	}
+	  
+	
+  ]
+}

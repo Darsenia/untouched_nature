@@ -1,0 +1,28 @@
+{
+  "name": "Lotus",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/lotus_flower.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lotus.png"],
+      "title": "Lotus plant",
+      "text": "Lotus is a beautiful high waterplant, native only to warm Lush group biomes(asian)."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlotusflower",
+      "title": "Lotus flower",
+      "text": "Use lotus plant item to get the flower.Can be used to get lotus petals."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlotuspetals",
+      "title": "Lotus petals",
+      "text": "Use lotus flower to get petals.Lotus petals are the ingredient of Lotus Wine."
+	}
+	  
+	
+  ]
+}

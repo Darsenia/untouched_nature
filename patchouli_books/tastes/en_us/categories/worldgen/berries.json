@@ -1,0 +1,7 @@
+{
+    "name": "Berries",
+    "description": "Untouched Nature adds lots of berry bushes and trees.Berries can be eaten directly or can be used to prepare other meals.",
+	"icon": "untouched_nature:textures/items/forest_berries_handful.png",
+	"parent": "worldgen",
+	"sortnum": 1
+    }

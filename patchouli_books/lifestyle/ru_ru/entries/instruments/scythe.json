@@ -1,0 +1,14 @@
+{
+  "name": "Коса",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/scythe.png",
+  "sortnum": 5,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:untoolscythe",
+      "title": "Коса",
+      "text": "Железная коса, удобна для срезания травы на большой площади.Однако,неудобна в бою."
+	}	
+  ]
+}

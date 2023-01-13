@@ -1,0 +1,23 @@
+{
+  "name": "Перец чили",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_chili_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodchilipepper",
+      "title": "Перец чили",
+      "text": "Применение:лосось с маракуйей,цыпленок с лонганом."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/chili.png"],
+      "title": "Перец чили",
+      "text": "Чили растет в теплых и жарких биомах."
+	}
+	  
+	
+  ]
+}

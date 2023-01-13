@@ -1,0 +1,14 @@
+{
+  "name": "Мох",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/moss.png",
+  "sortnum": 10,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemmoss",
+      "title": "Мох",
+      "text": "Мох можно получить из растущего на земле или на деревьях мха.Использование каменного ножа на замшелых блоках булыжника или камня также дает мох.Мох важен для магического ремесла."
+	}
+	]
+}

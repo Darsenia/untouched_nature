@@ -1,0 +1,16 @@
+{
+  "name": "Магический Пламенный Кристалл",
+  "category": "crystals",
+  "icon": "untouched_nature:textures/items/crystal_shard_fire.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cry_fire.png"],
+      "title": "Магический Пламенный Кристалл",
+      "text": "Гигантский оранжевый кристалл,растущий в очень жарких и песчаных биомах."
+	}
+	  
+	
+  ]
+}

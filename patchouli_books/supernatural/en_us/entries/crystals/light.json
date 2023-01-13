@@ -1,0 +1,16 @@
+{
+  "name": "Ethereal Crystal",
+  "category": "crystals",
+  "icon": "untouched_nature:textures/items/crystal_shard_light.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cry_ether.png"],
+      "title": "Ethereal Crystal",
+      "text": "Giant mystical crystals, common in Magical biomes and Extreme Hills.Element:light."
+	}
+	  
+	
+  ]
+}

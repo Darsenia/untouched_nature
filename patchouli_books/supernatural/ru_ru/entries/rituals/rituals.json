@@ -1,0 +1,29 @@
+{
+  "name": "Ритуалы",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/blocks/symbol_sun_glowing.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	"type": "text",      
+      "title": "Ритуалы",
+      "text": "Сперва нужно разместить рунический камень в центре области 7x7.Затем разместите остальные рунические камни согласно сторонам света.Поставьте жертвенную чашу на центральный рунический камень и зажгите в ней огонь.Разместите части артефакта на соотвествующие рунические камни,бросьте жертву в чашу.Коснитесь Скипетром Верховного Друида чаши и ,если все сделано верно,ритуал начнется."
+	 
+	  },
+	  {
+	  "type": "image",      
+      "title": "Расположение рун",
+      "images": ["untouched_nature:textures/renders/ritual_symbols.png"]
+	  
+	},
+	{
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_scheme.png"]
+	  
+	}
+	  
+	
+  ]
+}

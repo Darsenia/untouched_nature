@@ -1,0 +1,17 @@
+{
+  "name": "Nymphaea White",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/waterlily_white.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/nymph.png"],
+      "title": "Nymphaea White",
+	  "text": "Distribution: everywhere in the water."
+	  
+  }
+	  
+	
+  ]
+}

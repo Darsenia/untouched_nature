@@ -1,0 +1,23 @@
+{
+  "name": "Питахайя",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pitahaya.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpitahaya",
+      "title": "Питахайя",
+      "text": "Применение:фруктовый салат."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pitahaya.png"],
+      "title": "Кактус питахайя",
+      "text": "Питахайя растет в тропических биомах."
+	}
+	  
+	
+  ]
+}

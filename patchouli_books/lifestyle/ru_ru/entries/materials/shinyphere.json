@@ -1,0 +1,20 @@
+{
+  "name": "Светошар",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/shinyphere_seedbox.png",
+  "sortnum": 7,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemshinyphereseedbox",
+      "title": "Семенная коробочка светошара",
+      "text": "Семенные коробочки светошара можно получить из светящихся оранжевых цветов, растущих в магических биомах.Они используются в магических целях,а также для создания светильника из светошара."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantorangeshiny",
+      "title": "Светошар",
+      "text": "Светошар-источающее свет растение,растущее в магических биомах,например,в Fairy Forest."
+	}
+	]
+}

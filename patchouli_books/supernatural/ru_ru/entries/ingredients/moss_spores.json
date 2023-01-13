@@ -1,0 +1,20 @@
+{
+  "name": "Ростки волшебного мха",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/moss_dark_spore.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Ростки волшебного мха",
+      "text": "Могут быть получены из волшебного мха,растущего вокруг магических кристаллов.Ростки земляного мха-топливо для Магического Выращивателя,также ростки используются для крафта разных редких вещей. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/moss_spores.png"]
+	 
+	}
+	  
+	
+  ]
+}

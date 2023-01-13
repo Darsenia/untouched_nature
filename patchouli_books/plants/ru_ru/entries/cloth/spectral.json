@@ -1,0 +1,22 @@
+{
+  "name": "Призрачная пряжа и ткань",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/spectral_cloth.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemspectralyarn",
+      "title": "Призрачная пряжа",
+      "text": "Призрачная пряжа-волшебный материал,полученный из шелка,пропитанного слезами гаста.Из нее изготавливается призрачная ткань."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemspectralcloth",
+      "title": "Призрачная ткань",
+      "text": "Призрачную ткань можно соткать с помощью ткацкого станка из призрачной пряжи.Из нее изготавливается Плащ-Невидимка."
+	}
+	  
+	
+  ]
+}

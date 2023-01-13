@@ -1,0 +1,34 @@
+{
+  "name": "Convertation Catalogue",
+  "category": "convertation",
+  "icon": "untouched_nature:textures/items/convertation_book.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertlogs"
+	},
+	{
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertoaklogs"
+	},
+	{
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertdarkoaklogs"
+	},
+	{
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertacacialogs"
+	},
+	{
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertsprucelogs"
+	},
+	{
+	  "type": "crafting",
+      "recipe": "untouched_nature:unrecipeconvertjunglelogs"
+	}
+	  
+	
+  ]
+}

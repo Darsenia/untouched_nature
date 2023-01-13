@@ -1,0 +1,32 @@
+{
+  "name": "Casting mold",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/casting.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Casting molds",
+      "text": "Casting molds are used to make cast iron kitchenware.First of all you'll need to craft casting base, then in Stone Worker's Table craft casting mold for a pot.Then this mold can be converted in crafting grid to other kinds of molds like pan mold, roaster mold and stewpot mold.Right-click on the casting base with the mold to place the upper part."
+	},
+	{
+	  "type": "image",      
+      "title": "Casting mold",
+      "images": ["untouched_nature:textures/renders/casting.png"]
+	  
+	}	,
+	{
+	"type": "text",
+	"text": "Then you'll need to pour the liquid iron into the mold by right-click with bucket of molten iron.Molten iron is made in the basic furnace from the bucket with iron. "
+	
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipemoltenmetal"	      
+	},
+	{
+	  "type": "smelting",    	  
+     "recipe": "untouched_nature:unmeltcastiron"	      
+	}
+  ]
+}

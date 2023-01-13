@@ -1,0 +1,23 @@
+{
+  "name": "Garlic",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/plant_garlic.png",
+  "sortnum": 3,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodgarlic",
+      "title": "Garlic",
+      "text": "Usage: Jamaica breadfruit meal, seaweed soup, chicken with figs, garlic garland."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/garlic.png"],
+      "title": "Garlic plant",
+      "text": "Garlic grows in plains-like biomes."
+	}
+	  
+	
+  ]
+}

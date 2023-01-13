@@ -1,0 +1,23 @@
+{
+  "name": "Ginseng",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/plant_ginseng.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemrootginseng",
+      "title": "Ginseng",
+      "text": "Usage: pork with longan, magical ingredient."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ginseng.png"],
+      "title": "Ginseng plant",
+      "text": "Ginseng grows in lush japanese maple forest, lush autumnal forest, lush mixed forest biomes."
+	}
+	  
+	
+  ]
+}

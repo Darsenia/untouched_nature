@@ -1,0 +1,20 @@
+{
+  "name": "Branches",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/branch.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembranch",
+      "title": "Branch",
+      "text": "Tree branch.Can be made from 3 sticks or from the dying trees leaves.Branches are used in crafting recipes, as a fuel and in sericulture."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembranchesbunch",
+      "title": "Bunch of branches",
+      "text": "Bunch of 3 branches.Used in several recipes, as a fuel and in sericulture."
+	}
+	]
+}

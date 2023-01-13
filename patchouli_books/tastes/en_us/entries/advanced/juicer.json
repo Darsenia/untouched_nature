@@ -1,0 +1,23 @@
+{
+  "name": "Juicer",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/juicer.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Juicer",
+      "text": "Juicer is a small kitchen device for making juices.Currently there are 5 kinds of juices: lemon, orange, cherry, forest berry, pomegranate.Right-click to place the glass into the juicer, than open the juicer gui to place fruits inside.You'll need 4 fruits(or 4 berry handfuls)."
+	},
+	{
+	  "type": "image",      
+      "title": "Juicer",
+      "images": ["untouched_nature:textures/renders/juicer_0.png"]
+	},
+	{
+	  "type": "image",      
+      "title": "Making juices",
+      "images": ["untouched_nature:textures/renders/juices.png"]
+	}	
+  ]
+}

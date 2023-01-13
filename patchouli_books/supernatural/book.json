@@ -1,0 +1,11 @@
+{
+  "name": "books.patchouli.supernatural.name",
+  "subtitle": "Untouched Nature",
+  "landing_text": "books.patchouli.supernatural",
+  "model": "untouched_nature:book_purple",
+  "book_texture": "patchouli:textures/gui/book_purple.png",
+  "version": "0",
+  "creative_tab": "tabuntouchednaturewitchcraft",
+  "show_progress": false,
+  "pause_game": true
+}

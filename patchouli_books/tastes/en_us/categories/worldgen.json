@@ -1,0 +1,6 @@
+{
+    "name": "Food sources",
+    "description": "Untouched Nature adds lots of new food sources to the world.In this entry you will find basic information about them.",
+	"icon": "untouched_nature:textures/items/tomato.png",
+	"sortnum": 1
+    }

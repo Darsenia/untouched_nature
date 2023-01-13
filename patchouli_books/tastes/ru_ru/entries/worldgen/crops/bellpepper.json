@@ -1,0 +1,23 @@
+{
+  "name": "Сладкий перец",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_pepper_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodbellpepper",
+      "title": "Сладкий перец",
+      "text": "Применение:ямайское блюдо с плодами хлебного дерева."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pepper.png"],
+      "title": "Сладкий перец",
+      "text": "Сладкий перец растет в теплых и умеренно-жарких биомах."
+	}
+	  
+	
+  ]
+}

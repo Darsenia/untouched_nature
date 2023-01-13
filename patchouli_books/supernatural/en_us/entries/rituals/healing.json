@@ -1,0 +1,29 @@
+{
+  "name": "Healing amulet",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/amulet_healing_plain.png",
+  "sortnum":7,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Healing amulet",
+      "text1": "Wooden amulet, infused with Curing Elixir.Works when held in off-hand.",
+	  "text2": "Sacrifice: earth crystal powder.",
+	  "text3": "Moon: Curing Elixir",
+	  "text4": "Venus: blank amulet",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_water.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

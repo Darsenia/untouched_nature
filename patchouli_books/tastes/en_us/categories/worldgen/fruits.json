@@ -1,0 +1,7 @@
+{
+    "name": "Fruits",
+    "description": "Untouched Nature adds lots of fruit trees and some other fruiting plants.Fruits can be eaten directly or can be used to prepare meals.",
+	"icon": "untouched_nature:textures/items/fruit_orange.png",
+	"parent": "worldgen",
+	"sortnum": 2
+    }

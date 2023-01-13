@@ -1,0 +1,125 @@
+{
+  "name": "Декоративные блоки",
+  "category": "deco",
+  "icon": "untouched_nature:textures/blocks/glass_disy_black.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/wicker_straw.png"],
+      "text": "Соломенные блоки."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/dry_bamboo_blocks.png"],
+      "text": "Блоки из сухого бамбука."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bamboo_blocks.png"],
+      "text": "Блоки из бамбука."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/clays.png"],
+      "text": "Узорная цветная керамика.Изготавливается в Верстаке Каменщика."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_lily.png","untouched_nature:textures/renders/glass_holly.png","untouched_nature:textures/renders/glass_rose.png","untouched_nature:textures/renders/glass_poppy.png","untouched_nature:textures/renders/glass_star.png","untouched_nature:textures/renders/glass_daisy.png","untouched_nature:textures/renders/glass_redstone.png","untouched_nature:textures/renders/glass_sun.png"],
+      "text": "Витражное стекло.Нажмите > на картинке для просмотра альбома.Читайте главу Устройства для большей информации."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/terracotta.png"],
+      "text": "Яркая керамика-сиреневая,бордовая,бирюзовая,синяя,белая,голубая"
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/jade.png"],
+      "text": "Блоки нефрита-полупрозрачные."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/marbles.png","untouched_nature:textures/renders/stones.png"],
+      "text": "Малахит,лазурит,цветной мрамор,блоки драгоценных камней(нажмите > для просмотра альбома)."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/wall_green.png","untouched_nature:textures/renders/wall_yellow.png","untouched_nature:textures/renders/wall_lightblue1.png","untouched_nature:textures/renders/wall_lightblue2.png","untouched_nature:textures/renders/wall_lilac.png","untouched_nature:textures/renders/wall_lime.png","untouched_nature:textures/renders/wall_magenta.png","untouched_nature:textures/renders/wall_orange.png","untouched_nature:textures/renders/wall_gray.png","untouched_nature:textures/renders/wall_black.png","untouched_nature:textures/renders/wall_blue.png","untouched_nature:textures/renders/wall_brown.png","untouched_nature:textures/renders/wall_cyan.png","untouched_nature:textures/renders/wall_pink.png","untouched_nature:textures/renders/wall_purple.png","untouched_nature:textures/renders/wall_red1.png","untouched_nature:textures/renders/wall_red2.png","untouched_nature:textures/renders/wall_silver.png","untouched_nature:textures/renders/wall_white.png"],
+      "text": "Блоки обоев.Базовые блоки меняют рисунок(появляется полоса),если находятся под цветными блоками.Нажмите > для просмотра альбома."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/curtains.png"],
+      "text": "Шторы.При нажатии шифт-правая кнопка мыши меняют положение.Окрашиваются в машине,можно удлинять щелчком по нижнему блоку."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/lattices.png"],
+      "text": "Решетки.Изготавливаются на Верстаке Каменщика."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/fence.png"],
+      "text": "Низкий бревенчатый заборчик."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bigfence.png"],
+      "text": "Дубовый заборчик."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/hut_birch.png","untouched_nature:textures/renders/hut_dark.png","untouched_nature:textures/renders/hut_jungle.png","untouched_nature:textures/renders/hut_oak.png","untouched_nature:textures/renders/hut_spruce.png","untouched_nature:textures/renders/hut_acacia.png"],
+      "text": "Бревенчатые стены-всех ванильных типов дерева."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/fancy.png"],
+      "text": "Узорчатое стекло.Изготавливается на оконном Верстаке,доступны все цвета+панели."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_types.png"],
+      "text": "Цветное стекло(4 вида+СТМ).Изготавливается на оконном Верстаке,доступны все цвета+панели."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/glass_trans.png"],
+      "text": "Прозрачное стекло(+СТМ).Изготавливается на оконном Верстаке,доступны все цвета+панели."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/bouquets.png"],
+      "text": "Ваза с цветами.Кликните букетом по вазе,чтобы поставить цветы,или шифт-клик для вытаскивания букета."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/pots.png"],
+      "text": "Цветочные горшки с тропическими растениями.Клик чтобы посадить растение в горшок,шифт-клик для вытаскивания."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/lantern.png"],
+      "text": "Светильник из светошара, бра, люстра и основание для светильника."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/skulls.png"],
+      "text": "Светящиеся черепа."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/pearls.png"],
+      "text": "Жемчужный занавес."
+	},
+	{
+	  "type": "image",      
+      "images": ["untouched_nature:textures/renders/candles.png"],
+      "text": "Свечи."
+	}
+	  
+	
+  ]
+}

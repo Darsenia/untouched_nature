@@ -1,0 +1,20 @@
+{
+  "name": "Прялка",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/renders/wheel.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockspinningwheelempty",
+      "title": "Прялка",
+      "text": "Прялка позволяет быстрее превращать кудель(растительные или шелковые волокна) в нить."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/spinning.png"],      
+      "text": "Схема получения пряжи"
+	}	  
+	
+  ]
+}

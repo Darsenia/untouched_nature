@@ -1,0 +1,14 @@
+{
+  "name": "Scythe",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/scythe.png",
+  "sortnum": 5,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:untoolscythe",
+      "title": "Scythe",
+      "text": "Iron scythe.Useful tool for mowing big areas of grass and plants at once, but isn't a convenient tool for fighting."
+	}	
+  ]
+}

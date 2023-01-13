@@ -1,0 +1,23 @@
+{
+  "name": "Морошка",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cloudberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcloudberry",
+      "title": "Морошка",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cloudberry.png"],
+      "title": "Куст морошки",
+      "text": "Морошка растет в умеренном климате во влажных,заболоченных биомах и в тундре."
+	}
+	  
+	
+  ]
+}

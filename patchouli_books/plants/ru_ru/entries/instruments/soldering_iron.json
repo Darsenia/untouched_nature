@@ -1,0 +1,14 @@
+{
+  "name": "Паяльник",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/soldering_iron.png",
+  "sortnum": 6,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsolderingiron",
+      "title": "Паяльник",
+      "text": "Используется в рецептах.Должен быть помещен в правый красный слот Верстака Стекольщика."
+	}	
+  ]
+}

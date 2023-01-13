@@ -1,0 +1,23 @@
+{
+  "name": "Rowan",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_rowan.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitrowan",
+      "title": "Rowan",
+      "text": "Usage: wine."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rowan.png"],
+      "title": "Rowan tree",
+      "text": "Rowan tree grows in forests."
+	}
+	  
+	
+  ]
+}

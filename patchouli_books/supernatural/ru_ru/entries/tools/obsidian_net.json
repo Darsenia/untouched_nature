@@ -1,0 +1,21 @@
+{
+  "name": "Обсидиановая сеть",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/obsidian_net.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemobsidiannet",
+      "title": "Волшебная сеть",
+      "text": "Волшебная обсидиановая сеть нужна,чтобы выловить из лавы кожу саламандры."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeobsidiannet"
+	 
+	}
+	  
+	
+  ]
+}

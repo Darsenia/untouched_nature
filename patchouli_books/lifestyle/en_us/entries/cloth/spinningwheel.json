@@ -1,0 +1,20 @@
+{
+  "name": "Spinning wheel",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/renders/wheel.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockspinningwheelempty",
+      "title": "Spinning wheel",
+      "text": "Spinning wheel is a device, that turns raw fiber material into yarn."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/spinning.png"],      
+      "text": "Scheme of spinning wheel recipes"
+	}	  
+	
+  ]
+}

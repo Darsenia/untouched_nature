@@ -1,0 +1,20 @@
+{
+  "name": "Brazier",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/brazier.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbrazier",
+      "title": "Brazier",
+      "text": "Brazier is a big sacrificial chalice, where things that you give to the gods can be burned.Brazier is a necessery central element of the ritual rune circle.Placed it on the central ritual blank rune."
+	},
+	{
+	"type": "relations",
+	"entries": ["rituals/rituals"],
+	"title": "Related pages"
+	}
+	
+  ]
+}

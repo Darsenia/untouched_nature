@@ -1,0 +1,20 @@
+{
+  "name": "Magical Moss spores",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/moss_dark_spore.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Magical Moss spores",
+      "text": "Magical Moss spores can be get from magical moss, that is growing near man-placed magical crystals.Every crystal grows it's own kind of moss nearby.Moss spores are used for crafting some rare things, and earth moss spores are the fuel for the Magical Grower. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/moss_spores.png"]
+	 
+	}
+	  
+	
+  ]
+}

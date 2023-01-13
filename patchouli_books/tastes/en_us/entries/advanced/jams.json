@@ -1,0 +1,26 @@
+{
+  "name": "Delicious jams",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/jam.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Cooking jams",
+      "text": "Jams can be made from: blackberry, blueberry, cherry, gooseberry, marula, num-num, mulberry, raspberry, strawberry.You will need to combine several berries or fruits to get the handful of them.Then handfuls of fruits are used to prepare a saucepan of raw jam.Cook it in the furnace to get ready jam and richt-click on the glass jar to get the jam jar."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipehandfulstrawberry",
+	 "recipe2": "untouched_nature:unrecipesaucepanstrawberry"
+     
+	},
+	{
+	  "type": "text",      
+      
+      "text": "You can then eat jam directly from the jar with right-click.If you use a ladle on the jam jar, you will get ladle with jam.Ladle with jam is used to cook parcels with jam."
+	  }
+	  
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Морозильник",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/freezer.png",
+  "sortnum": 2,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockfreezeremptyopened",
+      "title": "Морозильник",
+      "text": "Морозильник превращает воду в лед.Откройте морозильную камеру,залейте внутрь воду,закройте и ждите.Когда процесс завершится,вы снова сможете открыть морозильник и достать лед."
+	}
+  ]
+}

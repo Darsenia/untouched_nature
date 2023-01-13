@@ -1,0 +1,23 @@
+{
+  "name": "Ice Purple fruit",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_ice_purple.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruiticepurple",
+      "title": "Ice Purple fruit",
+      "text": "Usage: eaten directly, wine."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/icepurple.png"],
+      "title": "ice Purple tree",
+      "text": "Ice Purple fruit tree grows in ice grove biome."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Лонган",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_longan.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlongan",
+      "title": "Лонган",
+      "text": "Применение:фруктовый салат,цыпленок с лонганом,свинина с лонганом,свинина с мангостином."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/longan.png"],
+      "title": "Лонган",
+      "text": "Лонган растет в lush hills."
+	}
+	  
+	
+  ]
+}

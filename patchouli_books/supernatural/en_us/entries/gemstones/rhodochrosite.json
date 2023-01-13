@@ -1,0 +1,16 @@
+{
+  "name": "Rhodochrosite",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/rhodochrosite_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/rhodochrosite.png"],
+      "title": "Rhodochrosite",
+      "text": "Height:35-128.Manganese carbonate mineral, gemstone and source of potassium permanganate."
+	}
+	  
+	
+  ]
+}

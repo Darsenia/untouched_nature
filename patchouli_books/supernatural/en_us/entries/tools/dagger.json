@@ -1,0 +1,21 @@
+{
+  "name": "Crystal Dagger",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/dark_dagger.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:untoolcrystaldagger",
+      "title": "Crystal Dagger",
+      "text": "Crystal dagger is a precious sacrificial dagger,made from gold,diamond and obscure magical crystal.Monsters,killed by this dagger, have chance of dropping special loot.Sheep gives stomach with 10% chance, wither skeleton-25% chance of wither fork bone,creeper-25% chance of creeper skin,witch-gives witch hair.Also used to get human blood.  "
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipecrystaldagger"
+	 
+	}
+	  
+	
+  ]
+}

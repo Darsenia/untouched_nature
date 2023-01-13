@@ -1,0 +1,23 @@
+{
+  "name": "Tomato",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_tomato_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodtomato",
+      "title": "Tomato",
+      "text": "Usage: chicken roll, cabbage rolls, Jamaica breadfruit meal."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/tomato.png"],
+      "title": "Tomato plant",
+      "text": "Tomato grows in warm and quite hot biomes."
+	}
+	  
+	
+  ]
+}

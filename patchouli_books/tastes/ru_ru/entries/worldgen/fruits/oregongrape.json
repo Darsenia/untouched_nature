@@ -1,0 +1,23 @@
+{
+  "name": "Орегонский виноград",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_oregon_grape.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitoregongrape",
+      "title": "Орегонский виноград",
+      "text": "Не самый лучший виноград,если честно.Применение:вино."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/oregongrape.png"],
+      "title": "Куст орегонского винограда",
+      "text": "Кусты винограда растут во всех западных(WEST)биомах."
+	}
+	  
+	
+  ]
+}

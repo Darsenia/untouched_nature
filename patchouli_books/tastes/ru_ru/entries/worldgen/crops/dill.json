@@ -1,0 +1,29 @@
+{
+  "name": "Укроп",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/dill_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemdillflowers",
+      "title": "Укроп",
+      "text": "Применение:соленые огурцы."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemdill",
+      "title": "Укроп",
+      "text": "Применение:щи,шаверма."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/dill.png"],
+      "title": "Укроп",
+      "text": "Укроп растет в умеренном и теплом климате в полях."
+	}
+	  
+	
+  ]
+}

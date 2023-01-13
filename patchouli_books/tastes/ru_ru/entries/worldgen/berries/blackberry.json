@@ -1,0 +1,23 @@
+{
+  "name": "Ежевика",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_blackberry2.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitblackberry",
+      "title": "Ежевика",
+      "text": "Применение:сок,варенье.Куст ежевики вырастает в высоту до 3 блоков,но лишь нижний блок может быть укоренен."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/blackberry.png"],
+      "title": "Куст ежевики",
+      "text": "Ежевика растет в умеренных густых лесах  и в Grasslands"
+	}
+	  
+	
+  ]
+}

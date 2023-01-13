@@ -1,0 +1,17 @@
+{
+  "name": "Clover",
+  "category": "main",
+  "icon": "untouched_nature:textures/items/cloverleaf.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/clover.png"],
+      "title": "Clover",
+	  "text": "Distribution: Meadow, Poplar Grove / sparse or plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pitahaya",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pitahaya.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpitahaya",
+      "title": "Pitahaya",
+      "text": "Usage:fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pitahaya.png"],
+      "title": "Pitahaya plant",
+      "text": "Pitahaya grows in tropical biomes."
+	}
+	  
+	
+  ]
+}

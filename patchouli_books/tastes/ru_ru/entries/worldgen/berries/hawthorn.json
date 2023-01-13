@@ -1,0 +1,23 @@
+{
+  "name": "Боярышник",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_howthorn.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruithawthorn",
+      "title": "Боярышник",
+      "text": "Применение:настойка."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/hawthorn.png"],
+      "title": "Боярышник",
+      "text": "Боярышник растет в лесах,oak grove and temperate fir forest."
+	}
+	  
+	
+  ]
+}

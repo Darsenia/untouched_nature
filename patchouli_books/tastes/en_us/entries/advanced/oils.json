@@ -1,0 +1,15 @@
+{
+  "name": "Oils, flour and sauce",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/blocks/soy_sauce_bottle.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+     
+      "text": "Soy sauce, flax and olive oils, flour can be placed as blocks.To get the portion of the product, use the ladle on the bottle(for soy sauce and oils) or empty hand(for flour).Each bottle or flour handles at about 8 portions."
+	}
+	
+	
+  ]
+}

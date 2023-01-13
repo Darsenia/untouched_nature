@@ -1,0 +1,16 @@
+{
+  "name": "Hematite",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/hematite.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/hematite.png"],
+      "title": "Hematite",
+      "text": "Height:5-70.Source of additional iron and decorative."
+	}
+	  
+	
+  ]
+}

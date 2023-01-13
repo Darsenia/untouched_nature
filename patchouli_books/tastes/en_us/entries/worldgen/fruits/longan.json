@@ -1,0 +1,23 @@
+{
+  "name": "Longan",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_longan.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlongan",
+      "title": "Longan",
+      "text": "Usage: fruit salad, chicken with longan, pork with longan, pork with mangosteen."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/longan.png"],
+      "title": "Longan tree",
+      "text": "Longan tree grows in lush hills biome."
+	}
+	  
+	
+  ]
+}

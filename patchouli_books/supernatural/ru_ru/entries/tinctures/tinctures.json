@@ -1,0 +1,21 @@
+{
+  "name": "Настойка",
+  "category": "tinctures",
+  "icon": "untouched_nature:textures/renders/tincture.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipetinctureelderberry",
+	 "recipe2": "untouched_nature:unrecipetinctureguelder"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipetincturehawthorn",
+	 "recipe2": "untouched_nature:unrecipetincturewormwood"     
+	}
+	  
+	
+  ]
+}

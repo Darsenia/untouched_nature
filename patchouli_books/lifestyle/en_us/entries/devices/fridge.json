@@ -1,0 +1,14 @@
+{
+  "name": "Freezer",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/freezer.png",
+  "sortnum": 2,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockfreezeremptyopened",
+      "title": "Freezer",
+      "text": "Freezer turns water into ice.Open the freezer, right-click to pour a water bucket inside it, then close and wait.When the ice is ready, you will be able to open the freezer again and take out the ice block."
+	}
+  ]
+}

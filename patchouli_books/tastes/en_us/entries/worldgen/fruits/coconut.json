@@ -1,0 +1,23 @@
+{
+  "name": "Coconut",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_coconut_broken.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcoconutbroken",
+      "title": "Coconut",
+      "text": "Broken coconut.To get coconut, you should shake the palm (just beat it's trunk).Coconut will fall on the ground.If you will try to break the coconut with the small sharp stone, you'll get the broken coconut,that can be eaten.Otherwise you can take the entire coconut with you and use it for coconut milk."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/coconut.png"],
+      "title": "Coconut palm",
+      "text": "Coconut grows in tropical biomes."
+	}
+	  
+	
+  ]
+}

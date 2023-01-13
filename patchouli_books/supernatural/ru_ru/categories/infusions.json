@@ -1,0 +1,6 @@
+{
+    "name": "Отвары",
+    "description": "Отвары-это простейшие однокомпонентные зелья,сваренные на воде.",
+	"icon": "untouched_nature:textures/items/infusion_reindeer_moss_16.png",
+	"sortnum": 4
+    }

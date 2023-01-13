@@ -1,0 +1,21 @@
+{
+  "name": "Clay Jar",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/clay_jar.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclayjarpurple",
+      "title": "Clay jar",
+      "text": "Clay jars are small pretty clay vessels, used to store 4 stacks, but every slot can theoretically store up to 256 items (if these items can stack to this size).Clay jars can be colored in every existing color."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/jars.png"],      
+      "text": "All the types of clay jars"
+	}
+	  
+	
+  ]
+}

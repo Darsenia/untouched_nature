@@ -1,0 +1,25 @@
+{
+  "name": "Vampire Kiss",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/vampire_kiss.png",
+  "sortnum":14,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Vampire Kiss",
+      "text1": "Vampire Kiss is an extremely powerful potion, that turns player into a vampire for a while.",
+	  "text2": "Time: 1800 ticks.",
+	  "text3": "Effects: adds Night Vision, Speed I, Strength III, Jump Boost II.You will have no human health points.Human blood and villagers heal.Attacked creatures gain wither effect.Sunlight and Garlic Garland can kill you.",
+	  "text4": "Initial solvent: cherry wine."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/vampire.png"]
+	  
+	}
+	  
+	
+  ]
+}

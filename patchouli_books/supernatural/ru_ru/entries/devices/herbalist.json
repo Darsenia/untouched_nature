@@ -1,0 +1,27 @@
+{
+  "name": "Стол Травника",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/herb.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unherbalisttable",
+      "title": "Стол Травника",
+      "text": "Стол Травника-специальный крафтовый верстак,используемый для разделения растений на части и измельчения ингредиентов в ступке.Кнопка Carve-разрезание на части,кнопка Pound-перетирание в ступке.По бокам есть дополнительные слоты для хранения."
+	},
+	{
+	"type": "image",
+	"images": ["untouched_nature:textures/renders/herbalist.png"],
+	"text": "Меню Стола Травника"
+	},
+	
+	{
+	"type": "relations",
+	"entries": ["ingredients/roots","ingredients/flowers","ingredients/berries","ingredients/powders"],
+	"title": "Связанные страницы"
+	}
+	  
+	
+  ]
+}

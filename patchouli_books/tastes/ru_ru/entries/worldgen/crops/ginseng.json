@@ -1,0 +1,23 @@
+{
+  "name": "Женьшень",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/plant_ginseng.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemrootginseng",
+      "title": "Женьшень",
+      "text": "Применение:в магических целях;свинина с лонганом."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/ginseng.png"],
+      "title": "Женьшень",
+      "text": "Женьшень растет в lush japanese maple forest, lush autumnal forest, lush mixed forest."
+	}
+	  
+	
+  ]
+}

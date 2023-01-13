@@ -1,0 +1,20 @@
+{
+  "name": "Crystalline Grower",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/grower.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockplantsgrowerworking",
+      "title": "Crystalline Grower",
+      "text": "Crystalline Grower is a device, that is built out of magical crystals and is powered by earth moss spores, used as a fuel.Place the grower on the same level as grass, put earth moss spores inside and plant a flower in the grower's pot.Grower will slowely reproduce the flower, planting it's copies on the nearby grass."
+	},
+	{
+	"type": "relations",
+	"entries": ["ingredients/moss_spores"],
+	"title": "Related pages"
+	}
+	
+  ]
+}

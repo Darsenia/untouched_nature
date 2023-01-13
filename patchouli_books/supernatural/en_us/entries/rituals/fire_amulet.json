@@ -1,0 +1,29 @@
+{
+  "name": "Fire amulet",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/obsidian_fire_talisman.png",
+  "sortnum":5,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Fire amulet",
+      "text1": "Obsidian amulet, infused with Salamander Unguent.Works while held in off-hand.",
+	  "text2": "Sacrifice: fire crystal powder.",
+	  "text3": "Mars: blank obsididan amulet",
+	  "text4": "Sun: Salamander Unguent",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_fire.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

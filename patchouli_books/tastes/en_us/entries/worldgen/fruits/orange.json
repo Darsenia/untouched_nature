@@ -1,0 +1,23 @@
+{
+  "name": "Orange",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_orange.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitorange",
+      "title": "Orange",
+      "text": "Usage: fruit salad, juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/orange.png"],
+      "title": "Orange tree",
+      "text": "Orange tree grows in lush mixed forest."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Potato",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/carrots_stage_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "minecraft:potato",
+      "title": "Potato",
+      "text": "Usage: mushroom soup, alcohol, potato on a stick."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantpotatowild",
+      "title": "Potato",
+      "text": "Potato grows in temperate and warm plains-like biomes.Right-click to pull out potatoes."
+	}
+   		  
+	
+  ]
+}

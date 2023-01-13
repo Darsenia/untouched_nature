@@ -1,0 +1,7 @@
+{
+    "name": "Crops",
+    "description": "Untouched Nature adds several crops.Vegetables can be eaten directly or can be used to prepare meals.",
+	"icon": "untouched_nature:textures/items/tomato.png",
+	"parent": "worldgen",
+	"sortnum": 3
+    }

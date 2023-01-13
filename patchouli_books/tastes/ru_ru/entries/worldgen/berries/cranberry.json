@@ -1,0 +1,23 @@
+{
+  "name": "Клюква",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cranberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcranberry",
+      "title": "Клюква",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cranberry.png"],
+      "title": "Куст клюквы",
+      "text": "Клюква растет во влажных,заболоченных биомах."
+	}
+	  
+	
+  ]
+}

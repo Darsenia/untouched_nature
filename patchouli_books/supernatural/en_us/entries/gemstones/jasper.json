@@ -1,0 +1,16 @@
+{
+  "name": "Green Jasper",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/green_jasper.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/jasper.png"],
+      "title": "Green Jasper",
+      "text": "Height:15-62.Dirty-green gemstone.Patron:Mercury;element:earth."
+	}
+	  
+	
+  ]
+}

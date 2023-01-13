@@ -1,0 +1,23 @@
+{
+  "name": "Bell Pepper",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_pepper_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodbellpepper",
+      "title": "Bell Pepper",
+      "text": "Usage: Jamaica breadfruit meal."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pepper.png"],
+      "title": "Bell Pepper plant",
+      "text": "Bell Pepper grows in warm and quite hot biomes."
+	}
+	  
+	
+  ]
+}

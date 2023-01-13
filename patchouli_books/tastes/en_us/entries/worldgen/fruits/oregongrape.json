@@ -1,0 +1,23 @@
+{
+  "name": "Oregon Grape",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_oregon_grape.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitoregongrape",
+      "title": "Oregon Grape",
+      "text": "Not the best type of grape actually.Usage: wine."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/oregongrape.png"],
+      "title": "Oregon Grape bush",
+      "text": "Oregon Grape bush grows in all west-type biomes."
+	}
+	  
+	
+  ]
+}

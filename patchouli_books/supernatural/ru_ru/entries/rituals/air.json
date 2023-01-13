@@ -1,0 +1,29 @@
+{
+  "name": "Посох Воздуха",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_air.png",
+  "sortnum":4,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Воздуха",
+      "text1": "Отбрасывает врагов и накладывает замедление.Замораживает воду под ногами,если держать в руке.",
+	  "text2": "Жертва: белый цветок.",
+	  "text3": "Mercury: пихтовая палка",
+	  "text4": "Солнце: осколок кристалла неба",
+	  "text5": "Марс: свинцовый слиток",
+	  "text6": "Сатурн: халцедон"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_air_stuff.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

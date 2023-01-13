@@ -1,0 +1,16 @@
+{
+  "name": "Magical Burner",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/burner.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockburner",
+      "title": "Magical Burner",
+      "text": "Magical Burner is a device that gives a lot of heat without risk of setting nearby blocks on fire.Good for heating the Witch's Cauldron."
+	}
+	  
+	
+  ]
+}

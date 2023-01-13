@@ -1,0 +1,16 @@
+{
+  "name": "Нефрит",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/jade.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/jade_ore.png"],
+      "title": "Нефрит",
+      "text": "Встречается в Lush Needle Peaks.Полупрозрачный зеленоватый камень,используется в декоративных целях."
+	}
+	  
+	
+  ]
+}

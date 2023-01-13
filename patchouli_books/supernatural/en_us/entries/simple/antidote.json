@@ -1,0 +1,21 @@
+{
+  "name": "Antidote",
+  "category": "simple",
+  "icon": "untouched_nature:textures/items/antidote.png",
+  "sortnum":1,
+  "pages": [
+  {
+  "type": "spotlight",
+  "item": "untouched_nature:unpotionantidote",
+  "title": "Antidote",
+  "text":"Antidote is a several-uses antidote."
+  },
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeantidote"
+	     
+	}
+	  
+	
+  ]
+}

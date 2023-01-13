@@ -1,0 +1,15 @@
+{
+  "name": "Flint Lighter",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/flint_lighter.png",
+  "sortnum": 4,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemflintlighter",
+      "title": "Flint Lighter",
+      "text": "A primitive, simple to craft lighter, made from flint and small sharp stone.Cheap and capable of lighting netherrack, firepits and other Untouched Nature devices.Too weak for making the Nether Portal or burning other blocks."
+	}
+	
+  ]
+}

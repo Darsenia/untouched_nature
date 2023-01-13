@@ -1,0 +1,23 @@
+{
+  "name": "Passionfruit",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_passionfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpassionfruit",
+      "title": "Passionfruit",
+      "text": "Very decorative vine and tasty fruit.Usage: fruit salad, passionfruit rice, passionfruit casserole, salmon with passionfruit."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/passionfruit.png"],
+      "title": "Passionfruit vine",
+      "text": "Passionfruit vine grows in jungle biomes."
+	}
+	  
+	
+  ]
+}

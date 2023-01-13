@@ -1,0 +1,17 @@
+{
+  "name": "Datura",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/bush_datura.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/datura.png"],
+      "title": "Datura",
+	   "text": "Distribution: Oak Grove / dense biomes if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

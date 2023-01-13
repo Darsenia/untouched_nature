@@ -1,0 +1,52 @@
+{
+  "name": "Соль",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/salt.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsalt",
+      "title": "Соль",
+      "text": "Соль-самая распространенная приправа в мире.Соль используется в кулинарии,в зельеварении.Добыть соль можно двумя способами-в виде каменной соли под землей или выпариванием из морской воды."
+	},
+	 {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockrocksalt",
+      "title": "Каменная соль",
+      "text": "Каменная соль встречается в виде отложения слоя соляных кристаллов на горных породах.Ее можно добыть и использовать в пищу."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemwaterbottle",
+      "title": "Бутылка для воды",
+      "text": "Создается из обычной бутылки.Наберите в нее соленую воду из океана."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsaltwaterbottle",
+      "title": "Бутылка соленой воды",
+      "text": "Бутылка,заполненная соленой океанической водой.Вылейте воду в глиняный поддон для выпаривания соли."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytray",
+      "title": "Глиняный поддон",
+      "text": "Используется для выпаривания соли из соленой воды."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytraywithwater",
+      "title": "Глиняный поддон с водой",
+      "text": "Глиняный поддон с соленой водой.Спустя некоторое время,вода испарится,оставив на дне соль."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclaytraysalt",
+      "title": "Глиняный поддон с солью",
+      "text": "Глиняный поддон с морской солью.Щелкните правой кнопкой мыши,чтобы собрать соль."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Beetroot",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/carrots_stage_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "minecraft:beetroot",
+      "title": "Beetroot",
+      "text": "Usage: borsch."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantbeetrootwild",
+      "title": "Beetroot",
+      "text": "Beetroot grows in temperate and warm plains-like biomes.Right-click to pull out beetroots."
+	}
+   		  
+	
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Polygonum",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_polygonum.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/polygonum.png"],
+      "title": "Polygonum",
+	  "text": "Distribution: taiga biomes."
+	  
+  }
+	  
+	
+  ]
+}

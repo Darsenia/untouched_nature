@@ -1,0 +1,6 @@
+{
+    "name": "Ремесло и устройства",
+    "description": "Untouched Nature добавляет несколько новых ремесел и устройств.Основные их виды описаны в этой главе.",
+	"icon": "untouched_nature:textures/items/wheel.png",
+	"sortnum": 3
+    }

@@ -1,0 +1,59 @@
+{
+  "name": "Firepit",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/firepit.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",      
+      "title": "Firepit",
+	  "item": "untouched_nature:unblockfirepit",
+      "text": "Firepit is the very basic device for cooking.You will need to combine 3 logs to create a firepit.Place it on the ground and fire them.Then you'll need 2 sticks.Right-click to place them near the firepit.Then right-click on the firepit with the food item to start cooking."
+	},
+	{
+	  "type": "image",      
+      "title": "Firepit stages",
+      "images": ["untouched_nature:textures/renders/firepits.png"]
+	},
+	{
+	  "type": "text",      
+      "title": "Firepit recipes",
+      "text": "Firepit can be used to cook: beef, pork, mutton, cod, salmon, potato, chanterelle, brown mushroom, indigo milkcup, rabbit, puffball slice, chicken."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftchickenonastick",
+	 "recipe2": "untouched_nature:uncraftporkonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftbeefonastick",
+	 "recipe2": "untouched_nature:uncraftrabbitonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftmuttononastick",
+	 "recipe2": "untouched_nature:uncraftcodonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftsalmononastick",
+	 "recipe2": "untouched_nature:uncraftpuffballonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftbrownmushroomastick",
+	 "recipe2": "untouched_nature:uncraftindigoonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftrabbitastick",
+	 "recipe2": "untouched_nature:uncraftrottenfleshonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftchanterelleastick",
+	 "recipe2": "untouched_nature:uncraftpotatoonastick"     
+	}
+  ]
+}

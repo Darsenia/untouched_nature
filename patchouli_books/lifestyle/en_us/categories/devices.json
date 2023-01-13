@@ -1,0 +1,6 @@
+{
+    "name": "Manufacture&Devices",
+    "description": "Untouched Nature adds several new devices and manufacture types.Common ones are listed in this entry.",
+	"icon": "untouched_nature:textures/items/wheel.png",
+	"sortnum": 3
+    }

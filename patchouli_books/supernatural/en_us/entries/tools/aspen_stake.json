@@ -1,0 +1,15 @@
+{
+  "name": "Aspen stake",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/aspen_stake.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unweaponaspenstake",
+      "title": "Aspen stake",
+      "text": "Aspen stake is not a good weapon,but it is a troubleproof thing to fight a vampire."
+	}	  
+	
+  ]
+}

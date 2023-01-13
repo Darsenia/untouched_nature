@@ -1,0 +1,16 @@
+{
+  "name": "Bureau",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/bureau.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbureau",
+      "title": "Bureau",
+      "text": "Bureau(or chest-of-drawers) is a furniture storage block.Has 3 drawers,switched by buttons, each has a chest-like inventory size."
+	}
+	  
+	
+  ]
+}

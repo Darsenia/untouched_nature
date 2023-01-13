@@ -1,0 +1,29 @@
+{
+  "name": "Water amulet",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/prismarine_talisman_water.png",
+  "sortnum":6,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Water amulet",
+      "text1": "Prismarine amulet, infused with Amphibian Cocktail.Works while held in off-hand.",
+	  "text2": "Sacrifice: water crystal powder.",
+	  "text3": "Moon: blank prismarine amulet",
+	  "text4": "Venus: Amphibian Cocktail",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_water.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

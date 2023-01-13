@@ -1,0 +1,6 @@
+{
+    "name": "Magical Crystals",
+    "description": "Untouched nature adds 6 magical crystals to the world, accordingly to the 6 elemets: water,fire,earth,air,light,dark.Crystals grow on rock and can be mined to get small crystal shards.Crystal shards are used for magical purposes.Crystals themselves if mined with silk-touch can be then placed anywhere.If placed,they'll start spreading their power on the nearby grass, resulting in the magical moss growing around.",
+	"icon": "untouched_nature:textures/items/crystal_shard_dark.png",
+	"sortnum": 2
+    }

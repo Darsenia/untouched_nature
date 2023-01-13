@@ -1,0 +1,23 @@
+{
+  "name": "Ирга",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_serviceberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitserviceberry",
+      "title": "Ирга",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/serviceberry.png"],
+      "title": "Ирга",
+      "text": "Ирга растет в red mountains."
+	}
+	  
+	
+  ]
+}

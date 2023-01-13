@@ -1,0 +1,29 @@
+{
+  "name": "Staff of Shining",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_shining.png",
+  "sortnum":6,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Staff of Shining",
+      "text1": "Places magical light source.Shift-right click on a block to remove lights nearby.",
+	  "text2": "Sacrifice: glowstone dust",
+	  "text3": "Pluto: blue rod",
+	  "text4": "Saturn: aethereal crystal",
+	  "text5": "Sun: tin ingot",
+	  "text6": "Moon: chalcedony"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual scheme",
+      "images": ["untouched_nature:textures/renders/ritual_scheme_shining.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

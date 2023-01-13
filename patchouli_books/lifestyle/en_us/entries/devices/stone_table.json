@@ -1,0 +1,23 @@
+{
+  "name": "Stone Worker's Table",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/stone_table.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockstoneworkerstable",
+      "title": "Stone Worker's Table",
+      "text": "It is a special crafting table, that is used for carving different blocks from stone materials.You can see recipes using Recipes button in there."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguistoneworkerstable.png"],      
+      "text": "The interface of the table."
+	},
+	{
+	  "type": "text",          
+      "text": "Put stone hammer and chisel into the brown slots of the table.An input material goes to the left slot,click the Work button and take an output from the right slot."
+	}
+  ]
+}

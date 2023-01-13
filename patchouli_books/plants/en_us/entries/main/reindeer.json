@@ -1,0 +1,18 @@
+{
+  "name": "Reindeer Moss",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/moss_reindeermoss.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/reindeer.png"],
+      "title": "Reindeer Moss",
+	  "text": "Distribution: Cold taiga-like biomes, Winter Fir Forest."
+	  
+	  
+  }
+	  
+	
+  ]
+}

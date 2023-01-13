@@ -1,0 +1,16 @@
+{
+  "name": "Dry bamboo chest",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/dry_bamboo_chest.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbamboochestdryopen",
+      "title": "Dry bamboo chest",
+      "text": "Dry bamboo chest is a simple(not double) chest, but made from dry bamboo.Right-click to open and right-click to close after use."
+	}
+	  
+	
+  ]
+}

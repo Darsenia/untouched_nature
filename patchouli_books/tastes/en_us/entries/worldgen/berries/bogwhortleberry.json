@@ -1,0 +1,23 @@
+{
+  "name": "Bog Whortleberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_bog_whortleberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitbogwhortleberry",
+      "title": "Bog Whortleberry",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/bogwhortleberry.png"],
+      "title": "Bog Whortleberry bush",
+      "text": "Bog Whortleberry grows in wet and swampy temperate biomes."
+	}
+	  
+	
+  ]
+}

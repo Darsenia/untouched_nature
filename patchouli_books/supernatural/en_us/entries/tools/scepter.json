@@ -1,0 +1,21 @@
+{
+  "name": "Supreme Druid's Scepter",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/scepter.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemscepter",
+      "title": "Supreme Druid's Scepter",
+      "text": "Supreme Druid's Scepter is used for activating the ritual of creating magical artifacts.After all the ingredients of the ritual are placed, click on the brazier with the scepter to start the ritual."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipescepter"
+	 
+	}
+	  
+	
+  ]
+}

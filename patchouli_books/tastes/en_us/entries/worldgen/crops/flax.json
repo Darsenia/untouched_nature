@@ -1,0 +1,23 @@
+{
+  "name": "Flax",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/plant_flax.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantflax",
+      "title": "Flax",
+      "text": "Usage: make linen yarn and cloth, flax oil."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/flax.png"],
+      "title": "Flax plant",
+      "text": "Flax grows in temperate plains-like biomes."
+	}
+	  
+	
+  ]
+}

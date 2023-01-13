@@ -1,0 +1,20 @@
+{
+  "name": "Красители",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/lilac_dye.png",
+  "sortnum": 13,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembluedye",
+      "title": "Замена красителей",
+      "text": "Черный,коричневый,белый и синий красители могут заменить соответствующие ванильные красители.Красители добываются из растений."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlilacdye",
+      "title": "Новые красители",
+      "text": "Новые красители-сиреневый и бордовый,используются для окрашивания декоративных блоков."
+	}
+	]
+}

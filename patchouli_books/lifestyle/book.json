@@ -1,0 +1,11 @@
+{
+  "name": "books.patchouli.lisfestyle.name",
+  "subtitle": "Untouched Nature",
+  "landing_text": "books.patchouli.lifestyle",
+  "model": "untouched_nature:book_green",
+  "book_texture": "patchouli:textures/gui/book_green.png",
+  "version": "0",
+  "creative_tab": "tabuntouchednature",
+  "show_progress": false,
+  "pause_game": true
+}

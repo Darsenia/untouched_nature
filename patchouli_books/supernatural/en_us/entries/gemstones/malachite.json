@@ -1,0 +1,16 @@
+{
+  "name": "Malachite",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/malachite_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/malachite.png"],
+      "title": "Malachite",
+      "text": "Height:20-255.Beautiful green gemstone.Decorative."
+	}
+	  
+	
+  ]
+}

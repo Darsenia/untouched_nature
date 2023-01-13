@@ -1,0 +1,18 @@
+{
+  "name": "Chimaphila",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_chimaphila.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/chimaphila.png"],
+      "title": "Chimaphila",
+	  "text": "Distribution: Taiga-like biomes, Fir Forest."
+	  
+	  
+  }
+	  
+	
+  ]
+}

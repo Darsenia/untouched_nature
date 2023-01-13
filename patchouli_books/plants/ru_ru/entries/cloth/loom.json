@@ -1,0 +1,21 @@
+{
+  "name": "Ткацкий станок",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/renders/loom.png",
+  "sortnum": 7,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockloom0",
+      "title": "Ткацкий станок",
+      "text": "Ткацкий станок-механизм,позволяющий получить ткань из пряжи.Щелкните правой кнопкой мыши с пряжей в руке на станке,чтобы начать работу.На 1 ткань требуется 4 клубка пряжи."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/weaving.png"],      
+      "text": "Схема использования ткацкого станка"
+	}
+	  
+	
+  ]
+}

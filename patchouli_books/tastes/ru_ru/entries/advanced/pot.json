@@ -1,0 +1,55 @@
+{
+  "name": "Котелок для готовки",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/cook_pot.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Приготовление супов",
+      "text": "первым  делом найдите все необходимые ингредиенты,затем скомбинируйте их с кастрюлей(сотейником)для получения кастрюли с сырым супом..Поставьте кастрюлю в зажженную подставку для готовки.Когда суп будет готов,вы увидите пар,тогда можно разливать суп по тарелкам."
+	},
+	{
+	  "type": "text",      
+      "title": "Как есть супы",
+      "text": "Супы бывают легкие,средней густоты и густые(самые сытные).Правой кнопкой мыши(НЕ ДЕРЖИТЕ КНОПКУ НАЖАТОЙ!)съешьте порцию супа.В каждой тарелке супа 4 порции."
+	},
+	{
+	  "type": "image",      
+      "title": "Котелок для готовки",
+      "images": ["untouched_nature:textures/renders/pot.png"]
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeborsch",
+	 "recipe2": "untouched_nature:unrecipeshchi"
+     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeseaweedsoup",
+	 "recipe2": "untouched_nature:unrecipemushroomsoup"
+     
+	}
+	,
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipebroth"
+	
+     
+	},
+	{
+	"type": "text",
+	"text": "Котелок для готовки также используется для варки каши и риса.У супа и риса 2 порции,едятся так же,как и супы."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeporridge",
+	  "recipe2": "untouched_nature:unrecipeboiledrice"
+	
+     
+	}
+	
+	
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Шелк",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/silk_yarn.png",
+  "sortnum": 5,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkyarn",
+      "title": "Шелковая пряжа",
+      "text": "Шелковую пряжу прядут с помощью прялки из сырого шелкового волокна.Шелковое волокно можно получить из коконов шелкопряда в котле с водой.Шелковая пряжа используется для изготовления нитей и других вещей."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsilkcloth",
+      "title": "Шелк",
+      "text": "Шелковая ткань изготавливается на ткацком станке из шелковой пряжи и используется в разных рецептах."
+	}
+	  
+	
+  ]
+}

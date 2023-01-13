@@ -1,0 +1,29 @@
+{
+  "name": "Амулет воды",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/prismarine_talisman_water.png",
+  "sortnum":6,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Амулет Воды",
+      "text1": "Призмариновый амулет,напитанный Амфибианским Коктейлем.Работает,если держать в левой руке.",
+	  "text2": "Жертва: порошок кристалла воды",
+	  "text3": "Луна: призмариновый амулет",
+	  "text4": "Венера: Амфибианский коктейль",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_water.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

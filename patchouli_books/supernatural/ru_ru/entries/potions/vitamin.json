@@ -1,0 +1,29 @@
+{
+  "name": "Витаминный Взрыв",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/vitamin_burst.png",
+  "sortnum":12,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Витаминный Взрыв",
+      "text1": "Укрепляет иммунитет.",
+	  "text2": "Время действия: 1000 тиков.",
+	  "text3": "Эффекты: Регенерация II и Устойчивость I",
+	  "text4": "Основа зелья: апельсиновый сок."
+	  },
+	{
+	"type": "recipe_potion",      
+      "title": "",
+      "text1": "* Ягоды шиповника",
+	  "text2": "* Масло шалфея",
+	  "text3": "* Ягоды боярышника",
+	  "text4": "* Оранжевые ягоды",
+	  "text5": "",
+	  "text6": ""
+	  }
+	  
+	
+  ]
+}

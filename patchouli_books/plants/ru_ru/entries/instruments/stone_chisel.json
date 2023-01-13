@@ -1,0 +1,14 @@
+{
+  "name": "Каменное долото",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/chisel.png",
+  "sortnum": 9,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstonechisel",
+      "title": "Каменное долото",
+      "text": "Используется в рецептах.Разместите в левом коричневом слоте Верстака Каменщика или в левом розовом слоте Верстака для создания окон."
+	}
+  ]
+}

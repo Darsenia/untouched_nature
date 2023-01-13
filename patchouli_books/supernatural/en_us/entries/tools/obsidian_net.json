@@ -1,0 +1,21 @@
+{
+  "name": "Obsidian Fishing Net",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/obsidian_net.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemobsidiannet",
+      "title": "Magical Fishing Net",
+      "text": "Obsidian Fishing Net is a special fishing net, that is used for fishing out salamander dropped skin from lava."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipeobsidiannet"
+	 
+	}
+	  
+	
+  ]
+}

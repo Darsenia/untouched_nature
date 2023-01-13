@@ -1,0 +1,25 @@
+{
+  "name": "Passion Essence",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/passion_essence.png",
+  "sortnum":5,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Passion Essence",
+      "text1": "Passion Essence is a concentrated passion in a bottle.Effects can be a bit strange.Use with caution, especially if your PC is weak.",
+	  "text2": "Time: 1000 ticks.",
+	  "text3": "Effects: applies bonemeal effect on some plants and grass around, sets animals in love, if you touch them.",
+	  "text4": "Initial solvent: any wine except for lotus and cherry wines."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/passion.png"]
+	  
+	}
+	  
+	
+  ]
+}

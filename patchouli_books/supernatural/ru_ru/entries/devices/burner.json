@@ -1,0 +1,16 @@
+{
+  "name": "Магическая горелка",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/burner.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockburner",
+      "title": "Магическая горелка",
+      "text": "Устройство,базированное на огненных кристаллах.Дает достаточно тепла для разогрева Колдовского Котла."
+	}
+	  
+	
+  ]
+}

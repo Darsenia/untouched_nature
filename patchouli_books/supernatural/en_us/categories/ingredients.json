@@ -1,0 +1,6 @@
+{
+    "name": "Magical ingredients",
+    "description": "This entry is about natural ingredients, used for brewing potions, making extracts, essential oils, tinctures, rituals etc.There are several main types of ingredients: roots, herba, bark, berries, flowers, leaves, powders.",
+	"icon": "untouched_nature:textures/items/herba_hanging_nettle.png",
+	"sortnum": 3
+    }

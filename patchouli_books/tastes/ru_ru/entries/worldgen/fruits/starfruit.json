@@ -1,0 +1,23 @@
+{
+  "name": "Карамбола",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_starfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitstarfruit",
+      "title": "Карамбола",
+      "text": "Применение:разрезать на ломтики и использовать для приготовления фруктового салата."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/starfruit.png"],
+      "title": "Карамбола",
+      "text": "Карамбола растет в джунглевых и тропических биомах."
+	}
+	  
+	
+  ]
+}

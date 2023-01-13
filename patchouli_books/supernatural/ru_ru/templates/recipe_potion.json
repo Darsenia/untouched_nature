@@ -1,0 +1,62 @@
+{
+	"components": [
+	{
+			"type": "frame"
+		},
+		{
+			"type": "text",
+			"text": "#text1",
+			"y": "5",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+		},
+		{
+			"type": "text",
+			"text": "#text2",
+			"y": "20",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+			
+		},
+		{
+			"type": "text",
+			"text": "#text3",
+			"y": "35",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+			
+		},
+		{
+			"type": "text",
+			"text": "#text4",
+			"y": "50",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+			
+		}
+		,
+		{
+			"type": "text",
+			"text": "#text5",
+			"y": "65",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+			
+		}
+		,
+		{
+			"type": "text",
+			"text": "#text6",
+			"y": "80",
+			"x": "10",
+			"color": "6c1084",
+			"max_width":"80"
+			
+		}
+	]
+}

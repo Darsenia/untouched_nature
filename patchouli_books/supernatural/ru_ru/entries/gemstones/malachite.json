@@ -1,0 +1,16 @@
+{
+  "name": "Малахит",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/malachite_gem.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/malachite.png"],
+      "title": "Малахит",
+      "text": "Глубина распространения:20-255.Красивый поделочный зеленый камень.Используется для декораций."
+	}
+	  
+	
+  ]
+}

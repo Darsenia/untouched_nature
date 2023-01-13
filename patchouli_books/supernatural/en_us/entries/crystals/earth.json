@@ -1,0 +1,16 @@
+{
+  "name": "Earth Crystal",
+  "category": "crystals",
+  "icon": "untouched_nature:textures/items/crystal_shard_earth.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cry_earth.png"],
+      "title": "Earth Crystal",
+      "text": "Giant green crystals, common in forest biomes.Element:earth."
+	}
+	  
+	
+  ]
+}

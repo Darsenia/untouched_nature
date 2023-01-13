@@ -1,0 +1,23 @@
+{
+  "name": "Мандарин",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_mandarin.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitmandarin",
+      "title": "Мандарин",
+      "text": "Применение:фруктовый салат,цыпленок с лонганом."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/mandarin.png"],
+      "title": "Мандарин",
+      "text": "Мандарин растет в lush mixed forest, lush hills, lush peaks valley."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Пушица",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/blocks/highgrass_cotton_grass.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unhighgrasscottongrass",
+      "title": "Пушица",
+      "text": "Пушица-высокая дикая трава,растущая в северных и умеренных широтах  в полях.Соберите пушицу для получения пуха.Пушицу нельзя культивировать."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemcottongrasspuff",
+      "title": "Пух пушицы",
+      "text": "Пух пушицы используется для получения блоков шерсти."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Базовые инструменты",
+    "description": "Существует несколько инструментов,которые необходимы для магического ремесла.",
+	"icon": "untouched_nature:textures/items/dark_dagger.png",
+	"sortnum": 3
+    }

@@ -1,0 +1,23 @@
+{
+  "name": "Огурец",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_cucumber_4.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodcucumber",
+      "title": "Огурец",
+      "text": "Применение:соленые огурцы,шаверма,роллы."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cucumber.png"],
+      "title": "Огурцы",
+      "text": "Огурец растет в умеренном и теплом климате."
+	}
+	  
+	
+  ]
+}

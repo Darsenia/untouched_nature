@@ -1,0 +1,28 @@
+{
+  "name": "Лотос",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/lotus_flower.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lotus.png"],
+      "title": "Лотосы",
+      "text": "Лотосы-прекрасные огромные цветы,похожие на кувшинки,растут на мелководье в азиатских биомах."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlotusflower",
+      "title": "Цветок лотоса",
+      "text": "Из собранного растения лотоса можно получить цветок."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlotuspetals",
+      "title": "Лепестки лотоса",
+      "text": "Из цветка лотоса можно получить лепестки.Лепестки лотоса-ингредиент вина из лотоса."
+	}
+	  
+	
+  ]
+}

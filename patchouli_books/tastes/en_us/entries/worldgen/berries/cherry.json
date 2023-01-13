@@ -1,0 +1,23 @@
+{
+  "name": "Cherry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_cherry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitcherry",
+      "title": "Cherry",
+      "text": "Usage: juice, jam, wine."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cherry.png"],
+      "title": "Cherry tree",
+      "text": "Cherry tree grows in forests."
+	}
+	  
+	
+  ]
+}

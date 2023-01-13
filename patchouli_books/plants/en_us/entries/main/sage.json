@@ -1,0 +1,17 @@
+{
+  "name": "Aromatic Sage",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_aromatic_sage.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/sage.png"],
+      "title": "Aromatic Sage",
+	  "text": "Distribution: Warm Meadow / plains if vanilla world enabled."
+	  
+  }
+	  
+	
+  ]
+}

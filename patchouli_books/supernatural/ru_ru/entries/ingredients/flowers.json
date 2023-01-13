@@ -1,0 +1,20 @@
+{
+  "name": "Цветки",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/rose_flower.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Цветки",
+      "text": "В Столе Травника можно получить цветки следующих растений: дурман,барвинок,календула,липа; а также лепестки шафрана и семена мака.Также есть загадочный цветок папоротника,который нужно срезать ножницами."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/flowers.png"]
+	 
+	}
+	  
+	
+  ]
+}

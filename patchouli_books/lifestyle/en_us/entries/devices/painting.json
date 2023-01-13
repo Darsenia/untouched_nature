@@ -1,0 +1,24 @@
+{
+  "name": "Painting Machine",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/painting.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockpaintingmachine",
+      "title": "Painting Machine",
+      "text": "It is a special crafting device, that is used for painting different blocks in all vanilla colors+custon ones.You can see more info using Info button in there."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguipaintingmachine.png"],      
+      "text": "The interface of the machine."
+	}
+	,
+	{
+	  "type": "text",         
+      "text": "Put paint into the red slot.An input material goes to the left slot,click the Paint It! button and take an output from the right slot."
+	}
+  ]
+}

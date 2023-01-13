@@ -1,0 +1,53 @@
+{
+  "name": "Stove",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/stove.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Stove",
+      "text": "Stove is a big furnace,that allows to cook advanced meals.The Stove itself is fully functional, but for decorative purposes it can be upgraded by stove blocks, stairs and slabs.Currently stove is used to prepare meals in roaster, pan(pancakes) or directly(bread).Fire the stove by any lighter, then place inside the roaster,pan or dough.Right-click to take out, but use the oven glove to protect hands."
+	},
+	{
+	  "type": "image",      
+      "title": "Stove working",
+      "images": ["untouched_nature:textures/renders/stove_big.png"]
+	  
+	}	,
+	{
+	  "type": "image",      
+      "title": "Stove kitchenware",
+      "images": ["untouched_nature:textures/renders/kitchenware.png"]
+	  
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipejamaicabreadfruit",
+	 "recipe2": "untouched_nature:unrecipecabbagerolls"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipechickenfigs",
+	 "recipe2": "untouched_nature:unrecipechickenlongan"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipeporkmangosteen",
+	 "recipe2": "untouched_nature:unrecipeporklongan"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipesalmonpassionfruit",
+	 "recipe2": "untouched_nature:unrecipepassionfruitcasserole"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipemangosteenclafouti",
+	 "recipe2": "untouched_nature:unrecipepancake"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unrecipedough"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Водоросли",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/seaweed_item.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/seaweed.png"],
+      "title": "Seaweed in the ocean",
+      "text": "Водоросли растут в океанах,это легко доступный источник пищи."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemseaweed",
+      "title": "Водоросли",
+      "text": "Водоросли,выпавшие при разрушении блока."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemseaweedbunch",
+      "title": "Пучок водорослей",
+      "text": "Водоросли-ингредиент супа с водорослями и роллов."
+	}
+	  
+	
+  ]
+}

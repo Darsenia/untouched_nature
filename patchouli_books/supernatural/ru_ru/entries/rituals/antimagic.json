@@ -1,0 +1,29 @@
+{
+  "name": "Амулет Антимагии",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/blocks/amulet_antimagic_2.png",
+  "sortnum":14,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Амулет Антимагии",
+      "text1": "Деревянный амулет,напитанный зельем антимагии.",
+	  "text2": "Жертва: пряжа.",
+	  "text3": "Юпитер: деревянный амулет",
+	  "text4": "Плутон: Зелье Антимагии",
+	  "text5": "",
+	  "text6": ""
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_antimagic.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

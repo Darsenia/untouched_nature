@@ -1,0 +1,21 @@
+{
+  "name": "Magical Fishing Net",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/fishing_net.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemfishingnet",
+      "title": "Magical Fishing Net",
+      "text": "Magical Fishing Net is a special fishing net, that is used for fishing out mermaid scales from water."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:uncraftfishingnet"
+	 
+	}
+	  
+	
+  ]
+}

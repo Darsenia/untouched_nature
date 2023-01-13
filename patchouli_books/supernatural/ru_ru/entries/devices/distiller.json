@@ -1,0 +1,27 @@
+{
+  "name": "Дистиллятор",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/distiller.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockdistillerready",
+      "title": "Дистиллятор",
+      "text": "Дистиллятор позволяет получить особые вещества из исходной смеси,такие как эфирные масла или спирт.Ароматные растения(шалфей,лаванда,мята,роза,вербена,полынь)используются для получения масел,корни асфоделя-для получения чистого спирта,картофель-обычного спирта."
+	},
+  {
+  "type": "text",
+  "text": "Зажгите дистиллятор и положите растение внутрь.По окончании процесса наберите продукт бутылкой."
+  
+  },
+	{
+	  "type": "image",  
+      "title": "Рецепты" , 	  
+     "images": ["untouched_nature:textures/renders/distiller_recipes.png"]
+	 
+	}
+	  
+	
+  ]
+}

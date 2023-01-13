@@ -1,0 +1,23 @@
+{
+  "name": "Window Workbench",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/window.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwindowfactorymain",
+      "title": "Window Workbench",
+      "text": "It is a special crafting table, that is used for making various types of glass blocks/panes.Click Next/Back buttons to see different options."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/unguiwindowfactory.png"],      
+      "text": "The interface of the workbench."
+	},
+	{
+	 "type": "text",      
+     "text": "Put stone hammer and chisel into the pink slots of the table.An input material goes to the left slot,click the desired pattern button and take an output from the right slot."
+	}
+  ]
+}

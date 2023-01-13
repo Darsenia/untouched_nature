@@ -1,0 +1,25 @@
+{
+  "name": "Curing Elixir",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_curing_16.png",
+  "sortnum":2,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Curing Elixir",
+      "text1": "Curing Elixir is a basic good healing potion.",
+	  "text2": "Time: 1000 ticks.",
+	  "text3": "Effects: instant health III, regeneration III, health boost III.",
+	  "text4": "Initial solvent: water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/curing.png"]
+	  
+	}
+	  
+	
+  ]
+}

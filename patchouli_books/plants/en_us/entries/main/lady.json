@@ -1,0 +1,17 @@
+{
+  "name": "Lady Slipper",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_lady_slipper.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lady.png"],
+      "title": "Lady Slipper",
+	  "text": "Distribution: Roofed Forest, Cypress Swamp"
+	  
+  }
+	  
+	
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Маракуйя",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_passionfruit.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpassionfruit",
+      "title": "Маракуйя",
+      "text": "Очень красивая лиана и вкусные плоды.Применение: фруктовый салат,рис с маракуйей,запеканка с маракуйей,лосось с маракуйей."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/passionfruit.png"],
+      "title": "Лиана пассифлора",
+      "text": "Пассифлора растет в тропических биомах."
+	}
+	  
+	
+  ]
+}

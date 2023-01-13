@@ -1,0 +1,23 @@
+{
+  "name": "Личи",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_lychee.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlychee",
+      "title": "Личи",
+      "text": "Применение:фруктовый салат."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lychee.png"],
+      "title": "Личи",
+      "text": "Личи растет в lush peaks valley."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Linen",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/linen_cloth.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantflax",
+      "title": "Flax",
+      "text": "Flax is a wild plant, native to temperate plains-like biomes.Destroying the block with shears will give the plant itself, without shears- flax seeds.Flax can be cultivated with these seeds."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemflax",
+      "title": "Dry flax plant",
+      "text": "When cultivated flax is fully-grown, it can be grabbed to get dry flax.This flax plant can be layed down on a ground.After that beat it with a stick to soften plant fibers and get raw linen fiber."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlinenfiber",
+      "title": "Linen fiber",
+      "text": "Linen fiber is used to spin linen yarn with a spinning wheel."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlinenyarn",
+      "title": "Linen yarn",
+      "text": "Linen yarn is a result of spinning raw linen fiber by a spinning wheel.It can be used to make linen cloth (with a loom) and craft strings."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemlinencloth",
+      "title": "Linen cloth",
+      "text": "Linen cloth is a result of weaving linen yarns.It is used in crafting recipes."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Cape of Invisibility",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/cloak_of_invisibility.png",
+  "sortnum":7,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Cape of Invisibility",
+      "text1": "Mystical cape, that gives full invisibility.Works when worn on body .",
+	  "text2": "Sacrifice: golden yarn.",
+	  "text3": "Moon: cloth",
+	  "text4": "Jupiter: sapphire",
+	  "text5": "Venus: air crystal",
+	  "text6": "Pluto: Ghost Whispering"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Ritual directions",
+      "images": ["untouched_nature:textures/renders/ritual_cape.png"],
+	  "text": "Key symbols are glowing."
+	  
+	}
+	  
+	
+  ]
+}

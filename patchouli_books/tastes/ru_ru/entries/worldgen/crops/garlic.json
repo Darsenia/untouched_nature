@@ -1,0 +1,23 @@
+{
+  "name": "Чеснок",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/plant_garlic.png",
+  "sortnum": 3,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodgarlic",
+      "title": "Garlic",
+      "text": "Применение:в магических целях+гирлянда из чеснока;ямайское блюдо,суп из водорослей,цыпленок с инжиром."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/garlic.png"],
+      "title": "Чеснок",
+      "text": "Чеснок растет в полях."
+	}
+	  
+	
+  ]
+}

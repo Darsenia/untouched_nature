@@ -1,0 +1,16 @@
+{
+  "name": "Chalcedony",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/chalcedony.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/chalcedony.png"],
+      "title": "Chalcedony",
+      "text": "Height:35-90.Misty-white-blue gemstone.Patron:Moon;element:air."
+	}
+	  
+	
+  ]
+}

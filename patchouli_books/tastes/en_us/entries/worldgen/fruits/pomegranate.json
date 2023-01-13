@@ -1,0 +1,23 @@
+{
+  "name": "Pomegranate",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pomegranate.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpomegranate",
+      "title": "Pomegranate",
+      "text": "Usage: fruit salad, pumpkin salad, juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pomegranate.png"],
+      "title": "Pomegranate tree",
+      "text": "Pomegranate tree grows in japanese maple forest."
+	}
+	  
+	
+  ]
+}

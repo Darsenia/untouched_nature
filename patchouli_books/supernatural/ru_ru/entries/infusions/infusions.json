@@ -1,0 +1,22 @@
+{
+  "name": "Отвары",
+  "category": "infusions",
+  "icon": "untouched_nature:textures/items/infusion_reindeer_moss_16.png",
+  "sortnum":1,
+  "pages": [
+  
+	{
+	  "type": "text",      
+      "title": "Отвары",
+      "text": "Отвары-простейшие зелья,сделанные на воде из одного ингредиента.Есть 5 видов отваров: из пижмы, лука, чеснока, оленьего мха, бадана.Изготавливаются в Колдовском Котле."
+	},
+	{
+	  "type": "image",      
+      "title": "Рецепты",
+      "images": ["untouched_nature:textures/renders/infusions.png"]
+	  
+	}
+	  
+	
+  ]
+}

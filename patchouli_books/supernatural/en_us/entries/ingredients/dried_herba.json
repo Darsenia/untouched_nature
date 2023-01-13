@@ -1,0 +1,20 @@
+{
+  "name": "Dried herba",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/herba_hanging_african_wormwood_dried.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Dried herba",
+      "text": "Nettle, wormwood, ledum and potentilla herba can be dried by placing it on the ceiling block and waiting util it turns brown."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/dried_herba.png"]
+	 
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Краски",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/paint_lime.png",
+  "sortnum": 14,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempaintlime",
+      "title": "Краски",
+      "text": "Краска-маленькая порция цветного пигмента,использующаяся в Окрашивающей Машине.Из 1 красителя получается 8 порций краски."
+	}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Beryl",
+  "category": "gemstones",
+  "icon": "untouched_nature:textures/items/beryl.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/beryl.png"],
+      "title": "Beryl",
+      "text": "Height:35-90.Precious light-blue gemstone.Patron:Moon,Venus;element:water."
+	}
+	  
+	
+  ]
+}

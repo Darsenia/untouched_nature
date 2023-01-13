@@ -1,0 +1,16 @@
+{
+  "name": "Волос ведьмы",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/hair_witch.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcathair",
+      "title": "Волос ведьмы",
+      "text": "Волосы ведьмы можно получить...да-да,с ведьмы,но так просто она их не отдаст.Придется убить ведьму кристальным кинжалом (100% шанс)."
+	}
+	  
+	
+  ]
+}

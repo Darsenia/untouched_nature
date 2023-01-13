@@ -1,0 +1,23 @@
+{
+  "name": "Арония",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_chokeberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitchokeberry",
+      "title": "Арония(черноплодная рябина)",
+      "text": "Применение:сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/chokeberry.png"],
+      "title": "Арония",
+      "text": "Арония растет в березовых лесах и в секвойных лесах."
+	}
+	  
+	
+  ]
+}

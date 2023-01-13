@@ -1,0 +1,23 @@
+{
+  "name": "Fig",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_fig.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitfig",
+      "title": "Fig",
+      "text": "Usage: fruit salad, pumpkin salad, chicken with  figs."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/fig.png"],
+      "title": "Fig tree",
+      "text": "Fig tree grows in lush mixed forest biome."
+	}
+	  
+	
+  ]
+}

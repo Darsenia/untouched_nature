@@ -1,0 +1,23 @@
+{
+  "name": "Soy beans",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_soy_4.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemsoybeans",
+      "title": "Soy beans",
+      "text": "Usage: soy sauce, soy meat."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/soy.png"],
+      "title": "Soy beans plant",
+      "text": "Soy beans grows in warm and hot biomes."
+	}
+	  
+	
+  ]
+}

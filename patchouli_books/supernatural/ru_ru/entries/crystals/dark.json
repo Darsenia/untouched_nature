@@ -1,0 +1,16 @@
+{
+  "name": "Магический Кристалл Мрака",
+  "category": "crystals",
+  "icon": "untouched_nature:textures/items/crystal_shard_dark.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cry_dark.png"],
+      "title": "Магический Кристалл Мрака",
+      "text": "Гигантский темный кристалл,растущий в страшных(spooky) биомах."
+	}
+	  
+	
+  ]
+}

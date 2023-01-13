@@ -1,0 +1,23 @@
+{
+  "name": "Lingonberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_lingonberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlingonberry",
+      "title": "Lingonberry",
+      "text": "Usage: juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lingonberry.png"],
+      "title": "Lingonberry bush",
+      "text": "Lingonberry bush grows in coniferous forests."
+	}
+	  
+	
+  ]
+}

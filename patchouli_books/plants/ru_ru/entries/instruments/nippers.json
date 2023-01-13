@@ -1,0 +1,14 @@
+{
+  "name": "Плоскогубцы",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/nippers.png",
+  "sortnum": 7,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemnippers",
+      "title": "Плоскогубцы",
+      "text": "Используется в рецептах.Поместите в левый красный слот Верстака Стекольщика."
+	}	
+  ]
+}

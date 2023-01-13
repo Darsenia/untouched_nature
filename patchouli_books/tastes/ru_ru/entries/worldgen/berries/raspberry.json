@@ -1,0 +1,23 @@
+{
+  "name": "Малина",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_raspberry2.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitraspberry",
+      "title": "Малина",
+      "text": "Применение:сок,варенье.Куст малины вырастает до 3 блоков в высоту,но укоренить можно лишь нижний блок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/raspberry.png"],
+      "title": "Куст малины",
+      "text": "Малина растет в умеренных лиственных и хвойных лесах."
+	}
+	  
+	
+  ]
+}

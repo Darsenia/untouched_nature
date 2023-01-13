@@ -1,0 +1,14 @@
+{
+  "name": "Bamboo stick",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/bamboostick.png",
+  "sortnum": 1,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembamboostick",
+      "title": "Bamboo stick",
+      "text": "A stick, made from bamboo trunks.Can be used in every recipe, that require normal stick, as well as in crafting bamboo decorative blocks."
+	}
+	]
+}

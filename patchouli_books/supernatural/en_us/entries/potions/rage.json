@@ -1,0 +1,25 @@
+{
+  "name": "Brew of Rage",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/brew_rage.png",
+  "sortnum":11,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Brew of Rage",
+      "text1": "Brew of Rage is a legendary brew, that makes one almost invulnerable and fierce in battle.Beware the forthcoming hangover, it would be cruel.",
+	  "text2": "Time: 1800 ticks.",
+	  "text3": "Effects: heals and protects against Weakness, Slowness, Hunger and Poison, adds Resistance IV, Strenght 6, Absorption III, Slow Falling I.",
+	  "text4": "Initial solvent: spirit."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/rage.png"]
+	  
+	}
+	  
+	
+  ]
+}

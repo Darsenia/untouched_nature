@@ -1,0 +1,23 @@
+{
+  "name": "Lychee",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_lychee.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlychee",
+      "title": "Lychee",
+      "text": "Usage: fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lychee.png"],
+      "title": "Lychee tree",
+      "text": "Lychee tree grows in lush peaks valley biome."
+	}
+	  
+	
+  ]
+}

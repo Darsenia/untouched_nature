@@ -1,0 +1,16 @@
+{
+  "name": "Big wicker basket",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/wicker_basket.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockwickerbigbasket",
+      "title": "Big wicker basket",
+      "text": "It is a really spacious basket, made from straw wicker.It has two layers of storage, that can be swithced by buttons, and can hold 128 stacks of items.The next great thing about it is that it keep all items inside when destroyed."
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Nippers",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/nippers.png",
+  "sortnum": 7,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemnippers",
+      "title": "Nippers",
+      "text": "Useful for crafting recipes.Should be placed in the Glass Worker's Table left red slot."
+	}	
+  ]
+}

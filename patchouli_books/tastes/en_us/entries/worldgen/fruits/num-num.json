@@ -1,0 +1,23 @@
+{
+  "name": "Num-num",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_num-num.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitnumnum",
+      "title": "Num-num",
+      "text": "Similar to a plum african fruit.Usage: fruit salad, jam, wine, pork with mangosteen."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/numnum.png"],
+      "title": "Num-num tree",
+      "text": "Num-num tree grows in hot and dry biomes, like savanna."
+	}
+	  
+	
+  ]
+}

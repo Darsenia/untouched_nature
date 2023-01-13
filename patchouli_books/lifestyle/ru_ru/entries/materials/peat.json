@@ -1,0 +1,20 @@
+{
+  "name": "Торф",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/peat_brick.png",
+  "sortnum": 11,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitempeatbrick",
+      "title": "Торфяной брикет",
+      "text": "Торф-хорошее топливо.Получить торф можно из торфяной земли."
+	},
+		{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockswampsoil",
+      "title": "Торфяная земля",
+      "text": "Торфяная земля распространена в болотах, и является источником торфа."
+	}
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Алхимический стол",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/alchemical.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockalchemicaltable",
+      "title": "Алхимический стол",
+      "text": "Алхимический стол-специальный стол с инструментами алхимика.Используется для трансмутации металлов."
+	},
+	{
+	"type": "relations",
+	"entries": ["ingredients/metals"],
+	"title": "Связанные страницы"
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Мочалка из мха",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/moss_sponge.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemmosswisp",
+      "title": "Мочалка из мха",
+      "text": "Мочалка из мха используется для очистки котлов.Шифт-правый клик на котле,алхимическом столе для очистки."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipemosswisp"
+	 
+	}
+	  
+	
+  ]
+}

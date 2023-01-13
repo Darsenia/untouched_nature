@@ -1,0 +1,16 @@
+{
+  "name": "Wither Fork Bone",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/wither_fork_bone.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemwitherforkbone",
+      "title": "Wither Fork Bone",
+      "text": "Wither Fork Bone can be get by killing a Wither Skeleton with a Crystal Dagger (25% chance).It is used for spinning gold from a straw and for some other needs."
+	}
+	  
+	
+  ]
+}

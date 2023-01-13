@@ -1,0 +1,23 @@
+{
+  "name": "Апельсин",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_orange.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitorange",
+      "title": "Апельсин",
+      "text": "Применение:фруктовый салат и сок."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/orange.png"],
+      "title": "Апельсиновое дерево",
+      "text": "Апельсины растут в Lush Mixed Forest."
+	}
+	  
+	
+  ]
+}

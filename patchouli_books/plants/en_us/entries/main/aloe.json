@@ -1,0 +1,18 @@
+{
+  "name": "Aloe",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_big_aloe.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/aloe.png"],
+      "title": "Aloe",
+	  "text": "Distribution: Hot Grove, Dry Plains."
+	  
+	  
+  }
+	  
+	
+  ]
+}

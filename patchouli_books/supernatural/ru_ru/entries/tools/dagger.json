@@ -1,0 +1,21 @@
+{
+  "name": "Кристальный кинжал",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/dark_dagger.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:untoolcrystaldagger",
+      "title": "Кристальный кинжал",
+      "text": "Кристальный кинжал-драгоценный жертвенный кинжал.Существа,убитые этим кинжалом,имеют шанс дать особенный лут.Овца-(10%)желудок овцы,скелет-иссушитель-(25%)кость,крипер-(25%) кожу крипера,ведьма-(100%)волос ведьмы.Также используется для получения человеческой крови."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipecrystaldagger"
+	 
+	}
+	  
+	
+  ]
+}

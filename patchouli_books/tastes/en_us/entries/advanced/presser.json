@@ -1,0 +1,33 @@
+{
+  "name": "Presser",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/presser.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Presser",
+      "text": "Presser is a simple device, used for squeezing products in order to get the liquid.Currently presser is used for making fruit mash(from oregon grape, ice purple, rowan, num-num, marula) and oils (from olive paste, flax paste).Right-click with berry basket or bucket(olive,flax) to place them in the presser.Click with the wooden bucket to take out raw mash or glass bottle to take the flax or olive oil."
+	},
+	
+  
+	{
+	  "type": "text",    	  
+     "text": "* P.S. New recipes may be added when the mod updates, so you may find new recipes on the next page: "
+	 
+	},
+	
+  
+	{
+	  "type": "text",    	  
+     "text": "* Broken coconut --> smashed coconut pulp "
+	 
+	},
+	{
+	  "type": "image",      
+      "title": "Presser recipes",
+      "images": ["untouched_nature:textures/renders/presser_recipes.png"],
+	  "text": "Left-click to turn the handle until the process is ready."
+	}	
+  ]
+}

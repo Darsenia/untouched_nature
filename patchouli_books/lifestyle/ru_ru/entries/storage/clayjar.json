@@ -1,0 +1,21 @@
+{
+  "name": "Глиняные горшочки",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/clay_jar.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockclayjarpurple",
+      "title": "Глиняные горшочки",
+      "text": "Глиняные горшочки бывают всех цветов,они симпатичные и хранят в себе 4 стака предметов."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/jars.png"],      
+      "text": "Горшочки"
+	}
+	  
+	
+  ]
+}

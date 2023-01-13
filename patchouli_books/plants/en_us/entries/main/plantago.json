@@ -1,0 +1,17 @@
+{
+  "name": "Plantago",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_plantago_2.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/plantago.png"],
+      "title": "Plantago",
+	  "text": "Distribution: plains, sunflower plains, extreme hills."
+	  
+  }
+	  
+	
+  ]
+}

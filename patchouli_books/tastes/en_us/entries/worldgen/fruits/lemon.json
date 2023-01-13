@@ -1,0 +1,23 @@
+{
+  "name": "Lemon",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_lemon.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitlemon",
+      "title": "Lemon",
+      "text": "Usage: lemon juice."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/lemon.png"],
+      "title": "Lemon tree",
+      "text": "Lemon tree grows in poplar grove, poplar hills, warm mixed forest biomes."
+	}
+	  
+	
+  ]
+}

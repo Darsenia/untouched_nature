@@ -1,0 +1,70 @@
+{
+  "name": "Mushrooms",
+  "category": "worldgen",
+  "icon": "untouched_nature:textures/items/shroom_yakoh-take_glow.png",
+  "sortnum": 5,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitembluemushroom",
+      "title": "Blue mushroom",
+      "text": "Inedible.Small blue mushroom.Grows in tropical biomes."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroombrainshroom",
+      "title": "Brain Mushroom",
+      "text": "Edible.Strange mushroom,similar to a brain.Grows in Swamplands, Wicked Lands, Temperate Fir Forest."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomdevilstooth",
+      "title": "Devil's Tooth",
+      "text": "Inedible.Sinister-looking mushroom.Grows in Wicked Lands."
+	},{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomgiantpuffball",
+      "title": "Giant Puffball",
+      "text": "Edible.Giant round mushroom.Grows in temperate sparse biomes."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unshroomfoodamanita",
+      "title": "Green Amanita",
+      "text": "...or a Death Cap.Inedible and deadly poisonous!Grows in Wicked Lands and Temperate Fir Forest."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemchanterelle",
+      "title": "Chanterelle",
+      "text": "Edible.Tasty mushroom, grows in temperate forests."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemindigo",
+      "title": "Indigo Milkcup",
+      "text": "Edible.Flat blue  mushroom.Grows in temperate and warm forests."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemyakohtake",
+      "title": "Yakoh-Take",
+      "text": "Inedible.Glowing in the darkness mushrooms.Grow in Lush(asian)biomes."
+	},
+	{	
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemamethystdeceiver",
+      "title": "Amethyst Deceiver",
+      "text": "Edible.Purple small mushrooms.Grow in temperate coniferous forests."
+	},
+	 {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/shrooms.png"],
+      "title": "Big mushrooms",
+      "text": "Big mushrooms grow in magical biomes.Decorative only."
+	}
+	  
+	
+  ]
+}

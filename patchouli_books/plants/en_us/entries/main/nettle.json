@@ -1,0 +1,21 @@
+{
+  "name": "Nettle",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/bush_nettle.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/nettle.png"],
+      "title": "Nettle",
+	  "text": "Distribution: Forest, Forest Lowlands, Wet Forest, Schrublands, Birch Forest, Temperate Fir Forest."
+	  
+  },
+   	{
+	  "type": "text",      
+      "text": "Nettle is a high weed plant, stinging and irritating skin when touched."
+	}
+	  
+	
+  ]
+}

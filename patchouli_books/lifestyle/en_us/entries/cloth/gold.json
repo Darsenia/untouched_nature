@@ -1,0 +1,22 @@
+{
+  "name": "Golden thread",
+  "category": "cloth",
+  "icon": "untouched_nature:textures/items/golden_yarn.png",
+  "sortnum": 6,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemgoldenthreadonbone",
+      "title": "Golden thread",
+      "text": "Golden thread is a result of spinning straw by a spinning wheel, but you will need a Wither Fork Bone in the off-hand to do this."
+	},
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemgoldenyarn",
+      "title": "Golden yarn",
+      "text": "Golden yarn can be crafted from Golden Thread.It can be used to get golden nuggets and for other crafting recipes."
+	}
+	  
+	
+  ]
+}

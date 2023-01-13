@@ -1,0 +1,32 @@
+{
+  "name": "Формы для отливки",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/casting.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Формы для отливки",
+      "text": "Формы для отливки позволяют создавать кухонную утварь из чугуна.Сделайте основу для форм,затем в верстаке каменщика изготовьте форму для чугунка(в сетке крафта затем можно менять форму на другие).Разместите форму поверх блока основы.С шифтом можно снять форму."
+	},
+	{
+	  "type": "image",      
+      "title": "Стол для отливки",
+      "images": ["untouched_nature:textures/renders/casting.png"]
+	  
+	}	,
+	{
+	"type": "text",
+	"text": "Из железа и угля сделайте расплав в обычной печке(используйте специальный ковш).Вылейте его в форму для отливки,заберите результат. "
+	
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:unrecipemoltenmetal"	      
+	},
+	{
+	  "type": "smelting",    	  
+     "recipe": "untouched_nature:unmeltcastiron"	      
+	}
+  ]
+}

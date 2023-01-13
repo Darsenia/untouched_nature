@@ -1,0 +1,20 @@
+{
+  "name": "Herba",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/herba_russian_wormwood.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Herba",
+      "text": "Currently there are several types of herba, that can be get by using shears: potentilla, ledum, african and russian wormwood,nettle, hemlock, wolfsbane.Sometimes herba is used directly, otherwise it needs to be dried before use.To dry herba, hang it on the ceiling block and wait until it changes color. "
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/herba.png"]
+	 
+	}
+	  
+	
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Посох Воды",
+  "category": "rituals",
+  "icon": "untouched_nature:textures/items/staff_water.png",
+  "sortnum":3,
+  "pages": [
+  
+	
+	  {
+	"type": "text_ritual",      
+      "title": "Посох Воды",
+      "text1": "Оружие дальнего боя.наносит урон и дает эффект утопления если возможно.Тушит огонь в области 4x4x4.",
+	  "text2": "Жертва: синий цветок.",
+	  "text3": "Луна: берилл",
+	  "text4": "Венера: осколок кристалла воды",
+	  "text5": "Меркурий: серебряный слиток",
+	  "text6": "Марс: палка из ивовой древесины"
+	  },
+	  {
+	  "type": "image",      
+      "title": "Схема ритуала",
+      "images": ["untouched_nature:textures/renders/ritual_water_stuff.png"],
+	  "text": "Ключевые символы подсвечены."
+	  
+	}
+	  
+	
+  ]
+}

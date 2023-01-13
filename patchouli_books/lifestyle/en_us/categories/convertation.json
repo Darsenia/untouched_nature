@@ -1,0 +1,6 @@
+{
+    "name": "Convertation catalogue",
+    "description": "Use in crafting bench with Untouched Nature wood to convert it to the closest vanilla wood type.",
+	"icon": "untouched_nature:textures/items/convertation_book.png",
+	"sortnum": 6
+    }

@@ -1,0 +1,35 @@
+{
+  "name": "Owl's Eyes Drops",
+  "category": "potions",
+  "icon": "untouched_nature:textures/items/potion_eye_drops_16.png",
+  "sortnum":6,
+  "pages": [
+  
+	{
+	"type": "text_potion",      
+      "title": "Owl's Eyes Drops",
+      "text1": "Owl's Eyes Drops gives you an ability to feel the presence of all living entities around.",
+	  "text2": "Time: 3500 ticks.",
+	  "text3": "Effects: highlights all living entities in big area.",
+	  "text4": "Initial solvent: clear water."
+	  },
+	{
+	  "type": "image",      
+      "title": "Ingredients",
+      "images": ["untouched_nature:textures/renders/owls.png"]
+	  
+	},
+	  {
+	  "type": "text",      
+      "title": "Thorny plants",
+      "text": "You can use cactus,any Untouched Nature cactus,arizona thistle and thistle,feverweed,briar branch and briars,witch thorns."
+	  },
+	  {
+	  "type": "text",      
+      "title": "Seed",
+      "text": "You can use wheat,pumpkin,melon and beetroot seeds and seeds from Untouched Nature."
+	  }
+	  
+	
+  ]
+}

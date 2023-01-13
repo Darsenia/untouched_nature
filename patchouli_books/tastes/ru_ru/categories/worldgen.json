@@ -1,0 +1,6 @@
+{
+    "name": "Источники пищи",
+    "description": "Untouched Nature добавляет несколько источников пищи в мир.В этой главе вы найдете основную информацию о них.",
+	"icon": "untouched_nature:textures/items/tomato.png",
+	"sortnum": 1
+    }

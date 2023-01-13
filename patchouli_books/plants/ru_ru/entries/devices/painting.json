@@ -1,0 +1,24 @@
+{
+  "name": "Окрашивающая машина",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/painting.png",
+  "sortnum": 3,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockpaintingmachine",
+      "title": "Окрашивающая машина",
+      "text": "Специальное устройство для окрашивания ванильных блоков и некоторых новых во все цвета.Нажмите кнопку Info для просмотра информации."
+	},
+	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/painting_machine.png"],      
+      "text": "Интерфейс машины."
+	}
+	,
+	{
+	  "type": "text",         
+      "text": "Поместите краску в красный слот,исходный материал в левый слот,нажмите кнопку Paint It! и заберите результат из правого слота."
+	}
+  ]
+}

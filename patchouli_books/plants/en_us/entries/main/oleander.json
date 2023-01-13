@@ -1,0 +1,17 @@
+{
+  "name": "Oleander",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/leaves_oleander.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/oleander.png"],
+      "title": "Oleander",
+	  "text": "Distribution: Hot Grove, savanna m"
+	  
+  }
+	  
+	
+  ]
+}

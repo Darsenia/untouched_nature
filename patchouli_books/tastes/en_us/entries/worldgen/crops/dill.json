@@ -1,0 +1,29 @@
+{
+  "name": "Dill",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/dill_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemdillflowers",
+      "title": "Dill",
+      "text": "Usage: pickled cucumbers."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemdill",
+      "title": "Dill",
+      "text": "Usage: chicken roll, shchi."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/dill.png"],
+      "title": "Dill plant",
+      "text": "Dill grows in temperate and warm plains-like biomes."
+	}
+	  
+	
+  ]
+}

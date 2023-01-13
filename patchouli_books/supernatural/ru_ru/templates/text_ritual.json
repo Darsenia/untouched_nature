@@ -1,0 +1,41 @@
+{
+	"components": [
+		{
+			"type": "text",
+			"text": "#text1"
+			
+		},
+		{
+			"type": "text",
+			"text": "#text2",
+			"y": "50"
+			
+		},
+		{
+			"type": "text",
+			"text": "#text3",
+			"y": "70"
+			
+		},
+		{
+			"type": "text",
+			"text": "#text4",
+			"y": "80"
+			
+		}
+		,
+		{
+			"type": "text",
+			"text": "#text5",
+			"y": "90"
+			
+		}
+		,
+		{
+			"type": "text",
+			"text": "#text6",
+			"y": "100"
+			
+		}
+	]
+}

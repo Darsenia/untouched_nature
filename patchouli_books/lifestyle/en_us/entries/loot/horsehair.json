@@ -1,0 +1,16 @@
+{
+  "name": "Horse Hair Lock",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/horse_hair_lock.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemhorsehairlock",
+      "title": "Horse Hair Lock",
+      "text": "Horse Hair Lock can be get from a horse, if you'll trim it with shears.Horse hair is used for crafting painting brush."
+	}
+	  
+	
+  ]
+}

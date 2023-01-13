@@ -1,0 +1,23 @@
+{
+  "name": "Помидор",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/crop_tomato_5.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfoodtomato",
+      "title": "Помидор",
+      "text": "Применение: шаверма,голубцы,Ямайское блюдо с плодом хлебного дерева."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/tomato.png"],
+      "title": "Помидор",
+      "text": "Помидоры растут в теплом и умеренно жарком климате."
+	}
+	  
+	
+  ]
+}

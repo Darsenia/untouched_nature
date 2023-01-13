@@ -1,0 +1,16 @@
+{
+  "name": "Wormwood",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/bush_russian_wormwood.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/worm_rus.png","untouched_nature:textures/renders/worm_afr.png"],
+      "title": "Wormwood",  
+      "text": "African wormwood.Distribution: savanna.Russian wormwood.Distribution: Schrublands, Steppe, Light Taiga, Wicked Lands / plains if vanilla world enabled"
+	}
+	  
+	
+  ]
+}

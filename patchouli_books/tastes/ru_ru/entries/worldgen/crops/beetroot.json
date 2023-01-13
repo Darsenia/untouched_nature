@@ -1,0 +1,23 @@
+{
+  "name": "Свекла",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/carrots_stage_3.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "minecraft:beetroot",
+      "title": "Свекла",
+      "text": "Применение:борщ."
+	},
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unplantbeetrootwild",
+      "title": "Свекла",
+      "text": "Свекла растет в умернном и теплом климате в полях.Правой кнопкой мыши можно выдернуть корнеплоды из земли."
+	}
+   		  
+	
+  ]
+}

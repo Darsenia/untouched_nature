@@ -1,0 +1,15 @@
+{
+  "name": "Осиновый кол",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/aspen_stake.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unweaponaspenstake",
+      "title": "Осиновый кол",
+      "text": "Осиновый кол не очень хорош в качестве обычного оружия,но безотказно работает против игроков под действия вампирского зелья."
+	}	  
+	
+  ]
+}

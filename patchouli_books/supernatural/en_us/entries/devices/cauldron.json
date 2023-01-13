@@ -1,0 +1,27 @@
+{
+  "name": "Witch's cauldron",
+  "category": "devices",
+  "icon": "untouched_nature:textures/renders/cauldron.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:uncauldronwater",
+      "title": "Witch's cauldron",
+      "text": "Cauldron is a necessary thing for anyone, who wants to cook magical potions.You will need a good source of heat underneath the cauldron in order to use it.Open fire is good enough, but you can also use Magical Burner, that is a much more safe alternative."
+	},
+	{
+  "type": "text",
+  "text": "You can use Chain to lenghten the cauldron's chain hanger.When the cauldron is fired, use a bucket of water or another initial solvent on it.Then start placing ingredients inside.As soon as all the ingredients are placed right, the process of brewing will start.You can use a wooden Ladle to check if you are doing everything right.If you did something wrong, use the Moss Wisp on the cauldron to clean it."
+  
+  },
+	
+	{
+	"type": "relations",
+	"entries": ["potions/roots","potions/flowers","potions/berries","potions/powders"],
+	"title": "Related pages"
+	}
+	  
+	
+  ]
+}

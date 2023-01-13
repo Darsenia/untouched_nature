@@ -1,0 +1,20 @@
+{
+  "name": "Pastry",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/items/raw_parcel_strawberry.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Cooking pastry",
+      "text": "There are two types of pastry: sweet parcels with jams and stuffed buns.Parcels are cooked using any kind of jam and dough pieces.Stuffed buns are made from dough pieces and different products: any meat, chicken, fish, rice and eggs, cabbage.Raw parcels and stuffed buns are cooked in the furnace."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:unreciperawparcelstrawberry",
+	 "recipe2": "untouched_nature:unrecipestuffedbunmeat"
+     
+	}
+	
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bark",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/bark_oak.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Bark",
+      "text": "Bark is another important ingredient.You can get bark from wood by using a stone knife in the crafting grid.There are currently 3 types of bark: oak, dogwood, willow bark.Oak bark is crafted from any oak-like tree logs, as well as willow bark is crafted from any willow tree logs."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/barks.png"]
+	 
+	}
+	  
+	
+  ]
+}

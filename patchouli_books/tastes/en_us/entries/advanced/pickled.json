@@ -1,0 +1,14 @@
+{
+  "name": "Pickled cucumbers",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/jar_pickled_cucumbers.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Pickling cucumbers",
+      "text": "You will need a glass jar, bucket of water, salt, dill flowers, garlic and 10 cucumbers.Click on the jar with a water bucket, then with salt, dill, garlic.Then cucumbers should be placed in 10 times.All the step will be commented by a player in the action bar.When you'll finish with cooking, leave the jar for a while."
+	}
+	
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Moss",
+  "category": "materials",
+  "icon": "untouched_nature:textures/items/moss.png",
+  "sortnum": 10,
+  "pages": [
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemmoss",
+      "title": "Moss",
+      "text": "Moss can be get from any kind of moss plants,as well as from mossy vines.Using a stone knife while sneaking on any kind of vanilla mossy stone/cobblestone will give you moss too.Moss is important for performing magic and some other purposes."
+	}
+	]
+}

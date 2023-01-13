@@ -1,0 +1,17 @@
+{
+  "name": "St'Johns Wort",
+  "category": "main",
+  "icon": "untouched_nature:textures/blocks/plant_st.john's_wort.png",
+  "sortnum": 0,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/wort.png"],
+      "title": "St'Johns Wort",
+	  "text": "Distribution: Forest, Temperate Fir Forest, sunflower plains."
+	  
+  }
+	  
+	
+  ]
+}

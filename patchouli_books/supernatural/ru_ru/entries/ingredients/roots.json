@@ -1,0 +1,20 @@
+{
+  "name": "Корни",
+  "category": "ingredients",
+  "icon": "untouched_nature:textures/items/root_mandrake.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "text",      
+      "title": "Корни",
+      "text": "Корни-подземная часть растений,использующаяся в лечебных и магических целях.Поместите растение в Стол Травника и нажмите на кнопку Carve.На данный момент есть 7 видов корней:родиола,валериана,асфодель,мандрагора,женьшень,кровохлебка,корни орхидей."
+	  },
+	{
+	  "type": "image",    	  
+     "images": ["untouched_nature:textures/renders/roots.png"]
+	 
+	}
+	  
+	
+  ]
+}

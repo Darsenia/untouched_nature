@@ -1,0 +1,23 @@
+{
+  "name": "Гранат",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pomegranate.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpomegranate",
+      "title": "Гранат",
+      "text": "Применение:сок,фруктовый салат,салат из тыквы."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pomegranate.png"],
+      "title": "Гранатовое дерево",
+      "text": "Гранатовое дерево произрастает в Japanese Maple Forest(японском кленовом лесу)."
+	}
+	  
+	
+  ]
+}

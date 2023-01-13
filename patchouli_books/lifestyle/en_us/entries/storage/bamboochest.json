@@ -1,0 +1,16 @@
+{
+  "name": "Bamboo chest",
+  "category": "storage",
+  "icon": "untouched_nature:textures/renders/bamboo_chest.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unblockbamboochestopen",
+      "title": "Bamboo chest",
+      "text": "Bamboo chest is a simple(not double) chest, but made from bamboo.Right-click to open and right-click to close after use."
+	}
+	  
+	
+  ]
+}

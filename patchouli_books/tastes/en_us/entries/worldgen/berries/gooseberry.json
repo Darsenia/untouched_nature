@@ -1,0 +1,23 @@
+{
+  "name": "Gooseberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_gooseberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitgooseberry",
+      "title": "Gooseberry",
+      "text": "Usage: jam."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/gooseberry.png"],
+      "title": "Gooseberry bush",
+      "text": "Gooseberry bush grows in temperate hills and mountains."
+	}
+	  
+	
+  ]
+}

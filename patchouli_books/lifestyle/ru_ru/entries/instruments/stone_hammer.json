@@ -1,0 +1,14 @@
+{
+  "name": "Каменный молот",
+  "category": "instruments",
+  "icon": "untouched_nature:textures/items/hammer.png",
+  "sortnum": 8,
+  "pages": [	
+	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemstonehammer",
+      "title": "Каменный молот",
+      "text": "Используется в рецептах.Положите каменный молот в правый коричневый слот Верстака Каменщика или в правый розовый слот Верстака для создания окон."
+	}
+  ]
+}

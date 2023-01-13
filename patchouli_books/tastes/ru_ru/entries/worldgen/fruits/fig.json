@@ -1,0 +1,23 @@
+{
+  "name": "Инжир",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_fig.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitfig",
+      "title": "Инжир",
+      "text": "Применение:фруктовый салат,салат из тыквы,цыпленок с инжиром."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/fig.png"],
+      "title": "Инжир",
+      "text": "Инжир растет в lush mixed forest."
+	}
+	  
+	
+  ]
+}

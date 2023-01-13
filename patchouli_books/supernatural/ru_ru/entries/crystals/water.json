@@ -1,0 +1,16 @@
+{
+  "name": "Магический Глубинный Кристалл",
+  "category": "crystals",
+  "icon": "untouched_nature:textures/items/crystal_shard_water.png",
+  "sortnum": 3,
+  "pages": [
+  {
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cry_water.png"],
+      "title": "Магический Глубинный Кристалл",
+      "text": "Гигантский синеватый кристалл,растущий в водных биомах и Lush needle peaks."
+	}
+	  
+	
+  ]
+}

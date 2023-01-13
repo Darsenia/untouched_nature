@@ -1,0 +1,6 @@
+{
+    "name": "Предметы из существ",
+    "description": "Существует несколько предметов, которые можно получить только из существ.",
+	"icon": "untouched_nature:textures/items/wither_fork_bone.png",
+	"sortnum": 7
+    }

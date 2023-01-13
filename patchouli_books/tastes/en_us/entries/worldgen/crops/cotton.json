@@ -1,0 +1,23 @@
+{
+  "name": "Cotton",
+  "category": "worldgen/crops",
+  "icon": "untouched_nature:textures/blocks/bush_cotton.png",
+  "sortnum": 2,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unbushcotton",
+      "title": "Cotton",
+      "text": "Usage: make cotton yarn and cloth."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/cotton.png"],
+      "title": "Cotton plant",
+      "text": "Cotton grows in warm plains-like biomes."
+	}
+	  
+	
+  ]
+}

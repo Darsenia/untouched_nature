@@ -1,0 +1,16 @@
+{
+  "name": "Witch's Hair",
+  "category": "loot",
+  "icon": "untouched_nature:textures/items/hair_witch.png",
+  "sortnum": 4,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unlootcathair",
+      "title": "Witch's Hair",
+      "text": "Witch's Hair can be get ... yeah, from a witch.You'll have to kill the witch with a crystal dagger (100% chance)."
+	}
+	  
+	
+  ]
+}

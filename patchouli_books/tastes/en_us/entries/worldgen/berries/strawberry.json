@@ -1,0 +1,23 @@
+{
+  "name": "Strawberry",
+  "category": "worldgen/berries",
+  "icon": "untouched_nature:textures/items/fruit_wild_strawberry.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitstrawberry",
+      "title": "Strawberry",
+      "text": "Sweet strawberry.Usage: juice, jam."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/strawberry.png"],
+      "title": "Strawberry bush",
+      "text": "Strawberry grows in temperate plains-like biomes."
+	}
+	  
+	
+  ]
+}

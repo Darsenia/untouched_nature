@@ -1,0 +1,23 @@
+{
+  "name": "Pineapple",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_pineapple.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitpineapple",
+      "title": "Pineapple",
+      "text": "Usage: must be sliced and slices are used in fruit salad."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/pineapple.png"],
+      "title": "Pineapple plant",
+      "text": "Pineapple grows in tropical biomes."
+	}
+	  
+	
+  ]
+}

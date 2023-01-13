@@ -1,0 +1,23 @@
+{
+  "name": "Киви",
+  "category": "worldgen/fruits",
+  "icon": "untouched_nature:textures/items/fruit_kiwi.png",
+  "sortnum": 1,
+  "pages": [
+  
+   	{
+	  "type": "spotlight",
+      "item": "untouched_nature:unfruitkiwi",
+      "title": "Киви",
+      "text": "Применение:фруктовый салат."
+	},
+   	{
+	  "type": "image",
+      "images": ["untouched_nature:textures/renders/actinidia.png"],
+      "title": "Актинидия(киви)",
+      "text": "Лиана актинидия растет в lush peeks valley."
+	}
+	  
+	
+  ]
+}

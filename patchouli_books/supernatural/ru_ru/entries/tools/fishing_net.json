@@ -1,0 +1,21 @@
+{
+  "name": "Волшебная рыболовная сеть",
+  "category": "tools",
+  "icon": "untouched_nature:textures/items/fishing_net.png",
+  "sortnum": 2,
+  "pages": [
+  {
+	  "type": "spotlight",
+      "item": "untouched_nature:unitemfishingnet",
+      "title": "Волшебная рыболовная сеть",
+      "text": "Используется для вылавливания чешуи русалки из воды."
+	},
+	{
+	  "type": "crafting",    	  
+     "recipe": "untouched_nature:uncraftfishingnet"
+	 
+	}
+	  
+	
+  ]
+}

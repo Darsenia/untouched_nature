@@ -1,0 +1,59 @@
+{
+  "name": "Костер",
+  "category": "advanced",
+  "icon": "untouched_nature:textures/renders/firepit.png",
+  "sortnum": 1,
+  "pages": [
+  {
+	  "type": "spotlight",      
+      "title": "Костер",
+	  "item": "untouched_nature:unblockfirepit",
+      "text": "Костер-самый простой способ готовки на природе.Потребуется 3 бревна.Зажгите костер и воткните 2 палки-рогульки по бокам.На палки поместите палочки с едой."
+	},
+	{
+	  "type": "image",      
+      "title": "Стадии костра",
+      "images": ["untouched_nature:textures/renders/firepits.png"]
+	},
+	{
+	  "type": "text",      
+      "title": "Рецепты",
+      "text": "На костре можно приготовить говядину,свинину,баранину,кролика,курицу,треску,лосося,картофель,лисички,коричневые грибы,голубой млечник,куски гриба головача."
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftchickenonastick",
+	 "recipe2": "untouched_nature:uncraftporkonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftbeefonastick",
+	 "recipe2": "untouched_nature:uncraftrabbitonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftmuttononastick",
+	 "recipe2": "untouched_nature:uncraftcodonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftsalmononastick",
+	 "recipe2": "untouched_nature:uncraftpuffballonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftbrownmushroomastick",
+	 "recipe2": "untouched_nature:uncraftindigoonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftrabbitastick",
+	 "recipe2": "untouched_nature:uncraftrottenfleshonastick"     
+	},
+	{
+	  "type": "crafting",      
+     "recipe": "untouched_nature:uncraftchanterelleastick",
+	 "recipe2": "untouched_nature:uncraftpotatoonastick"     
+	}
+  ]
+}
