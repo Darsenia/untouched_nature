@@ -37,7 +37,7 @@ or "Cotton", "Cotton bush", "Cotton bush is a high plant, native to warm and hot
       "title": "Cotton bush",
       "text": "Cotton bush is a high plant, native to warm and hot plains-like biomes.Cotton bush gives cotton fiber when right-clicked, and drop cotton seeds when destroyed.Cotton can be cultivated as a crop, using these seeds."
       
-Look into Patchouli wiki page if need more info. Be sure to create a folder with right language name for your book translations, like en_us.
+Look into Patchouli wiki page if you need more info. Be sure to create a folder with right language name for your book translations, like en_us.
 
 Have fun! ;-)
 
